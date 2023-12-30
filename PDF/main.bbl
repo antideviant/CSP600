@@ -1,0 +1,1579 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{abdulrahman22}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=542ae02f1e2344d0c0e0626bb6c333dc}{%
+           family={Abdulrahman},
+           familyi={A\bibinitperiod},
+           given={M.\bibnamedelimi S.\bibnamedelimi AlSayed},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8b0e2254f79b33353ed33ea45bb194b}{%
+           family={Khder},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1da78f8894234d4d3328bc952d2ebe75}
+      \strng{fullhash}{1da78f8894234d4d3328bc952d2ebe75}
+      \strng{bibnamehash}{1da78f8894234d4d3328bc952d2ebe75}
+      \strng{authorbibnamehash}{1da78f8894234d4d3328bc952d2ebe75}
+      \strng{authornamehash}{1da78f8894234d4d3328bc952d2ebe75}
+      \strng{authorfullhash}{1da78f8894234d4d3328bc952d2ebe75}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2022 ASU International Conference in Emerging Technologies for Sustainability and Intelligent Systems (ICETSIS)}
+      \field{title}{Customers Real Reviews and Feedback Using Mobile Application}
+      \field{type}{Conference Proceedings}
+      \field{year}{2022}
+      \field{pages}{470\bibrangedash 476}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/ICETSIS55481.2022.9888865
+      \endverb
+    \endentry
+    \entry{basaran22}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f05906847555e33640088deeabb8464c}{%
+           family={Basaran},
+           familyi={B\bibinitperiod},
+           given={Dogan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b298ceb6c322a91a446d88f24cbd6efd}{%
+           family={Ventura},
+           familyi={V\bibinitperiod},
+           given={Keti},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bd4cbe9889b14d1feeb6b27cfca16a48}
+      \strng{fullhash}{bd4cbe9889b14d1feeb6b27cfca16a48}
+      \strng{bibnamehash}{bd4cbe9889b14d1feeb6b27cfca16a48}
+      \strng{authorbibnamehash}{bd4cbe9889b14d1feeb6b27cfca16a48}
+      \strng{authornamehash}{bd4cbe9889b14d1feeb6b27cfca16a48}
+      \strng{authorfullhash}{bd4cbe9889b14d1feeb6b27cfca16a48}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pressacademia}
+      \field{title}{Exploring digital marketing in entertainment industry: a case of a digital music platform}
+      \field{type}{Journal Article}
+      \field{year}{2022}
+    \endentry
+    \entry{edlom21}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cf34c06f93a4ef991c98788b9783152e}{%
+           family={Edlom},
+           familyi={E\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1d13ad205ce756af55fdceff7892775}{%
+           family={Karlsson},
+           familyi={K\bibinitperiod},
+           given={Jenni},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{776887feda67704454a833b378c07e32}
+      \strng{fullhash}{776887feda67704454a833b378c07e32}
+      \strng{bibnamehash}{776887feda67704454a833b378c07e32}
+      \strng{authorbibnamehash}{776887feda67704454a833b378c07e32}
+      \strng{authornamehash}{776887feda67704454a833b378c07e32}
+      \strng{authorfullhash}{776887feda67704454a833b378c07e32}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Music Business Research}
+      \field{title}{Hang with Me—Exploring Fandom, Brandom, and the Experiences and Motivations for Value Co-Creation in a Music Fan Community}
+      \field{type}{Journal Article}
+      \field{volume}{10}
+      \field{year}{2021}
+      \field{pages}{17\bibrangedash 31}
+      \range{pages}{15}
+    \endentry
+    \entry{ellis20}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b590901c88ca35379606b2a74f4b00f}{%
+           family={Ellis},
+           familyi={E\bibinitperiod},
+           given={J.\bibnamedelimi Michael},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8b590901c88ca35379606b2a74f4b00f}
+      \strng{fullhash}{8b590901c88ca35379606b2a74f4b00f}
+      \strng{bibnamehash}{8b590901c88ca35379606b2a74f4b00f}
+      \strng{authorbibnamehash}{8b590901c88ca35379606b2a74f4b00f}
+      \strng{authornamehash}{8b590901c88ca35379606b2a74f4b00f}
+      \strng{authorfullhash}{8b590901c88ca35379606b2a74f4b00f}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SKIPPING DISCOVERY? MUSIC DISCOVERY AND PERSONAL MUSIC COLLECTIONS IN THE STREAMING ERA}
+      \field{type}{Conference Proceedings}
+      \field{year}{2022}
+    \endentry
+    \entry{haynes18}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2345812fdc3b39a19f241c26bd3b1dfc}{%
+           family={Haynes},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1921afe85ad4e9f455240fd3338544de}{%
+           family={Marshall},
+           familyi={M\bibinitperiod},
+           given={Lee},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{387abafa54f16e8badbd87de7f552e42}
+      \strng{fullhash}{387abafa54f16e8badbd87de7f552e42}
+      \strng{bibnamehash}{387abafa54f16e8badbd87de7f552e42}
+      \strng{authorbibnamehash}{387abafa54f16e8badbd87de7f552e42}
+      \strng{authornamehash}{387abafa54f16e8badbd87de7f552e42}
+      \strng{authorfullhash}{387abafa54f16e8badbd87de7f552e42}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New Media \& Society}
+      \field{title}{Beats and tweets: Social media in the careers of independent musicians}
+      \field{type}{Journal Article}
+      \field{volume}{20}
+      \field{year}{2018}
+      \field{pages}{1973\bibrangedash 1993}
+      \range{pages}{21}
+    \endentry
+    \entry{hsu18}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9086456949083a4696b386dfc314c464}{%
+           family={Hsu},
+           familyi={H\bibinitperiod},
+           given={Chia-Lin},
+           giveni={C\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc82e1c84dd5e9ab73f1892e7eb9ac69}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Mu-Chen},
+           giveni={M\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dd31a4ba717772f5ce493e484f0947fe}
+      \strng{fullhash}{dd31a4ba717772f5ce493e484f0947fe}
+      \strng{bibnamehash}{dd31a4ba717772f5ce493e484f0947fe}
+      \strng{authorbibnamehash}{dd31a4ba717772f5ce493e484f0947fe}
+      \strng{authornamehash}{dd31a4ba717772f5ce493e484f0947fe}
+      \strng{authorfullhash}{dd31a4ba717772f5ce493e484f0947fe}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Given the growing commercial importance of the “user experience”, better application of gamification. Thus, this study aims at exploring the antecedents and consequences of user experience and its mediating role in an online gamification context. Specifically, this study uses structural equation modeling to test the causal relationships among perceived mobility, utilitarian and hedonic features, user experience, perceived benefits (self-benefit and social benefit), types of perceived value (information value, experiential value, social value, and transaction value), and brand equity (perceived quality, brand loyalty, brand associations, and brand trust) in an online gamification context. Results show that perceived mobility has a significant impact on utilitarian and hedonic features, while perceived mobility and utilitarian and hedonic features influence user experience, which in turn, affects perceived benefits, types of perceived value, and brand equity. Additionally, the mediating effect of user experience is also confirmed in this study. In summary, the findings of this study can help website managers improve their users' perception of benefits, value, and brand equity more effectively and act as a guide to research and development (R&D) of gamification to obtain competitive advantage in the online context.}
+      \field{issn}{0040-1625}
+      \field{journaltitle}{Technological Forecasting and Social Change}
+      \field{title}{How does gamification improve user experience? An empirical investigation on the antecedences and consequences of user experience and its mediating role}
+      \field{type}{Journal Article}
+      \field{volume}{132}
+      \field{year}{2018}
+      \field{pages}{118\bibrangedash 129}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.techfore.2018.01.023
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0040162517305097
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0040162517305097
+      \endverb
+      \keyw{Perceived mobility Utilitarian feature Hedonic feature User experience Perceived benefits Perceived value Brand equity}
+    \endentry
+    \entry{igwenagu16}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0bdb53aa3fb31e4c028133fc15f59760}{%
+           family={Igwenagu},
+           familyi={I\bibinitperiod},
+           given={Chinelo},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {University of Nigeria, Nsukka}%
+      }
+      \list{publisher}{1}{%
+        {LAP Lambert Academic Publishing}%
+      }
+      \strng{namehash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{fullhash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{bibnamehash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{authorbibnamehash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{authornamehash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{authorfullhash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-659-86884-9}
+      \field{title}{Fundamentals of research methodology and data collection}
+      \field{type}{Book}
+      \field{year}{2016}
+    \endentry
+    \entry{jarvekulg21}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b7b07cc0e36a32be9623df4e0d0f46c2}{%
+           family={Järvekülg},
+           familyi={J\bibinitperiod},
+           given={Madis},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=386310bee79c62faaac523a502bd9ed7}{%
+           family={Wikström},
+           familyi={W\bibinitperiod},
+           given={Patrik},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f386731f1cad8c3ebcc12eb4d46c2f85}
+      \strng{fullhash}{f386731f1cad8c3ebcc12eb4d46c2f85}
+      \strng{bibnamehash}{f386731f1cad8c3ebcc12eb4d46c2f85}
+      \strng{authorbibnamehash}{f386731f1cad8c3ebcc12eb4d46c2f85}
+      \strng{authornamehash}{f386731f1cad8c3ebcc12eb4d46c2f85}
+      \strng{authorfullhash}{f386731f1cad8c3ebcc12eb4d46c2f85}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Convergence: The International Journal of Research into New Media Technologies}
+      \field{title}{The emergence of promotional gatekeeping and converged local music professionals on social media}
+      \field{type}{Journal Article}
+      \field{volume}{28}
+      \field{year}{2021}
+      \field{pages}{1358\bibrangedash 1375}
+      \range{pages}{18}
+    \endentry
+    \entry{kaur15}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=42095171aab13fee3de51ab59c40b514}{%
+           family={Kaur},
+           familyi={K\bibinitperiod},
+           given={Anureet},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=a5fc545c999a16e69a702d8af8c23ce4}{%
+           family={Kaur},
+           familyi={K\bibinitperiod},
+           given={Kulwant},
+           giveni={K\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{fullhash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{bibnamehash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{authorbibnamehash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{authornamehash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{authorfullhash}{df244007dbfb9025dbee4f6717fb2a32}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Applications}
+      \field{title}{Suitability of existing Software development Life Cycle (SDLC) in context of Mobile Application Development Life Cycle (MADLC)}
+      \field{type}{Journal Article}
+      \field{volume}{116}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+    \endentry
+    \entry{lee20}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7d69d2615763844397b7d2ee81ca0781}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Jin\bibnamedelima Ha},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce1a023fc548eb891f95551913f271cb}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Anh\bibnamedelima Thu},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d0d6bd4bbc9ddae4f4753a6a941a93eb}
+      \strng{fullhash}{d0d6bd4bbc9ddae4f4753a6a941a93eb}
+      \strng{bibnamehash}{d0d6bd4bbc9ddae4f4753a6a941a93eb}
+      \strng{authorbibnamehash}{d0d6bd4bbc9ddae4f4753a6a941a93eb}
+      \strng{authornamehash}{d0d6bd4bbc9ddae4f4753a6a941a93eb}
+      \strng{authorfullhash}{d0d6bd4bbc9ddae4f4753a6a941a93eb}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Society for Music Information Retrieval Conference}
+      \field{title}{How Music Fans Shape Commercial Music Services: A Case Study of BTS and ARMY}
+      \field{type}{Conference Proceedings}
+      \field{year}{2020}
+    \endentry
+    \entry{leger21}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=925a6cc18ec10e3735ebe98f83831584}{%
+           family={Leger},
+           familyi={L\bibinitperiod},
+           given={Devon},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{925a6cc18ec10e3735ebe98f83831584}
+      \strng{fullhash}{925a6cc18ec10e3735ebe98f83831584}
+      \strng{bibnamehash}{925a6cc18ec10e3735ebe98f83831584}
+      \strng{authorbibnamehash}{925a6cc18ec10e3735ebe98f83831584}
+      \strng{authornamehash}{925a6cc18ec10e3735ebe98f83831584}
+      \strng{authorfullhash}{925a6cc18ec10e3735ebe98f83831584}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Critical Studies in Improvisation / Études critiques en improvisation}
+      \field{title}{Rebuilding the Music Industry through Community: A Case Study of Bandcamp and Twitch during COVID}
+      \field{type}{Journal Article}
+      \field{volume}{14}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+    \endentry
+    \entry{liang22}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=511452886df6c01f90f1f160727e1401}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a83b4d004a391bc0705cf23ecde5b38d}{%
+           family={Willemsen},
+           familyi={W\bibinitperiod},
+           given={Martijn\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9e802f0e36be4729db3d4965c0659d51}
+      \strng{fullhash}{9e802f0e36be4729db3d4965c0659d51}
+      \strng{bibnamehash}{9e802f0e36be4729db3d4965c0659d51}
+      \strng{authorbibnamehash}{9e802f0e36be4729db3d4965c0659d51}
+      \strng{authornamehash}{9e802f0e36be4729db3d4965c0659d51}
+      \strng{authorfullhash}{9e802f0e36be4729db3d4965c0659d51}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Human Computer Interaction}
+      \field{title}{Promoting Music Exploration through Personalized Nudging in a Genre Exploration Recommender}
+      \field{type}{Journal Article}
+      \field{volume}{39}
+      \field{year}{2022}
+      \field{pages}{1495\bibrangedash 1518}
+      \range{pages}{24}
+    \endentry
+    \entry{luca21}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=267b0e6bcab608a51779b5a6e41b162a}{%
+           family={Luca},
+           familyi={L\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{267b0e6bcab608a51779b5a6e41b162a}
+      \strng{fullhash}{267b0e6bcab608a51779b5a6e41b162a}
+      \strng{bibnamehash}{267b0e6bcab608a51779b5a6e41b162a}
+      \strng{authorbibnamehash}{267b0e6bcab608a51779b5a6e41b162a}
+      \strng{authornamehash}{267b0e6bcab608a51779b5a6e41b162a}
+      \strng{authorfullhash}{267b0e6bcab608a51779b5a6e41b162a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Economics of Networks eJournal}
+      \field{title}{User-Generated Content and Social Media}
+      \field{type}{Journal Article}
+      \field{year}{2021}
+    \endentry
+    \entry{mauroner19}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1515f77e3b826408d9234705fbb0eb44}{%
+           family={Mauroner},
+           familyi={M\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1515f77e3b826408d9234705fbb0eb44}
+      \strng{fullhash}{1515f77e3b826408d9234705fbb0eb44}
+      \strng{bibnamehash}{1515f77e3b826408d9234705fbb0eb44}
+      \strng{authorbibnamehash}{1515f77e3b826408d9234705fbb0eb44}
+      \strng{authornamehash}{1515f77e3b826408d9234705fbb0eb44}
+      \strng{authorfullhash}{1515f77e3b826408d9234705fbb0eb44}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Open Journal of Business and Management}
+      \field{title}{Gamification in Management and Other Non-Game Contexts—Understanding Game Elements, Motivation, Reward Systems, and User Types}
+      \field{type}{Journal Article}
+      \field{year}{2019}
+    \endentry
+    \entry{mohd21}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f3445e23dc727622ccd20c2d46791d82}{%
+           family={Mohd\bibnamedelimb Azhar\bibnamedelimb Abu\bibnamedelimb Bakar\bibnamedelimb @\bibnamedelima Azmeer},
+           familyi={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim @\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Ahmad\bibnamedelimb Hisham\bibnamedelimb Zainal\bibnamedelima Abidin},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0,
+           suffix={Adzrool\bibnamedelimb Idzwan\bibnamedelima Ismail},
+           suffixi={A\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim I\bibinitperiod},
+           suffixun=0}}%
+      }
+      \strng{namehash}{f3445e23dc727622ccd20c2d46791d82}
+      \strng{fullhash}{f3445e23dc727622ccd20c2d46791d82}
+      \strng{bibnamehash}{f3445e23dc727622ccd20c2d46791d82}
+      \strng{authorbibnamehash}{f3445e23dc727622ccd20c2d46791d82}
+      \strng{authornamehash}{f3445e23dc727622ccd20c2d46791d82}
+      \strng{authorfullhash}{f3445e23dc727622ccd20c2d46791d82}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Symbiosis of Singing and Stage Performance in the Malaysian Music Industry}
+      \field{type}{Conference Proceedings}
+      \field{year}{2021}
+    \endentry
+    \entry{ong19}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1d682daad186c9d2d57c700eb7bdd378}{%
+           family={Ong},
+           familyi={O\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1d682daad186c9d2d57c700eb7bdd378}
+      \strng{fullhash}{1d682daad186c9d2d57c700eb7bdd378}
+      \strng{bibnamehash}{1d682daad186c9d2d57c700eb7bdd378}
+      \strng{authorbibnamehash}{1d682daad186c9d2d57c700eb7bdd378}
+      \strng{authornamehash}{1d682daad186c9d2d57c700eb7bdd378}
+      \strng{authorfullhash}{1d682daad186c9d2d57c700eb7bdd378}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{THE INDIE ROCK MUSIC SCENE IN KUALA LUMPUR BEFORE 2015}
+      \field{type}{Conference Proceedings}
+      \field{year}{2019}
+    \endentry
+    \entry{robinson20}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a43351345548f8dd672892c827127d62}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={Kyle},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00d0054d2b763892268758224004fc92}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28b51640509c48a3b9b4bbbb0b26c578}{%
+           family={Schedl},
+           familyi={S\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{df59cac0d52956bdf08d203bd08fe824}
+      \strng{fullhash}{d78082550f1a8f99bd964b598075a78c}
+      \strng{bibnamehash}{d78082550f1a8f99bd964b598075a78c}
+      \strng{authorbibnamehash}{d78082550f1a8f99bd964b598075a78c}
+      \strng{authornamehash}{df59cac0d52956bdf08d203bd08fe824}
+      \strng{authorfullhash}{d78082550f1a8f99bd964b598075a78c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Society for Music Information Retrieval Conference}
+      \field{title}{User Insights on Diversity in Music Recommendation Lists}
+      \field{type}{Conference Proceedings}
+      \field{year}{2020}
+    \endentry
+    \entry{shanmugam19}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d436e5efd1aa75f69fdecee140ab9d80}{%
+           family={Shanmugam},
+           familyi={S\bibinitperiod},
+           given={Letchumanan},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ab200700fafee6e1b23f5a4d2a95cd6}{%
+           family={Yassin},
+           familyi={Y\bibinitperiod},
+           given={Siti\bibnamedelima Fatimah},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0c629e5d4ee324956d143e3bb281fdd}{%
+           family={Khalid},
+           familyi={K\bibinitperiod},
+           given={Fariza},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84729b74a8ba35588088254c6f0e15f6}
+      \strng{fullhash}{71ce33628d3bee305833f9f89d0b391f}
+      \strng{bibnamehash}{71ce33628d3bee305833f9f89d0b391f}
+      \strng{authorbibnamehash}{71ce33628d3bee305833f9f89d0b391f}
+      \strng{authornamehash}{84729b74a8ba35588088254c6f0e15f6}
+      \strng{authorfullhash}{71ce33628d3bee305833f9f89d0b391f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Int. J. Eng. Adv. Technol}
+      \field{title}{Incorporating the elements of computational thinking into the Mobile Application Development Life Cycle (MADLC) model}
+      \field{type}{Journal Article}
+      \field{year}{2019}
+    \endentry
+    \entry{silahudin19}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bc8346e6b47900a338f68f0c841a684d}{%
+           family={Silahudin},
+           familyi={S\bibinitperiod},
+           given={Shafaatussara},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bc8346e6b47900a338f68f0c841a684d}
+      \strng{fullhash}{bc8346e6b47900a338f68f0c841a684d}
+      \strng{bibnamehash}{bc8346e6b47900a338f68f0c841a684d}
+      \strng{authorbibnamehash}{bc8346e6b47900a338f68f0c841a684d}
+      \strng{authornamehash}{bc8346e6b47900a338f68f0c841a684d}
+      \strng{authorfullhash}{bc8346e6b47900a338f68f0c841a684d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jurnal Komunikasi: Malaysian Journal of Communication}
+      \field{title}{The Formation of Traditional Music and Regional Pop Music Community in Popular Social Media}
+      \field{type}{Journal Article}
+      \field{year}{2019}
+    \endentry
+    \entry{v22}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8fe9ec227d9848fd435af41852804f6d}{%
+           family={V\bibnamedelima K\bibnamedelima Shyni},
+           familyi={V\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Dr.\bibnamedelimi Kumari},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8fe9ec227d9848fd435af41852804f6d}
+      \strng{fullhash}{8fe9ec227d9848fd435af41852804f6d}
+      \strng{bibnamehash}{8fe9ec227d9848fd435af41852804f6d}
+      \strng{authorbibnamehash}{8fe9ec227d9848fd435af41852804f6d}
+      \strng{authornamehash}{8fe9ec227d9848fd435af41852804f6d}
+      \strng{authorfullhash}{8fe9ec227d9848fd435af41852804f6d}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Current Science Research and Review}
+      \field{title}{User Generated Contents in Digital Media - A Study on Customer Perception}
+      \field{type}{Journal Article}
+      \field{year}{2022}
+    \endentry
+    \entry{wambua23}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=145c1e8375c568260d5e82d3b24c2696}{%
+           family={Wambua},
+           familyi={W\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{145c1e8375c568260d5e82d3b24c2696}
+      \strng{fullhash}{145c1e8375c568260d5e82d3b24c2696}
+      \strng{bibnamehash}{145c1e8375c568260d5e82d3b24c2696}
+      \strng{authorbibnamehash}{145c1e8375c568260d5e82d3b24c2696}
+      \strng{authornamehash}{145c1e8375c568260d5e82d3b24c2696}
+      \strng{authorfullhash}{145c1e8375c568260d5e82d3b24c2696}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Education and Management Engineering}
+      \field{title}{Security-aware Mobile Application Development Lifecycle (sMADLC)}
+      \field{type}{Journal Article}
+      \field{year}{2023}
+    \endentry
+    \entry{webster19}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b89268e5aab9a1c49b27d7a25628bef}{%
+           family={Webster},
+           familyi={W\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3b89268e5aab9a1c49b27d7a25628bef}
+      \strng{fullhash}{3b89268e5aab9a1c49b27d7a25628bef}
+      \strng{bibnamehash}{3b89268e5aab9a1c49b27d7a25628bef}
+      \strng{authorbibnamehash}{3b89268e5aab9a1c49b27d7a25628bef}
+      \strng{authornamehash}{3b89268e5aab9a1c49b27d7a25628bef}
+      \strng{authorfullhash}{3b89268e5aab9a1c49b27d7a25628bef}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Big Data and Society}
+      \field{title}{Music on-demand: A commentary on the changing relationship between music taste, consumption and class in the streaming age}
+      \field{type}{Journal Article}
+      \field{volume}{6}
+      \field{year}{2019}
+    \endentry
+    \entry{wen21}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f16a80c476f5897cbaf36a76a7e5e584}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Lim\bibnamedelima Yu},
+           giveni={L\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{fullhash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{bibnamehash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{authorbibnamehash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{authornamehash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{authorfullhash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Music video application development using android}
+      \field{type}{Thesis}
+      \field{year}{2021}
+    \endentry
+    \entry{zanuar22}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4c0ad8278e9cda4551aabb0f3ec1e6f8}{%
+           family={Zanuar},
+           familyi={Z\bibinitperiod},
+           given={Seri\bibnamedelimb Nurul\bibnamedelima Syuhada},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1acb916f81ffd688a8b3c2b8823d620}{%
+           family={Md\bibnamedelima Noor},
+           familyi={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Khairunnisa\bibnamedelima Diyana},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{44e9ca4632ddd49b25384885cd135cbf}
+      \strng{fullhash}{44e9ca4632ddd49b25384885cd135cbf}
+      \strng{bibnamehash}{44e9ca4632ddd49b25384885cd135cbf}
+      \strng{authorbibnamehash}{44e9ca4632ddd49b25384885cd135cbf}
+      \strng{authornamehash}{44e9ca4632ddd49b25384885cd135cbf}
+      \strng{authorfullhash}{44e9ca4632ddd49b25384885cd135cbf}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environment-Behaviour Proceedings Journal}
+      \field{title}{Social Media's Effectiveness for Malaysia's Independent Artists}
+      \field{type}{Journal Article}
+      \field{year}{2022}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{abdulrahman22}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=542ae02f1e2344d0c0e0626bb6c333dc}{%
+           family={Abdulrahman},
+           familyi={A\bibinitperiod},
+           given={M.\bibnamedelimi S.\bibnamedelimi AlSayed},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8b0e2254f79b33353ed33ea45bb194b}{%
+           family={Khder},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1da78f8894234d4d3328bc952d2ebe75}
+      \strng{fullhash}{1da78f8894234d4d3328bc952d2ebe75}
+      \strng{bibnamehash}{1da78f8894234d4d3328bc952d2ebe75}
+      \strng{authorbibnamehash}{1da78f8894234d4d3328bc952d2ebe75}
+      \strng{authornamehash}{1da78f8894234d4d3328bc952d2ebe75}
+      \strng{authorfullhash}{1da78f8894234d4d3328bc952d2ebe75}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2022 ASU International Conference in Emerging Technologies for Sustainability and Intelligent Systems (ICETSIS)}
+      \field{title}{Customers Real Reviews and Feedback Using Mobile Application}
+      \field{type}{Conference Proceedings}
+      \field{year}{2022}
+      \field{pages}{470\bibrangedash 476}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/ICETSIS55481.2022.9888865
+      \endverb
+    \endentry
+    \entry{basaran22}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f05906847555e33640088deeabb8464c}{%
+           family={Basaran},
+           familyi={B\bibinitperiod},
+           given={Dogan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b298ceb6c322a91a446d88f24cbd6efd}{%
+           family={Ventura},
+           familyi={V\bibinitperiod},
+           given={Keti},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bd4cbe9889b14d1feeb6b27cfca16a48}
+      \strng{fullhash}{bd4cbe9889b14d1feeb6b27cfca16a48}
+      \strng{bibnamehash}{bd4cbe9889b14d1feeb6b27cfca16a48}
+      \strng{authorbibnamehash}{bd4cbe9889b14d1feeb6b27cfca16a48}
+      \strng{authornamehash}{bd4cbe9889b14d1feeb6b27cfca16a48}
+      \strng{authorfullhash}{bd4cbe9889b14d1feeb6b27cfca16a48}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pressacademia}
+      \field{title}{Exploring digital marketing in entertainment industry: a case of a digital music platform}
+      \field{type}{Journal Article}
+      \field{year}{2022}
+    \endentry
+    \entry{edlom21}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cf34c06f93a4ef991c98788b9783152e}{%
+           family={Edlom},
+           familyi={E\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1d13ad205ce756af55fdceff7892775}{%
+           family={Karlsson},
+           familyi={K\bibinitperiod},
+           given={Jenni},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{776887feda67704454a833b378c07e32}
+      \strng{fullhash}{776887feda67704454a833b378c07e32}
+      \strng{bibnamehash}{776887feda67704454a833b378c07e32}
+      \strng{authorbibnamehash}{776887feda67704454a833b378c07e32}
+      \strng{authornamehash}{776887feda67704454a833b378c07e32}
+      \strng{authorfullhash}{776887feda67704454a833b378c07e32}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Music Business Research}
+      \field{title}{Hang with Me—Exploring Fandom, Brandom, and the Experiences and Motivations for Value Co-Creation in a Music Fan Community}
+      \field{type}{Journal Article}
+      \field{volume}{10}
+      \field{year}{2021}
+      \field{pages}{17\bibrangedash 31}
+      \range{pages}{15}
+    \endentry
+    \entry{ellis20}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b590901c88ca35379606b2a74f4b00f}{%
+           family={Ellis},
+           familyi={E\bibinitperiod},
+           given={J.\bibnamedelimi Michael},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8b590901c88ca35379606b2a74f4b00f}
+      \strng{fullhash}{8b590901c88ca35379606b2a74f4b00f}
+      \strng{bibnamehash}{8b590901c88ca35379606b2a74f4b00f}
+      \strng{authorbibnamehash}{8b590901c88ca35379606b2a74f4b00f}
+      \strng{authornamehash}{8b590901c88ca35379606b2a74f4b00f}
+      \strng{authorfullhash}{8b590901c88ca35379606b2a74f4b00f}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SKIPPING DISCOVERY? MUSIC DISCOVERY AND PERSONAL MUSIC COLLECTIONS IN THE STREAMING ERA}
+      \field{type}{Conference Proceedings}
+      \field{year}{2022}
+    \endentry
+    \entry{haynes18}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2345812fdc3b39a19f241c26bd3b1dfc}{%
+           family={Haynes},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1921afe85ad4e9f455240fd3338544de}{%
+           family={Marshall},
+           familyi={M\bibinitperiod},
+           given={Lee},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{387abafa54f16e8badbd87de7f552e42}
+      \strng{fullhash}{387abafa54f16e8badbd87de7f552e42}
+      \strng{bibnamehash}{387abafa54f16e8badbd87de7f552e42}
+      \strng{authorbibnamehash}{387abafa54f16e8badbd87de7f552e42}
+      \strng{authornamehash}{387abafa54f16e8badbd87de7f552e42}
+      \strng{authorfullhash}{387abafa54f16e8badbd87de7f552e42}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New Media \& Society}
+      \field{title}{Beats and tweets: Social media in the careers of independent musicians}
+      \field{type}{Journal Article}
+      \field{volume}{20}
+      \field{year}{2018}
+      \field{pages}{1973\bibrangedash 1993}
+      \range{pages}{21}
+    \endentry
+    \entry{hsu18}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9086456949083a4696b386dfc314c464}{%
+           family={Hsu},
+           familyi={H\bibinitperiod},
+           given={Chia-Lin},
+           giveni={C\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc82e1c84dd5e9ab73f1892e7eb9ac69}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Mu-Chen},
+           giveni={M\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dd31a4ba717772f5ce493e484f0947fe}
+      \strng{fullhash}{dd31a4ba717772f5ce493e484f0947fe}
+      \strng{bibnamehash}{dd31a4ba717772f5ce493e484f0947fe}
+      \strng{authorbibnamehash}{dd31a4ba717772f5ce493e484f0947fe}
+      \strng{authornamehash}{dd31a4ba717772f5ce493e484f0947fe}
+      \strng{authorfullhash}{dd31a4ba717772f5ce493e484f0947fe}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Given the growing commercial importance of the “user experience”, better application of gamification. Thus, this study aims at exploring the antecedents and consequences of user experience and its mediating role in an online gamification context. Specifically, this study uses structural equation modeling to test the causal relationships among perceived mobility, utilitarian and hedonic features, user experience, perceived benefits (self-benefit and social benefit), types of perceived value (information value, experiential value, social value, and transaction value), and brand equity (perceived quality, brand loyalty, brand associations, and brand trust) in an online gamification context. Results show that perceived mobility has a significant impact on utilitarian and hedonic features, while perceived mobility and utilitarian and hedonic features influence user experience, which in turn, affects perceived benefits, types of perceived value, and brand equity. Additionally, the mediating effect of user experience is also confirmed in this study. In summary, the findings of this study can help website managers improve their users' perception of benefits, value, and brand equity more effectively and act as a guide to research and development (R&D) of gamification to obtain competitive advantage in the online context.}
+      \field{issn}{0040-1625}
+      \field{journaltitle}{Technological Forecasting and Social Change}
+      \field{title}{How does gamification improve user experience? An empirical investigation on the antecedences and consequences of user experience and its mediating role}
+      \field{type}{Journal Article}
+      \field{volume}{132}
+      \field{year}{2018}
+      \field{pages}{118\bibrangedash 129}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.techfore.2018.01.023
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0040162517305097
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0040162517305097
+      \endverb
+      \keyw{Perceived mobility Utilitarian feature Hedonic feature User experience Perceived benefits Perceived value Brand equity}
+    \endentry
+    \entry{igwenagu16}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0bdb53aa3fb31e4c028133fc15f59760}{%
+           family={Igwenagu},
+           familyi={I\bibinitperiod},
+           given={Chinelo},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {University of Nigeria, Nsukka}%
+      }
+      \list{publisher}{1}{%
+        {LAP Lambert Academic Publishing}%
+      }
+      \strng{namehash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{fullhash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{bibnamehash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{authorbibnamehash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{authornamehash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{authorfullhash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-659-86884-9}
+      \field{title}{Fundamentals of research methodology and data collection}
+      \field{type}{Book}
+      \field{year}{2016}
+    \endentry
+    \entry{jarvekulg21}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b7b07cc0e36a32be9623df4e0d0f46c2}{%
+           family={Järvekülg},
+           familyi={J\bibinitperiod},
+           given={Madis},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=386310bee79c62faaac523a502bd9ed7}{%
+           family={Wikström},
+           familyi={W\bibinitperiod},
+           given={Patrik},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f386731f1cad8c3ebcc12eb4d46c2f85}
+      \strng{fullhash}{f386731f1cad8c3ebcc12eb4d46c2f85}
+      \strng{bibnamehash}{f386731f1cad8c3ebcc12eb4d46c2f85}
+      \strng{authorbibnamehash}{f386731f1cad8c3ebcc12eb4d46c2f85}
+      \strng{authornamehash}{f386731f1cad8c3ebcc12eb4d46c2f85}
+      \strng{authorfullhash}{f386731f1cad8c3ebcc12eb4d46c2f85}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Convergence: The International Journal of Research into New Media Technologies}
+      \field{title}{The emergence of promotional gatekeeping and converged local music professionals on social media}
+      \field{type}{Journal Article}
+      \field{volume}{28}
+      \field{year}{2021}
+      \field{pages}{1358\bibrangedash 1375}
+      \range{pages}{18}
+    \endentry
+    \entry{kaur15}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=42095171aab13fee3de51ab59c40b514}{%
+           family={Kaur},
+           familyi={K\bibinitperiod},
+           given={Anureet},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=a5fc545c999a16e69a702d8af8c23ce4}{%
+           family={Kaur},
+           familyi={K\bibinitperiod},
+           given={Kulwant},
+           giveni={K\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{fullhash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{bibnamehash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{authorbibnamehash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{authornamehash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{authorfullhash}{df244007dbfb9025dbee4f6717fb2a32}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Applications}
+      \field{title}{Suitability of existing Software development Life Cycle (SDLC) in context of Mobile Application Development Life Cycle (MADLC)}
+      \field{type}{Journal Article}
+      \field{volume}{116}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+    \endentry
+    \entry{lee20}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7d69d2615763844397b7d2ee81ca0781}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Jin\bibnamedelima Ha},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce1a023fc548eb891f95551913f271cb}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Anh\bibnamedelima Thu},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d0d6bd4bbc9ddae4f4753a6a941a93eb}
+      \strng{fullhash}{d0d6bd4bbc9ddae4f4753a6a941a93eb}
+      \strng{bibnamehash}{d0d6bd4bbc9ddae4f4753a6a941a93eb}
+      \strng{authorbibnamehash}{d0d6bd4bbc9ddae4f4753a6a941a93eb}
+      \strng{authornamehash}{d0d6bd4bbc9ddae4f4753a6a941a93eb}
+      \strng{authorfullhash}{d0d6bd4bbc9ddae4f4753a6a941a93eb}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Society for Music Information Retrieval Conference}
+      \field{title}{How Music Fans Shape Commercial Music Services: A Case Study of BTS and ARMY}
+      \field{type}{Conference Proceedings}
+      \field{year}{2020}
+    \endentry
+    \entry{leger21}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=925a6cc18ec10e3735ebe98f83831584}{%
+           family={Leger},
+           familyi={L\bibinitperiod},
+           given={Devon},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{925a6cc18ec10e3735ebe98f83831584}
+      \strng{fullhash}{925a6cc18ec10e3735ebe98f83831584}
+      \strng{bibnamehash}{925a6cc18ec10e3735ebe98f83831584}
+      \strng{authorbibnamehash}{925a6cc18ec10e3735ebe98f83831584}
+      \strng{authornamehash}{925a6cc18ec10e3735ebe98f83831584}
+      \strng{authorfullhash}{925a6cc18ec10e3735ebe98f83831584}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Critical Studies in Improvisation / Études critiques en improvisation}
+      \field{title}{Rebuilding the Music Industry through Community: A Case Study of Bandcamp and Twitch during COVID}
+      \field{type}{Journal Article}
+      \field{volume}{14}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+    \endentry
+    \entry{liang22}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=511452886df6c01f90f1f160727e1401}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a83b4d004a391bc0705cf23ecde5b38d}{%
+           family={Willemsen},
+           familyi={W\bibinitperiod},
+           given={Martijn\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9e802f0e36be4729db3d4965c0659d51}
+      \strng{fullhash}{9e802f0e36be4729db3d4965c0659d51}
+      \strng{bibnamehash}{9e802f0e36be4729db3d4965c0659d51}
+      \strng{authorbibnamehash}{9e802f0e36be4729db3d4965c0659d51}
+      \strng{authornamehash}{9e802f0e36be4729db3d4965c0659d51}
+      \strng{authorfullhash}{9e802f0e36be4729db3d4965c0659d51}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Human Computer Interaction}
+      \field{title}{Promoting Music Exploration through Personalized Nudging in a Genre Exploration Recommender}
+      \field{type}{Journal Article}
+      \field{volume}{39}
+      \field{year}{2022}
+      \field{pages}{1495\bibrangedash 1518}
+      \range{pages}{24}
+    \endentry
+    \entry{luca21}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=267b0e6bcab608a51779b5a6e41b162a}{%
+           family={Luca},
+           familyi={L\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{267b0e6bcab608a51779b5a6e41b162a}
+      \strng{fullhash}{267b0e6bcab608a51779b5a6e41b162a}
+      \strng{bibnamehash}{267b0e6bcab608a51779b5a6e41b162a}
+      \strng{authorbibnamehash}{267b0e6bcab608a51779b5a6e41b162a}
+      \strng{authornamehash}{267b0e6bcab608a51779b5a6e41b162a}
+      \strng{authorfullhash}{267b0e6bcab608a51779b5a6e41b162a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Economics of Networks eJournal}
+      \field{title}{User-Generated Content and Social Media}
+      \field{type}{Journal Article}
+      \field{year}{2021}
+    \endentry
+    \entry{mauroner19}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1515f77e3b826408d9234705fbb0eb44}{%
+           family={Mauroner},
+           familyi={M\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1515f77e3b826408d9234705fbb0eb44}
+      \strng{fullhash}{1515f77e3b826408d9234705fbb0eb44}
+      \strng{bibnamehash}{1515f77e3b826408d9234705fbb0eb44}
+      \strng{authorbibnamehash}{1515f77e3b826408d9234705fbb0eb44}
+      \strng{authornamehash}{1515f77e3b826408d9234705fbb0eb44}
+      \strng{authorfullhash}{1515f77e3b826408d9234705fbb0eb44}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Open Journal of Business and Management}
+      \field{title}{Gamification in Management and Other Non-Game Contexts—Understanding Game Elements, Motivation, Reward Systems, and User Types}
+      \field{type}{Journal Article}
+      \field{year}{2019}
+    \endentry
+    \entry{mohd21}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f3445e23dc727622ccd20c2d46791d82}{%
+           family={Mohd\bibnamedelimb Azhar\bibnamedelimb Abu\bibnamedelimb Bakar\bibnamedelimb @\bibnamedelima Azmeer},
+           familyi={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim @\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Ahmad\bibnamedelimb Hisham\bibnamedelimb Zainal\bibnamedelima Abidin},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0,
+           suffix={Adzrool\bibnamedelimb Idzwan\bibnamedelima Ismail},
+           suffixi={A\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim I\bibinitperiod},
+           suffixun=0}}%
+      }
+      \strng{namehash}{f3445e23dc727622ccd20c2d46791d82}
+      \strng{fullhash}{f3445e23dc727622ccd20c2d46791d82}
+      \strng{bibnamehash}{f3445e23dc727622ccd20c2d46791d82}
+      \strng{authorbibnamehash}{f3445e23dc727622ccd20c2d46791d82}
+      \strng{authornamehash}{f3445e23dc727622ccd20c2d46791d82}
+      \strng{authorfullhash}{f3445e23dc727622ccd20c2d46791d82}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Symbiosis of Singing and Stage Performance in the Malaysian Music Industry}
+      \field{type}{Conference Proceedings}
+      \field{year}{2021}
+    \endentry
+    \entry{ong19}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1d682daad186c9d2d57c700eb7bdd378}{%
+           family={Ong},
+           familyi={O\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1d682daad186c9d2d57c700eb7bdd378}
+      \strng{fullhash}{1d682daad186c9d2d57c700eb7bdd378}
+      \strng{bibnamehash}{1d682daad186c9d2d57c700eb7bdd378}
+      \strng{authorbibnamehash}{1d682daad186c9d2d57c700eb7bdd378}
+      \strng{authornamehash}{1d682daad186c9d2d57c700eb7bdd378}
+      \strng{authorfullhash}{1d682daad186c9d2d57c700eb7bdd378}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{THE INDIE ROCK MUSIC SCENE IN KUALA LUMPUR BEFORE 2015}
+      \field{type}{Conference Proceedings}
+      \field{year}{2019}
+    \endentry
+    \entry{robinson20}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a43351345548f8dd672892c827127d62}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={Kyle},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00d0054d2b763892268758224004fc92}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28b51640509c48a3b9b4bbbb0b26c578}{%
+           family={Schedl},
+           familyi={S\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{df59cac0d52956bdf08d203bd08fe824}
+      \strng{fullhash}{d78082550f1a8f99bd964b598075a78c}
+      \strng{bibnamehash}{d78082550f1a8f99bd964b598075a78c}
+      \strng{authorbibnamehash}{d78082550f1a8f99bd964b598075a78c}
+      \strng{authornamehash}{df59cac0d52956bdf08d203bd08fe824}
+      \strng{authorfullhash}{d78082550f1a8f99bd964b598075a78c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Society for Music Information Retrieval Conference}
+      \field{title}{User Insights on Diversity in Music Recommendation Lists}
+      \field{type}{Conference Proceedings}
+      \field{year}{2020}
+    \endentry
+    \entry{shanmugam19}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d436e5efd1aa75f69fdecee140ab9d80}{%
+           family={Shanmugam},
+           familyi={S\bibinitperiod},
+           given={Letchumanan},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ab200700fafee6e1b23f5a4d2a95cd6}{%
+           family={Yassin},
+           familyi={Y\bibinitperiod},
+           given={Siti\bibnamedelima Fatimah},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0c629e5d4ee324956d143e3bb281fdd}{%
+           family={Khalid},
+           familyi={K\bibinitperiod},
+           given={Fariza},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84729b74a8ba35588088254c6f0e15f6}
+      \strng{fullhash}{71ce33628d3bee305833f9f89d0b391f}
+      \strng{bibnamehash}{71ce33628d3bee305833f9f89d0b391f}
+      \strng{authorbibnamehash}{71ce33628d3bee305833f9f89d0b391f}
+      \strng{authornamehash}{84729b74a8ba35588088254c6f0e15f6}
+      \strng{authorfullhash}{71ce33628d3bee305833f9f89d0b391f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Int. J. Eng. Adv. Technol}
+      \field{title}{Incorporating the elements of computational thinking into the Mobile Application Development Life Cycle (MADLC) model}
+      \field{type}{Journal Article}
+      \field{year}{2019}
+    \endentry
+    \entry{silahudin19}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bc8346e6b47900a338f68f0c841a684d}{%
+           family={Silahudin},
+           familyi={S\bibinitperiod},
+           given={Shafaatussara},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bc8346e6b47900a338f68f0c841a684d}
+      \strng{fullhash}{bc8346e6b47900a338f68f0c841a684d}
+      \strng{bibnamehash}{bc8346e6b47900a338f68f0c841a684d}
+      \strng{authorbibnamehash}{bc8346e6b47900a338f68f0c841a684d}
+      \strng{authornamehash}{bc8346e6b47900a338f68f0c841a684d}
+      \strng{authorfullhash}{bc8346e6b47900a338f68f0c841a684d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jurnal Komunikasi: Malaysian Journal of Communication}
+      \field{title}{The Formation of Traditional Music and Regional Pop Music Community in Popular Social Media}
+      \field{type}{Journal Article}
+      \field{year}{2019}
+    \endentry
+    \entry{v22}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8fe9ec227d9848fd435af41852804f6d}{%
+           family={V\bibnamedelima K\bibnamedelima Shyni},
+           familyi={V\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Dr.\bibnamedelimi Kumari},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8fe9ec227d9848fd435af41852804f6d}
+      \strng{fullhash}{8fe9ec227d9848fd435af41852804f6d}
+      \strng{bibnamehash}{8fe9ec227d9848fd435af41852804f6d}
+      \strng{authorbibnamehash}{8fe9ec227d9848fd435af41852804f6d}
+      \strng{authornamehash}{8fe9ec227d9848fd435af41852804f6d}
+      \strng{authorfullhash}{8fe9ec227d9848fd435af41852804f6d}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Current Science Research and Review}
+      \field{title}{User Generated Contents in Digital Media - A Study on Customer Perception}
+      \field{type}{Journal Article}
+      \field{year}{2022}
+    \endentry
+    \entry{wambua23}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=145c1e8375c568260d5e82d3b24c2696}{%
+           family={Wambua},
+           familyi={W\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{145c1e8375c568260d5e82d3b24c2696}
+      \strng{fullhash}{145c1e8375c568260d5e82d3b24c2696}
+      \strng{bibnamehash}{145c1e8375c568260d5e82d3b24c2696}
+      \strng{authorbibnamehash}{145c1e8375c568260d5e82d3b24c2696}
+      \strng{authornamehash}{145c1e8375c568260d5e82d3b24c2696}
+      \strng{authorfullhash}{145c1e8375c568260d5e82d3b24c2696}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Education and Management Engineering}
+      \field{title}{Security-aware Mobile Application Development Lifecycle (sMADLC)}
+      \field{type}{Journal Article}
+      \field{year}{2023}
+    \endentry
+    \entry{webster19}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b89268e5aab9a1c49b27d7a25628bef}{%
+           family={Webster},
+           familyi={W\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3b89268e5aab9a1c49b27d7a25628bef}
+      \strng{fullhash}{3b89268e5aab9a1c49b27d7a25628bef}
+      \strng{bibnamehash}{3b89268e5aab9a1c49b27d7a25628bef}
+      \strng{authorbibnamehash}{3b89268e5aab9a1c49b27d7a25628bef}
+      \strng{authornamehash}{3b89268e5aab9a1c49b27d7a25628bef}
+      \strng{authorfullhash}{3b89268e5aab9a1c49b27d7a25628bef}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Big Data and Society}
+      \field{title}{Music on-demand: A commentary on the changing relationship between music taste, consumption and class in the streaming age}
+      \field{type}{Journal Article}
+      \field{volume}{6}
+      \field{year}{2019}
+    \endentry
+    \entry{wen21}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f16a80c476f5897cbaf36a76a7e5e584}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Lim\bibnamedelima Yu},
+           giveni={L\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{fullhash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{bibnamehash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{authorbibnamehash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{authornamehash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{authorfullhash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Music video application development using android}
+      \field{type}{Thesis}
+      \field{year}{2021}
+    \endentry
+    \entry{zanuar22}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4c0ad8278e9cda4551aabb0f3ec1e6f8}{%
+           family={Zanuar},
+           familyi={Z\bibinitperiod},
+           given={Seri\bibnamedelimb Nurul\bibnamedelima Syuhada},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1acb916f81ffd688a8b3c2b8823d620}{%
+           family={Md\bibnamedelima Noor},
+           familyi={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Khairunnisa\bibnamedelima Diyana},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{44e9ca4632ddd49b25384885cd135cbf}
+      \strng{fullhash}{44e9ca4632ddd49b25384885cd135cbf}
+      \strng{bibnamehash}{44e9ca4632ddd49b25384885cd135cbf}
+      \strng{authorbibnamehash}{44e9ca4632ddd49b25384885cd135cbf}
+      \strng{authornamehash}{44e9ca4632ddd49b25384885cd135cbf}
+      \strng{authorfullhash}{44e9ca4632ddd49b25384885cd135cbf}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environment-Behaviour Proceedings Journal}
+      \field{title}{Social Media's Effectiveness for Malaysia's Independent Artists}
+      \field{type}{Journal Article}
+      \field{year}{2022}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

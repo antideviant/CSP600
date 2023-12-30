@@ -1,0 +1,83 @@
+\changetocdepth {3}
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{SUPERVISOR'S APPROVAL}{i}{chapter*.1}%
+\contentsline {chapter}{AUTHOR'S DECLARATION}{ii}{chapter*.2}%
+\contentsline {chapter}{ABSTRACT}{iii}{chapter*.3}%
+\contentsline {chapter}{ACKNOWLEDGEMENT}{iv}{chapter*.4}%
+\contentsline {chapter}{TABLE OF CONTENTS}{v}{section*.5}%
+\contentsline {chapter}{LIST OF TABLES}{viii}{section*.6}%
+\contentsline {chapter}{LIST OF FIGURES}{ix}{section*.7}%
+\contentsline {chapter}{LIST OF SYMBOLS}{x}{chapter*.8}%
+\contentsline {chapter}{LIST OF ABBREVIATIONS}{xi}{chapter*.9}%
+\contentsline {chapter}{LIST OF NOMENCLATURES}{xii}{chapter*.10}%
+\vspace {1.7cm}
+\contentsline {chapter}{\chapternumberline {1}INTRODUCTION}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Project Background}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Project Aim}{4}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Project Objectives}{4}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Project Scope}{4}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Platform}{5}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Social Stakeholders}{5}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Context of Study}{6}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}Language}{6}{subsection.1.5.4}%
+\contentsline {subsection}{\numberline {1.5.5}Methodology}{6}{subsection.1.5.5}%
+\contentsline {subsection}{\numberline {1.5.6}Tools/Equipment Needed for Project}{7}{subsection.1.5.6}%
+\contentsline {subsection}{\numberline {1.5.7}Features and Functions}{7}{subsection.1.5.7}%
+\contentsline {subsection}{\numberline {1.5.8}Project Limitations}{9}{subsection.1.5.8}%
+\contentsline {section}{\numberline {1.6}Significance of Study}{9}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Chapter Summary}{11}{section.1.7}%
+\contentsline {chapter}{\chapternumberline {2}LITERATURE REVIEW}{12}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{12}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Local Musicians}{12}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Local Music Scene Trends}{13}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Local Music Scene Challenges}{14}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Music Promotion Strategies}{15}{subsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.3.1}Digital Marketing}{15}{subsubsection.2.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.2.3.2}Fan Engagement}{16}{subsubsection.2.2.3.2}%
+\contentsline {section}{\numberline {2.3}Online Community}{18}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}User-Generated Content}{18}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Social Media Integration}{20}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Types of Interaction}{21}{subsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.3.1}Gamification Elements}{23}{subsubsection.2.3.3.1}%
+\contentsline {section}{\numberline {2.4}Music Discovery}{25}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Music Genre Diversity}{25}{subsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.1.1}Underrepresented Genres}{26}{subsubsection.2.4.1.1}%
+\contentsline {subsection}{\numberline {2.4.2}Music Streaming Services Platforms}{26}{subsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.2.1}Apple Music}{28}{subsubsection.2.4.2.1}%
+\contentsline {subsubsection}{\numberline {2.4.2.2}Spotify}{28}{subsubsection.2.4.2.2}%
+\contentsline {subsubsection}{\numberline {2.4.2.3}YouTube Music}{28}{subsubsection.2.4.2.3}%
+\contentsline {subsection}{\numberline {2.4.3}User Preferences}{28}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}Mobile Application}{28}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Type of Mobile Application}{28}{subsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.1.1}Native Application}{28}{subsubsection.2.5.1.1}%
+\contentsline {subsubsection}{\numberline {2.5.1.2}Web Application}{28}{subsubsection.2.5.1.2}%
+\contentsline {subsubsection}{\numberline {2.5.1.3}Hybrid Application}{28}{subsubsection.2.5.1.3}%
+\contentsline {subsection}{\numberline {2.5.2}User Experience Design}{28}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Challenges of Mobile Application Development}{28}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Features of Mobile Application}{28}{subsection.2.5.4}%
+\contentsline {subsubsection}{\numberline {2.5.4.1}Profile Creation}{28}{subsubsection.2.5.4.1}%
+\contentsline {subsubsection}{\numberline {2.5.4.2}Music Snippet Sharing}{28}{subsubsection.2.5.4.2}%
+\contentsline {subsubsection}{\numberline {2.5.4.3}Favourite/Bookmark}{28}{subsubsection.2.5.4.3}%
+\contentsline {subsubsection}{\numberline {2.5.4.4}Ratings or Reviews}{28}{subsubsection.2.5.4.4}%
+\contentsline {section}{\numberline {2.6}Reviews of Existing Mobile Application}{28}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Letterboxd}{28}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Spotify}{29}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}Twitch}{29}{subsection.2.6.3}%
+\contentsline {subsection}{\numberline {2.6.4}Bandcamp}{29}{subsection.2.6.4}%
+\contentsline {subsection}{\numberline {2.6.5}SoundCloud}{29}{subsection.2.6.5}%
+\contentsline {section}{\numberline {2.7}Chapter Summary}{29}{section.2.7}%
+\contentsline {chapter}{\chapternumberline {3}RESEARCH METHODOLOGY}{30}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Study Area}{30}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Sampling}{30}{section.3.2}%
+\contentsline {chapter}{\chapternumberline {4}RESULTS AND DISCUSSIONS}{34}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Background of Study}{34}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Comparison of Method A with Other Studies}{34}{subsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.1}Method A Improved}{34}{subsubsection.4.1.1.1}%
+\contentsline {chapter}{\chapternumberline {5}CONCLUSION AND RECOMMENDATIONS}{41}{chapter.5}%
+\contentsline {chapter}{REFERENCES}{42}{section*.25}%
+\contentsline {chapter}{APPENDICES}{45}{section*.26}%
+\global \c@tocdepth -1\relax 
+\vspace {1.7cm}
+\contentsline {appendix}{\chapternumberline {A}THE DATA}{46}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {B}THE CODING}{47}{appendix.B}%
