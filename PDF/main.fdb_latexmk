@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber PDF/main"] 1703939108.98222 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1703939118.70939 0
-  "PDF/main.bcf" 1703939118 139050 73c0d9dd1208fada6d9f06b9d8c973d3 "pdflatex"
-  "references/myref.bib" 1703938997 10709 2fcb925853e6fa87197045d783a29ae7 ""
+["biber PDF/main"] 1704021763.91635 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1704022336.03871 0
+  "PDF/main.bcf" 1704022335 139304 f5745990c6d4856e0daff15e7a3cc7c2 "pdflatex"
+  "references/myref.bib" 1704021728 10709 2fcb925853e6fa87197045d783a29ae7 ""
   (generated)
   "PDF/main.bbl"
   "PDF/main.blg"
   (rewritten before read)
-["pdflatex"] 1703939112.66269 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1703939118.71179 0
-  "PDF/main.aux" 1703939118 54472 950d31f76a88403f65df5be82ca4f9f7 "pdflatex"
-  "PDF/main.bbl" 1703939112 73209 ef023044575bbdd6e49f0716f8385246 "biber PDF/main"
-  "PDF/main.lof" 1703939118 1130 a44044dbef863d2df9d3e55334d21416 "pdflatex"
-  "PDF/main.lot" 1703939118 480 3670d9b7f8a0b0285bd03b44fb6954a7 "pdflatex"
-  "PDF/main.run.xml" 1703939118 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
-  "PDF/main.toc" 1703939118 6627 89150615edbd342002c8f40cfc3322c6 "pdflatex"
+["pdflatex"] 1704022330.58549 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1704022336.03965 0
+  "PDF/main.aux" 1704022335 55627 b19694af0eca9de9f1ebafd753307711 "pdflatex"
+  "PDF/main.bbl" 1704021766 77563 d0d8fec16e23e3a597c564f87e1c4f2e "biber PDF/main"
+  "PDF/main.lof" 1704022335 1452 5db45e70b1e9b1a1692abf954ff1e2fc "pdflatex"
+  "PDF/main.lot" 1704022335 480 a1f93dc773387ef8c594a4d91636a75e "pdflatex"
+  "PDF/main.run.xml" 1704022335 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
+  "PDF/main.toc" 1704022335 6628 6d8ae8eb047680aadb5cc190ace35996 "pdflatex"
   "appendices/appCoding.tex" 1703938997 200 8968f1dd35b4bc14234be7154d2028e2 ""
   "appendices/appData.tex" 1703938997 59 2fdc3b39a3c9664c93d472a2f8423a2d ""
   "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" 1703938997 1252 ab2db40c58bb66b4475819b54b7b0e98 ""
@@ -192,12 +192,15 @@
   "frontmatter/listofsymbols.tex" 1703938997 207 3d3b0dbf10f141bc4f6ad2bc04fbd7c8 ""
   "main.tex" 1703938997 1252 ab2db40c58bb66b4475819b54b7b0e98 ""
   "mainmatter/chapConclusion.tex" 1703938997 81 16bc1e4cf878df2de34c28b76d22eccd ""
-  "mainmatter/chapIntro.tex" 1703938997 19564 b3d73b04ca7c2b4ac7c90636dad4db34 ""
-  "mainmatter/chapLiterature.tex" 1703938997 33807 1a3d8db226f1f0a0f16ef32629335693 ""
+  "mainmatter/chapIntro.tex" 1704022140 19594 fd35f2468fe76f8c97e7b6f6697c7e59 ""
+  "mainmatter/chapLiterature.tex" 1704022329 38604 96bbd6cdf00cd884662b43c3f0dc41c9 ""
   "mainmatter/chapMethodology.tex" 1703938997 5097 786f19dafbcb4e129efbdc70c78221f9 ""
   "mainmatter/chapResults.tex" 1703938997 7596 ec847aaf064dd7669ea158b406139f7f ""
   "mainmatter/images/gami1.jpg" 1703938997 72433 c960ba4c9d8b7938139fc2ee1a448868 ""
   "mainmatter/images/logouitm.png" 1703938997 48547 f0d17bf2d913ab3f8e809d94b2b05674 ""
+  "mainmatter/images/musicplat1.png" 1704019846 288949 8f4f27c30cf75fb8c20a2036f7572704 ""
+  "mainmatter/images/musicplat2.png" 1704019865 1814140 99890222ce1f80ca4f477ae9afdd07cf ""
+  "mainmatter/images/musicplat3.png" 1704019910 1804019 808f202d8b16f57543980754bb853c78 ""
   "mainmatter/images/probstate1.png" 1703938997 106504 15fab106bb6d0663def3fae886324de0 ""
   "mainmatter/images/probstate2.png" 1703938997 23447 317047d338f2baada128dd717cef7fb9 ""
   "mainmatter/images/ugc1.png" 1703938997 988497 ae85133d437f7539b3efbdc13e7a8b6a ""

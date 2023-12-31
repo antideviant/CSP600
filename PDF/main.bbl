@@ -549,6 +549,57 @@
       \field{type}{Conference Proceedings}
       \field{year}{2019}
     \endentry
+    \entry{perera20}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=1e725c349d6a886c0aa70613ee938c6e}{%
+           family={Perera},
+           familyi={P\bibinitperiod},
+           given={Dushani},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=895c6c51bf26cb323f82ceecb61d94fc}{%
+           family={Rajaratne},
+           familyi={R\bibinitperiod},
+           given={Maneesha},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f09bfe8016c4ffbff272cd3f5ead62f}{%
+           family={Arunathilake},
+           familyi={A\bibinitperiod},
+           given={Shiromi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a6c8f99aa63c56e1e6646052f85a275}{%
+           family={Karunanayaka},
+           familyi={K\bibinitperiod},
+           given={Kasun},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f026ee078db70e02174190e7b0aa9f23}{%
+           family={Liyanage},
+           familyi={L\bibinitperiod},
+           given={Buddy},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dd32c8cd13894639c7b4d0cceaca7162}
+      \strng{fullhash}{5bd7da5ba6f2848bf460e490a1a5213c}
+      \strng{bibnamehash}{5bd7da5ba6f2848bf460e490a1a5213c}
+      \strng{authorbibnamehash}{5bd7da5ba6f2848bf460e490a1a5213c}
+      \strng{authornamehash}{dd32c8cd13894639c7b4d0cceaca7162}
+      \strng{authorfullhash}{5bd7da5ba6f2848bf460e490a1a5213c}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Conference on Human Interaction and Emerging Technologies}
+      \field{title}{A Critical Analysis of Music Recommendation Systems and New Perspectives}
+      \field{type}{Conference Proceedings}
+      \field{year}{2020}
+    \endentry
     \entry{robinson20}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a43351345548f8dd672892c827127d62}{%
@@ -1326,6 +1377,57 @@
       \field{title}{THE INDIE ROCK MUSIC SCENE IN KUALA LUMPUR BEFORE 2015}
       \field{type}{Conference Proceedings}
       \field{year}{2019}
+    \endentry
+    \entry{perera20}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=1e725c349d6a886c0aa70613ee938c6e}{%
+           family={Perera},
+           familyi={P\bibinitperiod},
+           given={Dushani},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=895c6c51bf26cb323f82ceecb61d94fc}{%
+           family={Rajaratne},
+           familyi={R\bibinitperiod},
+           given={Maneesha},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f09bfe8016c4ffbff272cd3f5ead62f}{%
+           family={Arunathilake},
+           familyi={A\bibinitperiod},
+           given={Shiromi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a6c8f99aa63c56e1e6646052f85a275}{%
+           family={Karunanayaka},
+           familyi={K\bibinitperiod},
+           given={Kasun},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f026ee078db70e02174190e7b0aa9f23}{%
+           family={Liyanage},
+           familyi={L\bibinitperiod},
+           given={Buddy},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dd32c8cd13894639c7b4d0cceaca7162}
+      \strng{fullhash}{5bd7da5ba6f2848bf460e490a1a5213c}
+      \strng{bibnamehash}{5bd7da5ba6f2848bf460e490a1a5213c}
+      \strng{authorbibnamehash}{5bd7da5ba6f2848bf460e490a1a5213c}
+      \strng{authornamehash}{dd32c8cd13894639c7b4d0cceaca7162}
+      \strng{authorfullhash}{5bd7da5ba6f2848bf460e490a1a5213c}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Conference on Human Interaction and Emerging Technologies}
+      \field{title}{A Critical Analysis of Music Recommendation Systems and New Perspectives}
+      \field{type}{Conference Proceedings}
+      \field{year}{2020}
     \endentry
     \entry{robinson20}{article}{}
       \name{author}{3}{}{%
