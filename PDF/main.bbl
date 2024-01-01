@@ -732,6 +732,45 @@
       \field{type}{Journal Article}
       \field{year}{2019}
     \endentry
+    \entry{syeed21}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6f781f1a8079ffd9977b64b7a88fe906}{%
+           family={Syeed},
+           familyi={S\bibinitperiod},
+           given={Abid\bibnamedelima Bin},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69bce8dbf4e43fb6d71de2a6c356a937}{%
+           family={Bhat},
+           familyi={B\bibinitperiod},
+           given={Suhail\bibnamedelima Hussain},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63938d88098821e6c437aa72a64284c7}{%
+           family={Kaur},
+           familyi={K\bibinitperiod},
+           given={Deepinder},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c115639a6b79271acfabd72ef59f842c}
+      \strng{fullhash}{c9809469d3831b5dbd88c8a577d18255}
+      \strng{bibnamehash}{c9809469d3831b5dbd88c8a577d18255}
+      \strng{authorbibnamehash}{c9809469d3831b5dbd88c8a577d18255}
+      \strng{authornamehash}{c115639a6b79271acfabd72ef59f842c}
+      \strng{authorfullhash}{c9809469d3831b5dbd88c8a577d18255}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Scientific Research in Computer Science, Engineering and Information Technology}
+      \field{title}{Study of Mobile App Development Industry}
+      \field{type}{Journal Article}
+      \field{year}{2021}
+    \endentry
     \entry{v22}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8fe9ec227d9848fd435af41852804f6d}{%
@@ -1587,6 +1626,45 @@
       \field{title}{The Formation of Traditional Music and Regional Pop Music Community in Popular Social Media}
       \field{type}{Journal Article}
       \field{year}{2019}
+    \endentry
+    \entry{syeed21}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6f781f1a8079ffd9977b64b7a88fe906}{%
+           family={Syeed},
+           familyi={S\bibinitperiod},
+           given={Abid\bibnamedelima Bin},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69bce8dbf4e43fb6d71de2a6c356a937}{%
+           family={Bhat},
+           familyi={B\bibinitperiod},
+           given={Suhail\bibnamedelima Hussain},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63938d88098821e6c437aa72a64284c7}{%
+           family={Kaur},
+           familyi={K\bibinitperiod},
+           given={Deepinder},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c115639a6b79271acfabd72ef59f842c}
+      \strng{fullhash}{c9809469d3831b5dbd88c8a577d18255}
+      \strng{bibnamehash}{c9809469d3831b5dbd88c8a577d18255}
+      \strng{authorbibnamehash}{c9809469d3831b5dbd88c8a577d18255}
+      \strng{authornamehash}{c115639a6b79271acfabd72ef59f842c}
+      \strng{authorfullhash}{c9809469d3831b5dbd88c8a577d18255}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Scientific Research in Computer Science, Engineering and Information Technology}
+      \field{title}{Study of Mobile App Development Industry}
+      \field{type}{Journal Article}
+      \field{year}{2021}
     \endentry
     \entry{v22}{article}{}
       \name{author}{1}{}{%
