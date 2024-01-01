@@ -600,6 +600,33 @@
       \field{type}{Conference Proceedings}
       \field{year}{2020}
     \endentry
+    \entry{ramdurai21}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f1a4e140cbad614b58b8cd90dd50e430}{%
+           family={Ramdurai},
+           familyi={R\bibinitperiod},
+           given={Balagopal},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f1a4e140cbad614b58b8cd90dd50e430}
+      \strng{fullhash}{f1a4e140cbad614b58b8cd90dd50e430}
+      \strng{bibnamehash}{f1a4e140cbad614b58b8cd90dd50e430}
+      \strng{authorbibnamehash}{f1a4e140cbad614b58b8cd90dd50e430}
+      \strng{authornamehash}{f1a4e140cbad614b58b8cd90dd50e430}
+      \strng{authorfullhash}{f1a4e140cbad614b58b8cd90dd50e430}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Mobile Computing and Application}
+      \field{title}{A study on Mobile apps in the Healthcare Industry}
+      \field{type}{Journal Article}
+      \field{year}{2021}
+    \endentry
     \entry{robinson20}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a43351345548f8dd672892c827127d62}{%
@@ -1428,6 +1455,33 @@
       \field{title}{A Critical Analysis of Music Recommendation Systems and New Perspectives}
       \field{type}{Conference Proceedings}
       \field{year}{2020}
+    \endentry
+    \entry{ramdurai21}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f1a4e140cbad614b58b8cd90dd50e430}{%
+           family={Ramdurai},
+           familyi={R\bibinitperiod},
+           given={Balagopal},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f1a4e140cbad614b58b8cd90dd50e430}
+      \strng{fullhash}{f1a4e140cbad614b58b8cd90dd50e430}
+      \strng{bibnamehash}{f1a4e140cbad614b58b8cd90dd50e430}
+      \strng{authorbibnamehash}{f1a4e140cbad614b58b8cd90dd50e430}
+      \strng{authornamehash}{f1a4e140cbad614b58b8cd90dd50e430}
+      \strng{authorfullhash}{f1a4e140cbad614b58b8cd90dd50e430}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Mobile Computing and Application}
+      \field{title}{A study on Mobile apps in the Healthcare Industry}
+      \field{type}{Journal Article}
+      \field{year}{2021}
     \endentry
     \entry{robinson20}{article}{}
       \name{author}{3}{}{%
