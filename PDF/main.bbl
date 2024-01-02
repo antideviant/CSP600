@@ -523,6 +523,33 @@
       \field{type}{Conference Proceedings}
       \field{year}{2021}
     \endentry
+    \entry{olawole18}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f23173d050f450985bc24c87f20fc2fe}{%
+           family={Olawole},
+           familyi={O\bibinitperiod},
+           given={David\bibnamedelima Oluwasegun},
+           giveni={D\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f23173d050f450985bc24c87f20fc2fe}
+      \strng{fullhash}{f23173d050f450985bc24c87f20fc2fe}
+      \strng{bibnamehash}{f23173d050f450985bc24c87f20fc2fe}
+      \strng{authorbibnamehash}{f23173d050f450985bc24c87f20fc2fe}
+      \strng{authornamehash}{f23173d050f450985bc24c87f20fc2fe}
+      \strng{authorfullhash}{f23173d050f450985bc24c87f20fc2fe}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AFRREV STECH: An International Journal of Science and Technology}
+      \field{title}{User experience: tool for Human-Computer Interaction (HCI) design}
+      \field{type}{Journal Article}
+      \field{year}{2018}
+    \endentry
     \entry{ong19}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1d682daad186c9d2d57c700eb7bdd378}{%
@@ -1417,6 +1444,33 @@
       \field{title}{The Symbiosis of Singing and Stage Performance in the Malaysian Music Industry}
       \field{type}{Conference Proceedings}
       \field{year}{2021}
+    \endentry
+    \entry{olawole18}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f23173d050f450985bc24c87f20fc2fe}{%
+           family={Olawole},
+           familyi={O\bibinitperiod},
+           given={David\bibnamedelima Oluwasegun},
+           giveni={D\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f23173d050f450985bc24c87f20fc2fe}
+      \strng{fullhash}{f23173d050f450985bc24c87f20fc2fe}
+      \strng{bibnamehash}{f23173d050f450985bc24c87f20fc2fe}
+      \strng{authorbibnamehash}{f23173d050f450985bc24c87f20fc2fe}
+      \strng{authornamehash}{f23173d050f450985bc24c87f20fc2fe}
+      \strng{authorfullhash}{f23173d050f450985bc24c87f20fc2fe}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AFRREV STECH: An International Journal of Science and Technology}
+      \field{title}{User experience: tool for Human-Computer Interaction (HCI) design}
+      \field{type}{Journal Article}
+      \field{year}{2018}
     \endentry
     \entry{ong19}{article}{}
       \name{author}{1}{}{%
