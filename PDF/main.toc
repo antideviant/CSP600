@@ -64,7 +64,7 @@
 \contentsline {subsection}{\numberline {2.6.1}Letterboxd}{37}{subsection.2.6.1}%
 \contentsline {subsection}{\numberline {2.6.2}Spotify}{37}{subsection.2.6.2}%
 \contentsline {subsection}{\numberline {2.6.3}Twitch}{37}{subsection.2.6.3}%
-\contentsline {subsection}{\numberline {2.6.4}Bandcamp}{37}{subsection.2.6.4}%
+\contentsline {subsection}{\numberline {2.6.4}Bandcamp}{38}{subsection.2.6.4}%
 \contentsline {subsection}{\numberline {2.6.5}SoundCloud}{38}{subsection.2.6.5}%
 \contentsline {section}{\numberline {2.7}Chapter Summary}{38}{section.2.7}%
 \contentsline {chapter}{\chapternumberline {3}RESEARCH METHODOLOGY}{39}{chapter.3}%

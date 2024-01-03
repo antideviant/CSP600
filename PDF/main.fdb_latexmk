@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber PDF/main"] 1704221919.83503 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1704221934.11487 0
-  "PDF/main.bcf" 1704221933 140406 1d15fb8a0aa9b59416bfea18d4aac4ef "pdflatex"
+["biber PDF/main"] 1704221919.83503 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1704271796.79959 0
+  "PDF/main.bcf" 1704271796 140406 1d15fb8a0aa9b59416bfea18d4aac4ef "pdflatex"
   "references/myref.bib" 1704081712 10964 97c8edbc6f01ebcff01ee8abfde6e5f0 ""
   (generated)
   "PDF/main.bbl"
   "PDF/main.blg"
   (rewritten before read)
-["pdflatex"] 1704221928.41431 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1704221934.11588 0
-  "PDF/main.aux" 1704221933 58036 667661a3e508b82c36c6e370b7bf87d1 "pdflatex"
+["pdflatex"] 1704271790.81541 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1704271796.80052 0
+  "PDF/main.aux" 1704271796 58036 dc88a3e5deaa2460229f533893b2774d "pdflatex"
   "PDF/main.bbl" 1704221922 86039 4bdf7bc9b8c9c859d74d2baf42b39f0a "biber PDF/main"
-  "PDF/main.lof" 1704221933 1560 26df17a7994b4a21fe726d8bb2078414 "pdflatex"
-  "PDF/main.lot" 1704221933 480 873b6e7af1a2ed4b0e8b07f2f91580ab "pdflatex"
-  "PDF/main.run.xml" 1704221933 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
-  "PDF/main.toc" 1704221933 6631 756d861ca526628c9e1c956d05b67f92 "pdflatex"
+  "PDF/main.lof" 1704271796 1560 26df17a7994b4a21fe726d8bb2078414 "pdflatex"
+  "PDF/main.lot" 1704271796 480 873b6e7af1a2ed4b0e8b07f2f91580ab "pdflatex"
+  "PDF/main.run.xml" 1704271796 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
+  "PDF/main.toc" 1704271796 6631 30a661c9850494fc0e1a19b71cfa2aef "pdflatex"
   "appendices/appCoding.tex" 1703938997 200 8968f1dd35b4bc14234be7154d2028e2 ""
   "appendices/appData.tex" 1703938997 59 2fdc3b39a3c9664c93d472a2f8423a2d ""
   "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" 1703938997 1252 ab2db40c58bb66b4475819b54b7b0e98 ""
@@ -193,7 +193,7 @@
   "main.tex" 1703938997 1252 ab2db40c58bb66b4475819b54b7b0e98 ""
   "mainmatter/chapConclusion.tex" 1703938997 81 16bc1e4cf878df2de34c28b76d22eccd ""
   "mainmatter/chapIntro.tex" 1704022140 19594 fd35f2468fe76f8c97e7b6f6697c7e59 ""
-  "mainmatter/chapLiterature.tex" 1704221912 49089 8105b0c5c688a0f539c25b4db866bdb5 ""
+  "mainmatter/chapLiterature.tex" 1704271747 49110 05e0fb4a26c036e02672011612801859 ""
   "mainmatter/chapMethodology.tex" 1703938997 5097 786f19dafbcb4e129efbdc70c78221f9 ""
   "mainmatter/chapResults.tex" 1703938997 7596 ec847aaf064dd7669ea158b406139f7f ""
   "mainmatter/images/gami1.jpg" 1703938997 72433 c960ba4c9d8b7938139fc2ee1a448868 ""
