@@ -490,7 +490,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Open Journal of Business and Management}
-      \field{title}{Gamification in Management and Other Non-Game Contexts—Understanding Game Elements, Motivation, Reward Systems, and User Types}
+      \field{title}{Gamification in Management and Other Non-Game Contexts - Understanding Game Elements, Motivation, Reward Systems, and User Types}
       \field{type}{Journal Article}
       \field{year}{2019}
     \endentry
@@ -879,6 +879,40 @@
       \field{type}{Journal Article}
       \field{volume}{6}
       \field{year}{2019}
+    \endentry
+    \entry{weichbroth20}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9fd0a88fee58ac0ed28418d68d3493b6}{%
+           family={Weichbroth},
+           familyi={W\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9fd0a88fee58ac0ed28418d68d3493b6}
+      \strng{fullhash}{9fd0a88fee58ac0ed28418d68d3493b6}
+      \strng{bibnamehash}{9fd0a88fee58ac0ed28418d68d3493b6}
+      \strng{authorbibnamehash}{9fd0a88fee58ac0ed28418d68d3493b6}
+      \strng{authornamehash}{9fd0a88fee58ac0ed28418d68d3493b6}
+      \strng{authorfullhash}{9fd0a88fee58ac0ed28418d68d3493b6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2169-3536}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Usability of Mobile Applications: A Systematic Literature Study}
+      \field{type}{Journal Article}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{pages}{55563\bibrangedash 55577}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2020.2981892
+      \endverb
     \endentry
     \entry{wen21}{thesis}{}
       \name{author}{1}{}{%
@@ -1412,7 +1446,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Open Journal of Business and Management}
-      \field{title}{Gamification in Management and Other Non-Game Contexts—Understanding Game Elements, Motivation, Reward Systems, and User Types}
+      \field{title}{Gamification in Management and Other Non-Game Contexts - Understanding Game Elements, Motivation, Reward Systems, and User Types}
       \field{type}{Journal Article}
       \field{year}{2019}
     \endentry
@@ -1801,6 +1835,40 @@
       \field{type}{Journal Article}
       \field{volume}{6}
       \field{year}{2019}
+    \endentry
+    \entry{weichbroth20}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9fd0a88fee58ac0ed28418d68d3493b6}{%
+           family={Weichbroth},
+           familyi={W\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9fd0a88fee58ac0ed28418d68d3493b6}
+      \strng{fullhash}{9fd0a88fee58ac0ed28418d68d3493b6}
+      \strng{bibnamehash}{9fd0a88fee58ac0ed28418d68d3493b6}
+      \strng{authorbibnamehash}{9fd0a88fee58ac0ed28418d68d3493b6}
+      \strng{authornamehash}{9fd0a88fee58ac0ed28418d68d3493b6}
+      \strng{authorfullhash}{9fd0a88fee58ac0ed28418d68d3493b6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2169-3536}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Usability of Mobile Applications: A Systematic Literature Study}
+      \field{type}{Journal Article}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{pages}{55563\bibrangedash 55577}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2020.2981892
+      \endverb
     \endentry
     \entry{wen21}{thesis}{}
       \name{author}{1}{}{%
