@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.30)  5 JAN 2024 11:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.30)  6 JAN 2024 20:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -513,7 +513,13 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: pdftex.def on input line 107.
  (c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-)))
+))) (c:/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip194
+\multirow@cntb=\count334
+\multirow@dima=\skip195
+\bigstrutjot=\dimen198
+)
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -534,35 +540,35 @@ Sidefoothsep and sidefootwidth: 7pt and 42pt
 Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
 ******************************************************
 
-\pnumwidthlen=\skip194
+\pnumwidthlen=\skip196
 ) (./settings.tex (c:/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.sty (c:/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count334
-\l__lipsum_a_int=\count335
-\l__lipsum_b_int=\count336
+\g__lipsum_par_int=\count335
+\l__lipsum_a_int=\count336
+\l__lipsum_b_int=\count337
  (c:/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip195
+\@mathmargin=\skip197
 
 For additional information on amsmath, use the `?' option.
 (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 ) (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen198
+\pmbraise@=\dimen199
 ) (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count337
+\inf@bad=\count338
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count338
-\leftroot@=\count339
+\uproot@=\count339
+\leftroot@=\count340
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count340
-\DOTSCASE@=\count341
+\classnum@=\count341
+\DOTSCASE@=\count342
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -572,33 +578,33 @@ LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen199
+\big@size=\dimen256
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count342
+\macc@depth=\count343
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count343
+\c@MaxMatrixCols=\count344
 \dotsspace@=\muskip16
-\c@parentequation=\count344
-\dspbrk@lvl=\count345
+\c@parentequation=\count345
+\dspbrk@lvl=\count346
 \tag@help=\toks32
-\row@=\count346
-\column@=\count347
-\maxfields@=\count348
+\row@=\count347
+\column@=\count348
+\maxfields@=\count349
 \andhelp@=\toks33
-\eqnshift@=\dimen256
-\alignsep@=\dimen257
-\tagshift@=\dimen258
-\tagwidth@=\dimen259
-\totwidth@=\dimen260
-\lineht@=\dimen261
+\eqnshift@=\dimen257
+\alignsep@=\dimen258
+\tagshift@=\dimen259
+\tagwidth@=\dimen260
+\totwidth@=\dimen261
+\lineht@=\dimen262
 \@envbody=\toks34
-\multlinegap=\skip196
-\multlinetaggap=\skip197
+\multlinegap=\skip198
+\multlinetaggap=\skip199
 \mathdisplay@stack=\toks35
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
@@ -617,28 +623,28 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@headfont=\toks38
 \thm@notefont=\toks39
 \thm@headpunct=\toks40
-\thm@preskip=\skip198
-\thm@postskip=\skip199
-\thm@headsep=\skip256
+\thm@preskip=\skip256
+\thm@postskip=\skip257
+\thm@headsep=\skip258
 \dth@everypar=\toks41
 ) (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen262
-\Gin@req@width=\dimen263
+\Gin@req@height=\dimen263
+\Gin@req@width=\dimen264
 ) (c:/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count349
+\c@subfigure=\count350
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count350
+\c@subtable=\count351
 ) (c:/texlive/2023/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
-\csq@reset=\count351
-\csq@gtype=\count352
-\csq@glevel=\count353
-\csq@qlevel=\count354
-\csq@maxlvl=\count355
-\csq@tshold=\count356
+\csq@reset=\count352
+\csq@gtype=\count353
+\csq@glevel=\count354
+\csq@qlevel=\count355
+\csq@maxlvl=\count356
+\csq@tshold=\count357
 \csq@ltx@everypar=\toks42
  (c:/texlive/2023/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
@@ -656,69 +662,69 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ) (c:/texlive/2023/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count357
+\lrq@indent=\count358
  (c:/texlive/2023/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (c:/texlive/2023/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count358
-\c@listtotal=\count359
-\c@listcount=\count360
-\c@liststart=\count361
-\c@liststop=\count362
-\c@citecount=\count363
-\c@citetotal=\count364
-\c@multicitecount=\count365
-\c@multicitetotal=\count366
-\c@instcount=\count367
-\c@maxnames=\count368
-\c@minnames=\count369
-\c@maxitems=\count370
-\c@minitems=\count371
-\c@citecounter=\count372
-\c@maxcitecounter=\count373
-\c@savedcitecounter=\count374
-\c@uniquelist=\count375
-\c@uniquename=\count376
-\c@refsection=\count377
-\c@refsegment=\count378
-\c@maxextratitle=\count379
-\c@maxextratitleyear=\count380
-\c@maxextraname=\count381
-\c@maxextradate=\count382
-\c@maxextraalpha=\count383
-\c@abbrvpenalty=\count384
-\c@highnamepenalty=\count385
-\c@lownamepenalty=\count386
-\c@maxparens=\count387
-\c@parenlevel=\count388
-\blx@tempcnta=\count389
-\blx@tempcntb=\count390
-\blx@tempcntc=\count391
-\c@blx@maxsection=\count392
-\blx@maxsegment@0=\count393
-\blx@notetype=\count394
-\blx@parenlevel@text=\count395
-\blx@parenlevel@foot=\count396
-\blx@sectionciteorder@0=\count397
-\blx@sectionciteorderinternal@0=\count398
-\blx@entrysetcounter=\count399
-\blx@biblioinstance=\count400
-\labelnumberwidth=\skip257
-\labelalphawidth=\skip258
-\biblabelsep=\skip259
-\bibnamesep=\skip260
-\bibinitsep=\skip261
-\bibparsep=\skip262
-\bibhang=\skip263
+\c@tabx@nest=\count359
+\c@listtotal=\count360
+\c@listcount=\count361
+\c@liststart=\count362
+\c@liststop=\count363
+\c@citecount=\count364
+\c@citetotal=\count365
+\c@multicitecount=\count366
+\c@multicitetotal=\count367
+\c@instcount=\count368
+\c@maxnames=\count369
+\c@minnames=\count370
+\c@maxitems=\count371
+\c@minitems=\count372
+\c@citecounter=\count373
+\c@maxcitecounter=\count374
+\c@savedcitecounter=\count375
+\c@uniquelist=\count376
+\c@uniquename=\count377
+\c@refsection=\count378
+\c@refsegment=\count379
+\c@maxextratitle=\count380
+\c@maxextratitleyear=\count381
+\c@maxextraname=\count382
+\c@maxextradate=\count383
+\c@maxextraalpha=\count384
+\c@abbrvpenalty=\count385
+\c@highnamepenalty=\count386
+\c@lownamepenalty=\count387
+\c@maxparens=\count388
+\c@parenlevel=\count389
+\blx@tempcnta=\count390
+\blx@tempcntb=\count391
+\blx@tempcntc=\count392
+\c@blx@maxsection=\count393
+\blx@maxsegment@0=\count394
+\blx@notetype=\count395
+\blx@parenlevel@text=\count396
+\blx@parenlevel@foot=\count397
+\blx@sectionciteorder@0=\count398
+\blx@sectionciteorderinternal@0=\count399
+\blx@entrysetcounter=\count400
+\blx@biblioinstance=\count401
+\labelnumberwidth=\skip259
+\labelalphawidth=\skip260
+\biblabelsep=\skip261
+\bibnamesep=\skip262
+\bibinitsep=\skip263
+\bibparsep=\skip264
+\bibhang=\skip265
 \blx@bcfin=\read4
 \blx@bcfout=\write4
 \blx@langwohyphens=\language90
-\c@mincomprange=\count401
-\c@maxcomprange=\count402
-\c@mincompwidth=\count403
+\c@mincomprange=\count402
+\c@maxcomprange=\count403
+\c@mincompwidth=\count404
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (c:/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def
@@ -731,98 +737,98 @@ File: apa.dbx 2023/03/20 v9.17 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count404
-\c@savedafterword=\count405
-\c@annotator=\count406
-\c@savedannotator=\count407
-\c@author=\count408
-\c@savedauthor=\count409
-\c@bookauthor=\count410
-\c@savedbookauthor=\count411
-\c@commentator=\count412
-\c@savedcommentator=\count413
-\c@editor=\count414
-\c@savededitor=\count415
-\c@editora=\count416
-\c@savededitora=\count417
-\c@editorb=\count418
-\c@savededitorb=\count419
-\c@editorc=\count420
-\c@savededitorc=\count421
-\c@foreword=\count422
-\c@savedforeword=\count423
-\c@holder=\count424
-\c@savedholder=\count425
-\c@introduction=\count426
-\c@savedintroduction=\count427
-\c@namea=\count428
-\c@savednamea=\count429
-\c@nameb=\count430
-\c@savednameb=\count431
-\c@namec=\count432
-\c@savednamec=\count433
-\c@translator=\count434
-\c@savedtranslator=\count435
-\c@shortauthor=\count436
-\c@savedshortauthor=\count437
-\c@shorteditor=\count438
-\c@savedshorteditor=\count439
-\c@narrator=\count440
-\c@savednarrator=\count441
-\c@execproducer=\count442
-\c@savedexecproducer=\count443
-\c@execdirector=\count444
-\c@savedexecdirector=\count445
-\c@with=\count446
-\c@savedwith=\count447
-\c@labelname=\count448
-\c@savedlabelname=\count449
-\c@institution=\count450
-\c@savedinstitution=\count451
-\c@lista=\count452
-\c@savedlista=\count453
-\c@listb=\count454
-\c@savedlistb=\count455
-\c@listc=\count456
-\c@savedlistc=\count457
-\c@listd=\count458
-\c@savedlistd=\count459
-\c@liste=\count460
-\c@savedliste=\count461
-\c@listf=\count462
-\c@savedlistf=\count463
-\c@location=\count464
-\c@savedlocation=\count465
-\c@organization=\count466
-\c@savedorganization=\count467
-\c@origlocation=\count468
-\c@savedoriglocation=\count469
-\c@origpublisher=\count470
-\c@savedorigpublisher=\count471
-\c@publisher=\count472
-\c@savedpublisher=\count473
-\c@language=\count474
-\c@savedlanguage=\count475
-\c@origlanguage=\count476
-\c@savedoriglanguage=\count477
-\c@citation=\count478
-\c@savedcitation=\count479
-\c@pageref=\count480
-\c@savedpageref=\count481
-\shorthandwidth=\skip264
-\shortjournalwidth=\skip265
-\shortserieswidth=\skip266
-\shorttitlewidth=\skip267
-\shortauthorwidth=\skip268
-\shorteditorwidth=\skip269
-\locallabelnumberwidth=\skip270
-\locallabelalphawidth=\skip271
-\localshorthandwidth=\skip272
-\localshortjournalwidth=\skip273
-\localshortserieswidth=\skip274
-\localshorttitlewidth=\skip275
-\localshortauthorwidth=\skip276
-\localshorteditorwidth=\skip277
+\c@afterword=\count405
+\c@savedafterword=\count406
+\c@annotator=\count407
+\c@savedannotator=\count408
+\c@author=\count409
+\c@savedauthor=\count410
+\c@bookauthor=\count411
+\c@savedbookauthor=\count412
+\c@commentator=\count413
+\c@savedcommentator=\count414
+\c@editor=\count415
+\c@savededitor=\count416
+\c@editora=\count417
+\c@savededitora=\count418
+\c@editorb=\count419
+\c@savededitorb=\count420
+\c@editorc=\count421
+\c@savededitorc=\count422
+\c@foreword=\count423
+\c@savedforeword=\count424
+\c@holder=\count425
+\c@savedholder=\count426
+\c@introduction=\count427
+\c@savedintroduction=\count428
+\c@namea=\count429
+\c@savednamea=\count430
+\c@nameb=\count431
+\c@savednameb=\count432
+\c@namec=\count433
+\c@savednamec=\count434
+\c@translator=\count435
+\c@savedtranslator=\count436
+\c@shortauthor=\count437
+\c@savedshortauthor=\count438
+\c@shorteditor=\count439
+\c@savedshorteditor=\count440
+\c@narrator=\count441
+\c@savednarrator=\count442
+\c@execproducer=\count443
+\c@savedexecproducer=\count444
+\c@execdirector=\count445
+\c@savedexecdirector=\count446
+\c@with=\count447
+\c@savedwith=\count448
+\c@labelname=\count449
+\c@savedlabelname=\count450
+\c@institution=\count451
+\c@savedinstitution=\count452
+\c@lista=\count453
+\c@savedlista=\count454
+\c@listb=\count455
+\c@savedlistb=\count456
+\c@listc=\count457
+\c@savedlistc=\count458
+\c@listd=\count459
+\c@savedlistd=\count460
+\c@liste=\count461
+\c@savedliste=\count462
+\c@listf=\count463
+\c@savedlistf=\count464
+\c@location=\count465
+\c@savedlocation=\count466
+\c@organization=\count467
+\c@savedorganization=\count468
+\c@origlocation=\count469
+\c@savedoriglocation=\count470
+\c@origpublisher=\count471
+\c@savedorigpublisher=\count472
+\c@publisher=\count473
+\c@savedpublisher=\count474
+\c@language=\count475
+\c@savedlanguage=\count476
+\c@origlanguage=\count477
+\c@savedoriglanguage=\count478
+\c@citation=\count479
+\c@savedcitation=\count480
+\c@pageref=\count481
+\c@savedpageref=\count482
+\shorthandwidth=\skip266
+\shortjournalwidth=\skip267
+\shortserieswidth=\skip268
+\shorttitlewidth=\skip269
+\shortauthorwidth=\skip270
+\shorteditorwidth=\skip271
+\locallabelnumberwidth=\skip272
+\locallabelalphawidth=\skip273
+\localshorthandwidth=\skip274
+\localshortjournalwidth=\skip275
+\localshortserieswidth=\skip276
+\localshorttitlewidth=\skip277
+\localshortauthorwidth=\skip278
+\localshorteditorwidth=\skip279
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  (c:/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def
@@ -832,19 +838,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (c:/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count482
-\c@textcitetotal=\count483
-\c@textcitemaxnames=\count484
-\c@biburlbigbreakpenalty=\count485
-\c@biburlbreakpenalty=\count486
-\c@biburlnumpenalty=\count487
-\c@biburlucpenalty=\count488
-\c@biburllcpenalty=\count489
+\c@textcitecount=\count483
+\c@textcitetotal=\count484
+\c@textcitemaxnames=\count485
+\c@biburlbigbreakpenalty=\count486
+\c@biburlbreakpenalty=\count487
+\c@biburlnumpenalty=\count488
+\c@biburlucpenalty=\count489
+\c@biburllcpenalty=\count490
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count490
+\c@smartand=\count491
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
@@ -854,8 +860,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (c:/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count491
-\c@bbx:relatedtotal=\count492
+\c@bbx:relatedcount=\count492
+\c@bbx:relatedtotal=\count493
 )
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
@@ -912,9 +918,9 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ) (c:/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen264
-\Hy@linkcounter=\count493
-\Hy@pagecounter=\count494
+\@linkdim=\dimen265
+\Hy@linkcounter=\count494
+\Hy@pagecounter=\count495
  (c:/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -922,7 +928,7 @@ Now handling font encoding PD1 ...
 ) (c:/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count495
+\Hy@SavedSpaceFactor=\count496
  (c:/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -938,17 +944,17 @@ Package hyperref Info: Plain pages OFF on input line 4196.
 Package hyperref Info: Backreferencing OFF on input line 4201.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4448.
-\c@Hy@tempcnt=\count496
+\c@Hy@tempcnt=\count497
 LaTeX Info: Redefining \url on input line 4786.
-\XeTeXLinkMargin=\dimen265
+\XeTeXLinkMargin=\dimen266
  (c:/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (c:/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count497
-\Field@Width=\dimen266
-\Fld@charsize=\dimen267
+\Fld@menulength=\count498
+\Field@Width=\dimen267
+\Fld@charsize=\dimen268
 Package hyperref Info: Hyper figures OFF on input line 6065.
 Package hyperref Info: Link nesting OFF on input line 6070.
 Package hyperref Info: Hyper index ON on input line 6073.
@@ -960,9 +966,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6095.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count498
-\c@Item=\count499
-\c@Hfootnote=\count500
+\Hy@abspage=\count499
+\c@Item=\count500
+\c@Hfootnote=\count501
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (c:/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
@@ -971,8 +977,8 @@ File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count501
-\c@bookmark@seq@number=\count502
+\Fld@listcount=\count502
+\c@bookmark@seq@number=\count503
  (c:/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (c:/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -980,18 +986,18 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip278
+\Hy@SectionHShift=\skip280
 ) (c:/texlive/2023/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (c:/texlive/2023/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
-\BKM@id=\count503
+\BKM@id=\count504
 ))
-\c@theorem=\count504
-\c@corollary=\count505
-\c@remark=\count506
-\c@definition=\count507
-\c@example=\count508
+\c@theorem=\count505
+\c@corollary=\count506
+\c@remark=\count507
+\c@definition=\count508
+\c@example=\count509
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1028,6 +1034,9 @@ LaTeX Warning: Label `' multiply defined.
 
 LaTeX Warning: Label `' multiply defined.
 
+
+LaTeX Warning: Label `tab:alongtable' multiply defined.
+
 )
 \openout1 = `main.aux'.
 
@@ -1058,16 +1067,16 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 Package caption Info: End \AtBeginDocument code.
  (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count509
-\scratchdimen=\dimen268
+\scratchcounter=\count510
+\scratchdimen=\dimen269
 \scratchbox=\box64
-\nofMPsegments=\count510
-\nofMParguments=\count511
+\nofMPsegments=\count511
+\nofMParguments=\count512
 \everyMPshowfont=\toks43
-\MPscratchCnt=\count512
-\MPscratchDim=\dimen269
-\MPnumerator=\count513
-\makeMPintoPDFobject=\count514
+\MPscratchCnt=\count513
+\MPscratchDim=\dimen270
+\MPnumerator=\count514
+\makeMPintoPDFobject=\count515
 \everyMPtoPDFconversion=\toks44
 ) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1203,7 +1212,7 @@ l.14
 
 
 ]
-<mainmatter/images/probstate1.png, id=273, 447.92343pt x 150.5625pt>
+<mainmatter/images/probstate1.png, id=287, 447.92343pt x 150.5625pt>
 File: mainmatter/images/probstate1.png Graphic file (type png)
 <use mainmatter/images/probstate1.png>
 Package pdftex.def Info: mainmatter/images/probstate1.png  used on input line 20.
@@ -1219,7 +1228,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--28
  []
 
 [2 <./mainmatter/images/probstate1.png>]
-<mainmatter/images/probstate2.png, id=283, 452.4403pt x 208.52907pt>
+<mainmatter/images/probstate2.png, id=297, 452.4403pt x 208.52907pt>
 File: mainmatter/images/probstate2.png Graphic file (type png)
 <use mainmatter/images/probstate2.png>
 Package pdftex.def Info: mainmatter/images/probstate2.png  used on input line 31.
@@ -1320,7 +1329,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
-<mainmatter/images/ugc1.png, id=422, 1363.34344pt x 661.72218pt>
+<mainmatter/images/ugc1.png, id=436, 1363.34344pt x 661.72218pt>
 File: mainmatter/images/ugc1.png Graphic file (type png)
 <use mainmatter/images/ugc1.png>
 Package pdftex.def Info: mainmatter/images/ugc1.png  used on input line 66.
@@ -1330,7 +1339,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
-<mainmatter/images/ugc2.png, id=423, 926.71219pt x 661.72218pt>
+<mainmatter/images/ugc2.png, id=437, 926.71219pt x 661.72218pt>
 File: mainmatter/images/ugc2.png Graphic file (type png)
 <use mainmatter/images/ugc2.png>
 Package pdftex.def Info: mainmatter/images/ugc2.png  used on input line 75.
@@ -1378,7 +1387,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--104
 
  []
 
-<mainmatter/images/gami1.jpg, id=451, 593.21625pt x 1284.8pt>
+<mainmatter/images/gami1.jpg, id=465, 593.21625pt x 1284.8pt>
 File: mainmatter/images/gami1.jpg Graphic file (type jpg)
 <use mainmatter/images/gami1.jpg>
 Package pdftex.def Info: mainmatter/images/gami1.jpg  used on input line 107.
@@ -1414,19 +1423,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--134
  []
 
 [27]
-<mainmatter/images/musicplat1.png, id=484, 1445.4pt x 691.83469pt>
+<mainmatter/images/musicplat1.png, id=498, 1445.4pt x 691.83469pt>
 File: mainmatter/images/musicplat1.png Graphic file (type png)
 <use mainmatter/images/musicplat1.png>
 Package pdftex.def Info: mainmatter/images/musicplat1.png  used on input line 140.
 (pdftex.def)             Requested size: 408.0pt x 195.28531pt.
  [28 <./mainmatter/images/musicplat1.png>]
-<mainmatter/images/musicplat2.png, id=490, 1445.4pt x 691.83469pt>
+<mainmatter/images/musicplat2.png, id=504, 1445.4pt x 691.83469pt>
 File: mainmatter/images/musicplat2.png Graphic file (type png)
 <use mainmatter/images/musicplat2.png>
 Package pdftex.def Info: mainmatter/images/musicplat2.png  used on input line 150.
 (pdftex.def)             Requested size: 408.0pt x 195.28531pt.
  [29 <./mainmatter/images/musicplat2.png>]
-<mainmatter/images/musicplat3.png, id=497, 1445.4pt x 691.83469pt>
+<mainmatter/images/musicplat3.png, id=511, 1445.4pt x 691.83469pt>
 File: mainmatter/images/musicplat3.png Graphic file (type png)
 <use mainmatter/images/musicplat3.png>
 Package pdftex.def Info: mainmatter/images/musicplat3.png  used on input line 160.
@@ -1442,7 +1451,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--171
  []
 
 [31]
-<mainmatter/images/typeapp.jpg, id=512, 853.1875pt x 446.66875pt>
+<mainmatter/images/typeapp.jpg, id=526, 853.1875pt x 446.66875pt>
 File: mainmatter/images/typeapp.jpg Graphic file (type jpg)
 <use mainmatter/images/typeapp.jpg>
 Package pdftex.def Info: mainmatter/images/typeapp.jpg  used on input line 182.
@@ -1486,10 +1495,11 @@ Overfull \hbox (2.79524pt too wide) in paragraph at lines 214--215
 []\T1/ptm/m/n/12 Finally, meet-ing user ex-pec-ta-tions for smooth and in-stinc-tive ex-pe-ri-ences poses
  []
 
-File: mainmatter/images/typeapp.jpg Graphic file (type jpg)
-<use mainmatter/images/typeapp.jpg>
-Package pdftex.def Info: mainmatter/images/typeapp.jpg  used on input line 220.
-(pdftex.def)             Requested size: 408.0pt x 213.60114pt.
+<mainmatter/images/userprofile.jpg, id=557, 1606.0pt x 803.0pt>
+File: mainmatter/images/userprofile.jpg Graphic file (type jpg)
+<use mainmatter/images/userprofile.jpg>
+Package pdftex.def Info: mainmatter/images/userprofile.jpg  used on input line 220.
+(pdftex.def)             Requested size: 367.19751pt x 183.59561pt.
 [36]
 Underfull \hbox (badness 10000) in paragraph at lines 226--227
 
@@ -1500,18 +1510,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 228--229
 
  []
 
-[37]
+
 Underfull \hbox (badness 10000) in paragraph at lines 230--231
 
  []
 
-File: mainmatter/images/typeapp.jpg Graphic file (type jpg)
-<use mainmatter/images/typeapp.jpg>
-Package pdftex.def Info: mainmatter/images/typeapp.jpg  used on input line 237.
-(pdftex.def)             Requested size: 408.0pt x 213.60114pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+[37 <./mainmatter/images/userprofile.jpg>] [38]
+<mainmatter/images/musicshare.jpg, id=575, 3625.545pt x 2007.75093pt>
+File: mainmatter/images/musicshare.jpg Graphic file (type jpg)
+<use mainmatter/images/musicshare.jpg>
+Package pdftex.def Info: mainmatter/images/musicshare.jpg  used on input line 237.
+(pdftex.def)             Requested size: 408.0pt x 225.93883pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
@@ -1522,16 +1531,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 245--246
 
  []
 
-[38]
+[39 <./mainmatter/images/musicshare.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 247--248
 
  []
 
-[39]
-File: mainmatter/images/typeapp.jpg Graphic file (type jpg)
-<use mainmatter/images/typeapp.jpg>
-Package pdftex.def Info: mainmatter/images/typeapp.jpg  used on input line 254.
-(pdftex.def)             Requested size: 408.0pt x 213.60114pt.
+[40]
+<mainmatter/images/favbookmark.jpg, id=586, 1246.6575pt x 951.555pt>
+File: mainmatter/images/favbookmark.jpg Graphic file (type jpg)
+<use mainmatter/images/favbookmark.jpg>
+Package pdftex.def Info: mainmatter/images/favbookmark.jpg  used on input line 254.
+(pdftex.def)             Requested size: 326.40125pt x 249.14081pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 260--261
 
@@ -1542,18 +1552,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 262--263
 
  []
 
-[40]
+
 Underfull \hbox (badness 10000) in paragraph at lines 264--265
 
  []
 
-File: mainmatter/images/typeapp.jpg Graphic file (type jpg)
-<use mainmatter/images/typeapp.jpg>
-Package pdftex.def Info: mainmatter/images/typeapp.jpg  used on input line 271.
-(pdftex.def)             Requested size: 408.0pt x 213.60114pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+[41 <./mainmatter/images/favbookmark.jpg>] [42]
+<mainmatter/images/ratingsreviews.png, id=598, 864.98157pt x 663.98062pt>
+File: mainmatter/images/ratingsreviews.png Graphic file (type png)
+<use mainmatter/images/ratingsreviews.png>
+Package pdftex.def Info: mainmatter/images/ratingsreviews.png  used on input line 271.
+(pdftex.def)             Requested size: 326.40125pt x 250.55237pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 277--278
 
@@ -1564,18 +1573,133 @@ Underfull \hbox (badness 10000) in paragraph at lines 279--280
 
  []
 
-[41]
+[43 <./mainmatter/images/ratingsreviews.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 281--282
 
  []
 
-[42] [43]) (./mainmatter/chapMethodology.tex [44]
-<mainmatter/images/logouitm.png, id=591, 294.1389pt x 92.9874pt>
+[44]
+<mainmatter/images/letterboxd1.jpg, id=610, 593.21625pt x 1284.8pt>
+File: mainmatter/images/letterboxd1.jpg Graphic file (type jpg)
+<use mainmatter/images/letterboxd1.jpg>
+Package pdftex.def Info: mainmatter/images/letterboxd1.jpg  used on input line 291.
+(pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
+<mainmatter/images/letterboxd2.jpg, id=611, 593.21625pt x 1284.8pt>
+File: mainmatter/images/letterboxd2.jpg Graphic file (type jpg)
+<use mainmatter/images/letterboxd2.jpg>
+Package pdftex.def Info: mainmatter/images/letterboxd2.jpg  used on input line 298.
+(pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
+<mainmatter/images/letterboxd3.jpg, id=612, 593.21625pt x 1284.8pt>
+File: mainmatter/images/letterboxd3.jpg Graphic file (type jpg)
+<use mainmatter/images/letterboxd3.jpg>
+Package pdftex.def Info: mainmatter/images/letterboxd3.jpg  used on input line 305.
+(pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
+ [45 <./mainmatter/images/letterboxd1.jpg> <./mainmatter/images/letterboxd2.jpg> <./mainmatter/images/letterboxd3.jpg>]
+<mainmatter/images/spotify1.jpg, id=617, 593.21625pt x 1284.8pt>
+File: mainmatter/images/spotify1.jpg Graphic file (type jpg)
+<use mainmatter/images/spotify1.jpg>
+Package pdftex.def Info: mainmatter/images/spotify1.jpg  used on input line 327.
+(pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
+<mainmatter/images/spotify2.jpg, id=618, 593.21625pt x 1284.8pt>
+File: mainmatter/images/spotify2.jpg Graphic file (type jpg)
+<use mainmatter/images/spotify2.jpg>
+Package pdftex.def Info: mainmatter/images/spotify2.jpg  used on input line 334.
+(pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
+<mainmatter/images/spotify3.jpg, id=619, 593.21625pt x 1284.8pt>
+File: mainmatter/images/spotify3.jpg Graphic file (type jpg)
+<use mainmatter/images/spotify3.jpg>
+Package pdftex.def Info: mainmatter/images/spotify3.jpg  used on input line 341.
+(pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
+ [46 <./mainmatter/images/spotify1.jpg> <./mainmatter/images/spotify2.jpg> <./mainmatter/images/spotify3.jpg>]
+<mainmatter/images/twitch1.jpg, id=624, 593.21625pt x 1284.8pt>
+File: mainmatter/images/twitch1.jpg Graphic file (type jpg)
+<use mainmatter/images/twitch1.jpg>
+Package pdftex.def Info: mainmatter/images/twitch1.jpg  used on input line 363.
+(pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
+<mainmatter/images/twitch2.jpg, id=625, 593.21625pt x 1284.8pt>
+File: mainmatter/images/twitch2.jpg Graphic file (type jpg)
+<use mainmatter/images/twitch2.jpg>
+Package pdftex.def Info: mainmatter/images/twitch2.jpg  used on input line 370.
+(pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
+<mainmatter/images/twitch3.jpg, id=626, 593.21625pt x 1284.8pt>
+File: mainmatter/images/twitch3.jpg Graphic file (type jpg)
+<use mainmatter/images/twitch3.jpg>
+Package pdftex.def Info: mainmatter/images/twitch3.jpg  used on input line 377.
+(pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
+ [47 <./mainmatter/images/twitch1.jpg> <./mainmatter/images/twitch2.jpg> <./mainmatter/images/twitch3.jpg>]
+<mainmatter/images/bandcamp1.jpg, id=632, 593.21625pt x 1284.8pt>
+File: mainmatter/images/bandcamp1.jpg Graphic file (type jpg)
+<use mainmatter/images/bandcamp1.jpg>
+Package pdftex.def Info: mainmatter/images/bandcamp1.jpg  used on input line 399.
+(pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
+<mainmatter/images/bandcamp2.jpg, id=633, 593.21625pt x 1284.8pt>
+File: mainmatter/images/bandcamp2.jpg Graphic file (type jpg)
+<use mainmatter/images/bandcamp2.jpg>
+Package pdftex.def Info: mainmatter/images/bandcamp2.jpg  used on input line 406.
+(pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
+<mainmatter/images/bandcamp3.jpg, id=634, 593.21625pt x 1284.8pt>
+File: mainmatter/images/bandcamp3.jpg Graphic file (type jpg)
+<use mainmatter/images/bandcamp3.jpg>
+Package pdftex.def Info: mainmatter/images/bandcamp3.jpg  used on input line 413.
+(pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
+ [48 <./mainmatter/images/bandcamp1.jpg> <./mainmatter/images/bandcamp2.jpg> <./mainmatter/images/bandcamp3.jpg>]
+<mainmatter/images/soundcloud1.jpg, id=639, 593.21625pt x 1284.8pt>
+File: mainmatter/images/soundcloud1.jpg Graphic file (type jpg)
+<use mainmatter/images/soundcloud1.jpg>
+Package pdftex.def Info: mainmatter/images/soundcloud1.jpg  used on input line 435.
+(pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
+<mainmatter/images/soundcloud2.jpg, id=640, 593.21625pt x 1284.8pt>
+File: mainmatter/images/soundcloud2.jpg Graphic file (type jpg)
+<use mainmatter/images/soundcloud2.jpg>
+Package pdftex.def Info: mainmatter/images/soundcloud2.jpg  used on input line 442.
+(pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
+<mainmatter/images/soundcloud3.jpg, id=641, 593.21625pt x 1284.8pt>
+File: mainmatter/images/soundcloud3.jpg Graphic file (type jpg)
+<use mainmatter/images/soundcloud3.jpg>
+Package pdftex.def Info: mainmatter/images/soundcloud3.jpg  used on input line 449.
+(pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
+ [49 <./mainmatter/images/soundcloud1.jpg> <./mainmatter/images/soundcloud2.jpg> <./mainmatter/images/soundcloud3.jpg>]
+Overfull \hbox (5.30023pt too wide) in alignment at lines 467--474
+ [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
+[]|\T1/ptm/m/n/12 iOS &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
+[]|\T1/ptm/m/n/12 iOS &
+ []
+
+
+Overfull \hbox (2.08978pt too wide) in paragraph at lines 480--480
+[]|\T1/ptm/b/n/12 Authentication| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+[]|\T1/ptm/b/n/12 Favourite or
+ []
+
+
+Underfull \hbox (badness 7631) in paragraph at lines 485--485
+[]|\T1/ptm/b/n/12 Social Me-dia
+ []
+
+
+Overfull \hbox (5.30023pt too wide) in alignment at lines 474--487
+ [] [] [] [] [] [] 
+ []
+
+) (./mainmatter/chapMethodology.tex [50]
+<mainmatter/images/logouitm.png, id=651, 294.1389pt x 92.9874pt>
 File: mainmatter/images/logouitm.png Graphic file (type png)
 <use mainmatter/images/logouitm.png>
 Package pdftex.def Info: mainmatter/images/logouitm.png  used on input line 49.
 (pdftex.def)             Requested size: 294.13817pt x 92.98717pt.
- [45
+ [51
 
  <./mainmatter/images/logouitm.png>]
 File: mainmatter/images/logouitm.png Graphic file (type png)
@@ -1602,18 +1726,18 @@ File: mainmatter/images/logouitm.png Graphic file (type png)
 <use mainmatter/images/logouitm.png>
 Package pdftex.def Info: mainmatter/images/logouitm.png  used on input line 105.
 (pdftex.def)             Requested size: 143.61734pt x 45.40388pt.
- [46]
-<example-image-a.jpg, id=602, 401.5pt x 301.125pt>
+ [52]
+<example-image-a.jpg, id=662, 401.5pt x 301.125pt>
 File: example-image-a.jpg Graphic file (type jpg)
 <use example-image-a.jpg>
 Package pdftex.def Info: example-image-a.jpg  used on input line 124.
 (pdftex.def)             Requested size: 143.61734pt x 107.71568pt.
-<example-image-b.jpg, id=603, 401.5pt x 301.125pt>
+<example-image-b.jpg, id=663, 401.5pt x 301.125pt>
 File: example-image-b.jpg Graphic file (type jpg)
 <use example-image-b.jpg>
 Package pdftex.def Info: example-image-b.jpg  used on input line 130.
 (pdftex.def)             Requested size: 143.61734pt x 107.71568pt.
-<example-image-c.jpg, id=604, 401.5pt x 301.125pt>
+<example-image-c.jpg, id=664, 401.5pt x 301.125pt>
 File: example-image-c.jpg Graphic file (type jpg)
 <use example-image-c.jpg>
 Package pdftex.def Info: example-image-c.jpg  used on input line 136.
@@ -1642,25 +1766,25 @@ File: example-image-c.jpg Graphic file (type jpg)
 <use example-image-c.jpg>
 Package pdftex.def Info: example-image-c.jpg  used on input line 174.
 (pdftex.def)             Requested size: 143.61734pt x 107.71568pt.
- [47 <c:/texlive/2023/texmf-dist/tex/latex/mwe/example-image-a.jpg> <c:/texlive/2023/texmf-dist/tex/latex/mwe/example-image-b.jpg> <c:/texlive/2023/texmf-dist/tex/latex/mwe/example-image-c.jpg>]) (./mainmatter/chapResults.tex [48
+ [53 <c:/texlive/2023/texmf-dist/tex/latex/mwe/example-image-a.jpg> <c:/texlive/2023/texmf-dist/tex/latex/mwe/example-image-b.jpg> <c:/texlive/2023/texmf-dist/tex/latex/mwe/example-image-c.jpg>]) (./mainmatter/chapResults.tex [54
 
 
-] [49
+] [55
 
 ]
 File: mainmatter/images/logouitm.png Graphic file (type png)
 <use mainmatter/images/logouitm.png>
 Package pdftex.def Info: mainmatter/images/logouitm.png  used on input line 45.
 (pdftex.def)             Requested size: 367.19751pt x 116.08781pt.
- [50] [51] [52] [53
+ [56] [57] [58] [59
 
-] [54]) (./mainmatter/chapConclusion.tex [55
+] [60]) (./mainmatter/chapConclusion.tex [61
 
-]) [56
+]) [62
 
-] [57
+] [63
 
-] [58]
+] [64]
 Overfull \hbox (8.65909pt too wide) in paragraph at lines 37--37
 [][]\T1/ptm/m/n/12 Wambua, A. (2023). Security-aware mo-bile ap-pli-ca-tion de-vel-op-ment life-cy-cle (smadlc).
  []
@@ -1670,15 +1794,15 @@ Overfull \hbox (0.76027pt too wide) in paragraph at lines 37--37
 [][]\T1/ptm/m/n/12 Zanuar, S. N. S., & Md Noor, K. D. (2022). So-cial me-dia's ef-fec-tive-ness for malaysia's
  []
 
-[59] [60
+[65] [66
 
-] (./appendices/appData.tex) (./appendices/appCoding.tex [61
+] (./appendices/appData.tex) (./appendices/appCoding.tex [67
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6.
  (c:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)) [62
+)) [68
 
 {c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
 \tf@toc=\write5
@@ -1704,18 +1828,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27028 strings out of 474174
- 468957 string characters out of 5749676
- 1952460 words of memory out of 5000000
- 48699 multiletter control sequences out of 15000+600000
+ 27271 strings out of 474174
+ 475852 string characters out of 5749676
+ 1953460 words of memory out of 5000000
+ 48925 multiletter control sequences out of 15000+600000
  615406 words of font info for 126 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,14n,107p,1479b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on PDF/main.pdf (76 pages, 5510819 bytes).
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on PDF/main.pdf (82 pages, 8150969 bytes).
 PDF statistics:
- 1014 PDF objects out of 1200 (max. 8388607)
- 890 compressed objects within 9 object streams
- 222 named destinations out of 1000 (max. 500000)
- 690 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1085 PDF objects out of 1200 (max. 8388607)
+ 932 compressed objects within 10 object streams
+ 235 named destinations out of 1000 (max. 500000)
+ 793 words of extra memory for PDF output out of 10000 (max. 10000000)
 

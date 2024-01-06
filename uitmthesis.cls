@@ -44,6 +44,7 @@
 \RequirePackage{etoolbox}
 \RequirePackage{longtable}
 \RequirePackage{lscape}
+\usepackage{multirow}
 
 %=======%
 % Fonts %
@@ -342,7 +343,7 @@
     justification=raggedright, %left aligned caption
     labelformat=simple,
     singlelinecheck=false,
-    labelsep=newline
+    labelsep=space
 }
 %% table size.
 \AtBeginEnvironment{tabular}{\small}
