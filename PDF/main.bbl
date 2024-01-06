@@ -236,39 +236,6 @@
       \endverb
       \keyw{Perceived mobility Utilitarian feature Hedonic feature User experience Perceived benefits Perceived value Brand equity}
     \endentry
-    \entry{igwenagu16}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=0bdb53aa3fb31e4c028133fc15f59760}{%
-           family={Igwenagu},
-           familyi={I\bibinitperiod},
-           given={Chinelo},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {University of Nigeria, Nsukka}%
-      }
-      \list{publisher}{1}{%
-        {LAP Lambert Academic Publishing}%
-      }
-      \strng{namehash}{0bdb53aa3fb31e4c028133fc15f59760}
-      \strng{fullhash}{0bdb53aa3fb31e4c028133fc15f59760}
-      \strng{bibnamehash}{0bdb53aa3fb31e4c028133fc15f59760}
-      \strng{authorbibnamehash}{0bdb53aa3fb31e4c028133fc15f59760}
-      \strng{authornamehash}{0bdb53aa3fb31e4c028133fc15f59760}
-      \strng{authorfullhash}{0bdb53aa3fb31e4c028133fc15f59760}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-3-659-86884-9}
-      \field{title}{Fundamentals of research methodology and data collection}
-      \field{type}{Book}
-      \field{year}{2016}
-    \endentry
     \entry{jarvekulg21}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b7b07cc0e36a32be9623df4e0d0f46c2}{%
@@ -304,42 +271,6 @@
       \field{year}{2021}
       \field{pages}{1358\bibrangedash 1375}
       \range{pages}{18}
-    \endentry
-    \entry{kaur15}{article}{}
-      \name{author}{2}{}{%
-        {{un=1,uniquepart=given,hash=42095171aab13fee3de51ab59c40b514}{%
-           family={Kaur},
-           familyi={K\bibinitperiod},
-           given={Anureet},
-           giveni={A\bibinitperiod},
-           givenun=1}}%
-        {{un=1,uniquepart=given,hash=a5fc545c999a16e69a702d8af8c23ce4}{%
-           family={Kaur},
-           familyi={K\bibinitperiod},
-           given={Kulwant},
-           giveni={K\bibinitperiod},
-           givenun=1}}%
-      }
-      \strng{namehash}{df244007dbfb9025dbee4f6717fb2a32}
-      \strng{fullhash}{df244007dbfb9025dbee4f6717fb2a32}
-      \strng{bibnamehash}{df244007dbfb9025dbee4f6717fb2a32}
-      \strng{authorbibnamehash}{df244007dbfb9025dbee4f6717fb2a32}
-      \strng{authornamehash}{df244007dbfb9025dbee4f6717fb2a32}
-      \strng{authorfullhash}{df244007dbfb9025dbee4f6717fb2a32}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{International Journal of Computer Applications}
-      \field{title}{Suitability of existing Software development Life Cycle (SDLC) in context of Mobile Application Development Life Cycle (MADLC)}
-      \field{type}{Journal Article}
-      \field{volume}{116}
-      \field{year}{2015}
-      \field{pages}{1\bibrangedash 6}
-      \range{pages}{6}
     \endentry
     \entry{lee20}{article}{}
       \name{author}{2}{}{%
@@ -693,45 +624,6 @@
       \field{type}{Conference Proceedings}
       \field{year}{2020}
     \endentry
-    \entry{shanmugam19}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=d436e5efd1aa75f69fdecee140ab9d80}{%
-           family={Shanmugam},
-           familyi={S\bibinitperiod},
-           given={Letchumanan},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4ab200700fafee6e1b23f5a4d2a95cd6}{%
-           family={Yassin},
-           familyi={Y\bibinitperiod},
-           given={Siti\bibnamedelima Fatimah},
-           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b0c629e5d4ee324956d143e3bb281fdd}{%
-           family={Khalid},
-           familyi={K\bibinitperiod},
-           given={Fariza},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{84729b74a8ba35588088254c6f0e15f6}
-      \strng{fullhash}{71ce33628d3bee305833f9f89d0b391f}
-      \strng{bibnamehash}{71ce33628d3bee305833f9f89d0b391f}
-      \strng{authorbibnamehash}{71ce33628d3bee305833f9f89d0b391f}
-      \strng{authornamehash}{84729b74a8ba35588088254c6f0e15f6}
-      \strng{authorfullhash}{71ce33628d3bee305833f9f89d0b391f}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Int. J. Eng. Adv. Technol}
-      \field{title}{Incorporating the elements of computational thinking into the Mobile Application Development Life Cycle (MADLC) model}
-      \field{type}{Journal Article}
-      \field{year}{2019}
-    \endentry
     \entry{silahudin19}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bc8346e6b47900a338f68f0c841a684d}{%
@@ -913,32 +805,6 @@
       \verb{doi}
       \verb 10.1109/ACCESS.2020.2981892
       \endverb
-    \endentry
-    \entry{wen21}{thesis}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f16a80c476f5897cbaf36a76a7e5e584}{%
-           family={Wen},
-           familyi={W\bibinitperiod},
-           given={Lim\bibnamedelima Yu},
-           giveni={L\bibinitperiod\bibinitdelim Y\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{f16a80c476f5897cbaf36a76a7e5e584}
-      \strng{fullhash}{f16a80c476f5897cbaf36a76a7e5e584}
-      \strng{bibnamehash}{f16a80c476f5897cbaf36a76a7e5e584}
-      \strng{authorbibnamehash}{f16a80c476f5897cbaf36a76a7e5e584}
-      \strng{authornamehash}{f16a80c476f5897cbaf36a76a7e5e584}
-      \strng{authorfullhash}{f16a80c476f5897cbaf36a76a7e5e584}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Music video application development using android}
-      \field{type}{Thesis}
-      \field{year}{2021}
     \endentry
     \entry{zanuar22}{article}{}
       \name{author}{2}{}{%
@@ -1192,39 +1058,6 @@
       \endverb
       \keyw{Perceived mobility Utilitarian feature Hedonic feature User experience Perceived benefits Perceived value Brand equity}
     \endentry
-    \entry{igwenagu16}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=0bdb53aa3fb31e4c028133fc15f59760}{%
-           family={Igwenagu},
-           familyi={I\bibinitperiod},
-           given={Chinelo},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {University of Nigeria, Nsukka}%
-      }
-      \list{publisher}{1}{%
-        {LAP Lambert Academic Publishing}%
-      }
-      \strng{namehash}{0bdb53aa3fb31e4c028133fc15f59760}
-      \strng{fullhash}{0bdb53aa3fb31e4c028133fc15f59760}
-      \strng{bibnamehash}{0bdb53aa3fb31e4c028133fc15f59760}
-      \strng{authorbibnamehash}{0bdb53aa3fb31e4c028133fc15f59760}
-      \strng{authornamehash}{0bdb53aa3fb31e4c028133fc15f59760}
-      \strng{authorfullhash}{0bdb53aa3fb31e4c028133fc15f59760}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-3-659-86884-9}
-      \field{title}{Fundamentals of research methodology and data collection}
-      \field{type}{Book}
-      \field{year}{2016}
-    \endentry
     \entry{jarvekulg21}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b7b07cc0e36a32be9623df4e0d0f46c2}{%
@@ -1260,42 +1093,6 @@
       \field{year}{2021}
       \field{pages}{1358\bibrangedash 1375}
       \range{pages}{18}
-    \endentry
-    \entry{kaur15}{article}{}
-      \name{author}{2}{}{%
-        {{un=1,uniquepart=given,hash=42095171aab13fee3de51ab59c40b514}{%
-           family={Kaur},
-           familyi={K\bibinitperiod},
-           given={Anureet},
-           giveni={A\bibinitperiod},
-           givenun=1}}%
-        {{un=1,uniquepart=given,hash=a5fc545c999a16e69a702d8af8c23ce4}{%
-           family={Kaur},
-           familyi={K\bibinitperiod},
-           given={Kulwant},
-           giveni={K\bibinitperiod},
-           givenun=1}}%
-      }
-      \strng{namehash}{df244007dbfb9025dbee4f6717fb2a32}
-      \strng{fullhash}{df244007dbfb9025dbee4f6717fb2a32}
-      \strng{bibnamehash}{df244007dbfb9025dbee4f6717fb2a32}
-      \strng{authorbibnamehash}{df244007dbfb9025dbee4f6717fb2a32}
-      \strng{authornamehash}{df244007dbfb9025dbee4f6717fb2a32}
-      \strng{authorfullhash}{df244007dbfb9025dbee4f6717fb2a32}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{International Journal of Computer Applications}
-      \field{title}{Suitability of existing Software development Life Cycle (SDLC) in context of Mobile Application Development Life Cycle (MADLC)}
-      \field{type}{Journal Article}
-      \field{volume}{116}
-      \field{year}{2015}
-      \field{pages}{1\bibrangedash 6}
-      \range{pages}{6}
     \endentry
     \entry{lee20}{article}{}
       \name{author}{2}{}{%
@@ -1649,45 +1446,6 @@
       \field{type}{Conference Proceedings}
       \field{year}{2020}
     \endentry
-    \entry{shanmugam19}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=d436e5efd1aa75f69fdecee140ab9d80}{%
-           family={Shanmugam},
-           familyi={S\bibinitperiod},
-           given={Letchumanan},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4ab200700fafee6e1b23f5a4d2a95cd6}{%
-           family={Yassin},
-           familyi={Y\bibinitperiod},
-           given={Siti\bibnamedelima Fatimah},
-           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b0c629e5d4ee324956d143e3bb281fdd}{%
-           family={Khalid},
-           familyi={K\bibinitperiod},
-           given={Fariza},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{84729b74a8ba35588088254c6f0e15f6}
-      \strng{fullhash}{71ce33628d3bee305833f9f89d0b391f}
-      \strng{bibnamehash}{71ce33628d3bee305833f9f89d0b391f}
-      \strng{authorbibnamehash}{71ce33628d3bee305833f9f89d0b391f}
-      \strng{authornamehash}{84729b74a8ba35588088254c6f0e15f6}
-      \strng{authorfullhash}{71ce33628d3bee305833f9f89d0b391f}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Int. J. Eng. Adv. Technol}
-      \field{title}{Incorporating the elements of computational thinking into the Mobile Application Development Life Cycle (MADLC) model}
-      \field{type}{Journal Article}
-      \field{year}{2019}
-    \endentry
     \entry{silahudin19}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bc8346e6b47900a338f68f0c841a684d}{%
@@ -1869,32 +1627,6 @@
       \verb{doi}
       \verb 10.1109/ACCESS.2020.2981892
       \endverb
-    \endentry
-    \entry{wen21}{thesis}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f16a80c476f5897cbaf36a76a7e5e584}{%
-           family={Wen},
-           familyi={W\bibinitperiod},
-           given={Lim\bibnamedelima Yu},
-           giveni={L\bibinitperiod\bibinitdelim Y\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{f16a80c476f5897cbaf36a76a7e5e584}
-      \strng{fullhash}{f16a80c476f5897cbaf36a76a7e5e584}
-      \strng{bibnamehash}{f16a80c476f5897cbaf36a76a7e5e584}
-      \strng{authorbibnamehash}{f16a80c476f5897cbaf36a76a7e5e584}
-      \strng{authornamehash}{f16a80c476f5897cbaf36a76a7e5e584}
-      \strng{authorfullhash}{f16a80c476f5897cbaf36a76a7e5e584}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Music video application development using android}
-      \field{type}{Thesis}
-      \field{year}{2021}
     \endentry
     \entry{zanuar22}{article}{}
       \name{author}{2}{}{%
