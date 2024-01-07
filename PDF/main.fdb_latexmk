@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber PDF/main"] 1704577731.81846 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1704578229.13999 0
-  "PDF/main.bcf" 1704578228 141320 e69ec7d47f2cfd2ac2f552b22f4c655f "pdflatex"
-  "references/myref.bib" 1704426240 10964 fad9cc7aff0f87e4c1bba686ffe757f9 ""
+["biber PDF/main"] 1704655440.5833 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1704655511.34777 0
+  "PDF/main.bcf" 1704655510 142236 91a6409d065d19ec6d5e9639d612887c "pdflatex"
+  "references/myref.bib" 1704653001 11596 13c488240e91a80dfab99da7102d98ca ""
   (generated)
   "PDF/main.bbl"
   "PDF/main.blg"
   (rewritten before read)
-["pdflatex"] 1704578223.18674 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1704578229.14097 0
-  "PDF/main.aux" 1704578228 68863 4790aac369779769fd70482445400e4c "pdflatex"
-  "PDF/main.bbl" 1704577734 77279 a23ba72a369702faad2f82ff8a68728f "biber PDF/main"
-  "PDF/main.lof" 1704578228 2694 8837b24b8f0c56c88123cc2010d6f5d0 "pdflatex"
-  "PDF/main.lot" 1704578228 600 4004f90ac21f8f334196f8a823d6d47b "pdflatex"
-  "PDF/main.run.xml" 1704578228 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
-  "PDF/main.toc" 1704578228 7559 b008979f3877ddf14a8938daefdf2a4e "pdflatex"
+["pdflatex"] 1704655505.03564 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1704655511.34875 0
+  "PDF/main.aux" 1704655510 70383 a33ed170df68cba55d35db26336811e6 "pdflatex"
+  "PDF/main.bbl" 1704655443 82153 9e0086cb53c512e98d681425e44d7750 "biber PDF/main"
+  "PDF/main.lof" 1704655510 2694 53c6b3c8a5d2cdc055de1c1c4faac177 "pdflatex"
+  "PDF/main.lot" 1704655510 600 3d81b45fcfa15c7b19c1f5a0dd89529f "pdflatex"
+  "PDF/main.run.xml" 1704655510 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
+  "PDF/main.toc" 1704655510 7559 c756b9eacc49e5ee3cda1ac5eb31c909 "pdflatex"
   "appendices/appCoding.tex" 1703938997 200 8968f1dd35b4bc14234be7154d2028e2 ""
   "appendices/appData.tex" 1703938997 59 2fdc3b39a3c9664c93d472a2f8423a2d ""
   "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" 1703938997 1252 ab2db40c58bb66b4475819b54b7b0e98 ""
@@ -195,7 +195,7 @@
   "main.tex" 1703938997 1252 ab2db40c58bb66b4475819b54b7b0e98 ""
   "mainmatter/chapConclusion.tex" 1703938997 81 16bc1e4cf878df2de34c28b76d22eccd ""
   "mainmatter/chapIntro.tex" 1704022140 19594 fd35f2468fe76f8c97e7b6f6697c7e59 ""
-  "mainmatter/chapLiterature.tex" 1704578210 84752 709929f39094c3a7235839e4a9cc3439 ""
+  "mainmatter/chapLiterature.tex" 1704655489 88555 85a05cb44ac52cfb44ffbbe64f1fbba7 ""
   "mainmatter/chapMethodology.tex" 1703938997 5097 786f19dafbcb4e129efbdc70c78221f9 ""
   "mainmatter/chapResults.tex" 1703938997 7596 ec847aaf064dd7669ea158b406139f7f ""
   "mainmatter/images/bandcamp1.jpg" 1704531235 99541 75da519d545dff3e978a37ab9eb0da14 ""

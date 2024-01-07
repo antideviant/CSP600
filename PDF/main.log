@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.30)  7 JAN 2024 05:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.30)  8 JAN 2024 03:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1259,22 +1259,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
 [12
 
-]
+] [13] [14]
 Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-[13]
+
 Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
-
+[15]
 Overfull \hbox (3.05565pt too wide) in paragraph at lines 33--34
 \T1/ptm/m/n/12 al-ter-na-tive mu-sic gen-res in Malaysia, with lo-cal and world-wide ac-claim be-ing achieved
  []
 
-[14]
+
 Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
@@ -1284,12 +1284,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
-[15]
+[16] [17]
 Underfull \hbox (badness 10000) in paragraph at lines 49--50
 
  []
 
-[16]
+
 Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
@@ -1299,36 +1299,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
-<mainmatter/images/ugc1.png, id=412, 1363.34344pt x 661.72218pt>
+[18]
+<mainmatter/images/ugc1.png, id=430, 1363.34344pt x 661.72218pt>
 File: mainmatter/images/ugc1.png Graphic file (type png)
 <use mainmatter/images/ugc1.png>
 Package pdftex.def Info: mainmatter/images/ugc1.png  used on input line 57.
 (pdftex.def)             Requested size: 367.19751pt x 178.2231pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
-[17]
-<mainmatter/images/ugc2.png, id=418, 926.71219pt x 661.72218pt>
+<mainmatter/images/ugc2.png, id=431, 926.71219pt x 661.72218pt>
 File: mainmatter/images/ugc2.png Graphic file (type png)
 <use mainmatter/images/ugc2.png>
 Package pdftex.def Info: mainmatter/images/ugc2.png  used on input line 66.
 (pdftex.def)             Requested size: 326.40125pt x 233.0703pt.
- [18 <./mainmatter/images/ugc1.png> <./mainmatter/images/ugc2.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[19 <./mainmatter/images/ugc1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
-
+[20 <./mainmatter/images/ugc2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
 
-[19]
+
 Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
@@ -1338,7 +1338,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
-[20]
+[21]
 Underfull \hbox (badness 10000) in paragraph at lines 88--89
 
  []
@@ -1348,42 +1348,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
-
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
 
-[21]
+
 Underfull \hbox (badness 10000) in paragraph at lines 94--95
 
  []
 
-<mainmatter/images/gami1.jpg, id=447, 593.21625pt x 1284.8pt>
+<mainmatter/images/gami1.jpg, id=460, 593.21625pt x 1284.8pt>
 File: mainmatter/images/gami1.jpg Graphic file (type jpg)
 <use mainmatter/images/gami1.jpg>
 Package pdftex.def Info: mainmatter/images/gami1.jpg  used on input line 98.
 (pdftex.def)             Requested size: 142.80249pt x 309.27971pt.
-[22 <./mainmatter/images/gami1.jpg>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23]
 Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
-
+[24 <./mainmatter/images/gami1.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
  []
 
-[23]
+
 Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
-
+[25]
 Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
  []
 
-[24] [25]
+[26]
 Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
  []
@@ -1393,25 +1396,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
-[26]
-<mainmatter/images/musicplat1.png, id=479, 1445.4pt x 691.83469pt>
+[27]
+<mainmatter/images/musicplat1.png, id=492, 1445.4pt x 691.83469pt>
 File: mainmatter/images/musicplat1.png Graphic file (type png)
 <use mainmatter/images/musicplat1.png>
 Package pdftex.def Info: mainmatter/images/musicplat1.png  used on input line 133.
 (pdftex.def)             Requested size: 408.0pt x 195.28531pt.
- [27 <./mainmatter/images/musicplat1.png>]
-<mainmatter/images/musicplat2.png, id=485, 1445.4pt x 691.83469pt>
+ [28 <./mainmatter/images/musicplat1.png>]
+<mainmatter/images/musicplat2.png, id=499, 1445.4pt x 691.83469pt>
 File: mainmatter/images/musicplat2.png Graphic file (type png)
 <use mainmatter/images/musicplat2.png>
 Package pdftex.def Info: mainmatter/images/musicplat2.png  used on input line 143.
 (pdftex.def)             Requested size: 408.0pt x 195.28531pt.
- [28 <./mainmatter/images/musicplat2.png>]
-<mainmatter/images/musicplat3.png, id=492, 1445.4pt x 691.83469pt>
+ [29 <./mainmatter/images/musicplat2.png>]
+<mainmatter/images/musicplat3.png, id=505, 1445.4pt x 691.83469pt>
 File: mainmatter/images/musicplat3.png Graphic file (type png)
 <use mainmatter/images/musicplat3.png>
 Package pdftex.def Info: mainmatter/images/musicplat3.png  used on input line 153.
 (pdftex.def)             Requested size: 408.0pt x 195.28531pt.
- [29 <./mainmatter/images/musicplat3.png>]
+ [30 <./mainmatter/images/musicplat3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 161--162
 
  []
@@ -1421,7 +1424,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
  []
 
-[30]
+[31]
 Underfull \hbox (badness 10000) in paragraph at lines 169--170
 
  []
@@ -1436,7 +1439,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
-[31]
+[32]
 Underfull \hbox (badness 10000) in paragraph at lines 178--179
 
  []
@@ -1451,8 +1454,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 182--183
 
  []
 
-[32] [33]
-<mainmatter/images/typeapp.jpg, id=534, 853.1875pt x 446.66875pt>
+[33] [34]
+<mainmatter/images/typeapp.jpg, id=548, 853.1875pt x 446.66875pt>
 File: mainmatter/images/typeapp.jpg Graphic file (type jpg)
 <use mainmatter/images/typeapp.jpg>
 Package pdftex.def Info: mainmatter/images/typeapp.jpg  used on input line 194.
@@ -1461,12 +1464,12 @@ Package pdftex.def Info: mainmatter/images/typeapp.jpg  used on input line 194.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[34] [35 <./mainmatter/images/typeapp.jpg>]
+[35] [36 <./mainmatter/images/typeapp.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 211--212
 
  []
 
-[36]
+[37]
 Underfull \hbox (badness 10000) in paragraph at lines 213--214
 
  []
@@ -1481,7 +1484,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 220--221
 
  []
 
-[37]
+[38]
 Underfull \hbox (badness 10000) in paragraph at lines 222--223
 
  []
@@ -1496,12 +1499,12 @@ Overfull \hbox (2.79524pt too wide) in paragraph at lines 226--227
 []\T1/ptm/m/n/12 Finally, meet-ing user ex-pec-ta-tions for smooth and in-stinc-tive ex-pe-ri-ences poses
  []
 
-<mainmatter/images/userprofile.jpg, id=566, 1606.0pt x 803.0pt>
+<mainmatter/images/userprofile.jpg, id=579, 1606.0pt x 803.0pt>
 File: mainmatter/images/userprofile.jpg Graphic file (type jpg)
 <use mainmatter/images/userprofile.jpg>
 Package pdftex.def Info: mainmatter/images/userprofile.jpg  used on input line 232.
 (pdftex.def)             Requested size: 367.19751pt x 183.59561pt.
-[38]
+[39]
 Underfull \hbox (badness 10000) in paragraph at lines 238--239
 
  []
@@ -1516,8 +1519,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 242--243
 
  []
 
-[39 <./mainmatter/images/userprofile.jpg>] [40]
-<mainmatter/images/musicshare.jpg, id=586, 3625.545pt x 2007.75093pt>
+[40 <./mainmatter/images/userprofile.jpg>] [41]
+<mainmatter/images/musicshare.jpg, id=599, 3625.545pt x 2007.75093pt>
 File: mainmatter/images/musicshare.jpg Graphic file (type jpg)
 <use mainmatter/images/musicshare.jpg>
 Package pdftex.def Info: mainmatter/images/musicshare.jpg  used on input line 249.
@@ -1532,13 +1535,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 257--258
 
  []
 
-[41 <./mainmatter/images/musicshare.jpg>]
+[42 <./mainmatter/images/musicshare.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 259--260
 
  []
 
-[42]
-<mainmatter/images/favbookmark.jpg, id=597, 1246.6575pt x 951.555pt>
+[43]
+<mainmatter/images/favbookmark.jpg, id=610, 1246.6575pt x 951.555pt>
 File: mainmatter/images/favbookmark.jpg Graphic file (type jpg)
 <use mainmatter/images/favbookmark.jpg>
 Package pdftex.def Info: mainmatter/images/favbookmark.jpg  used on input line 266.
@@ -1558,8 +1561,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 276--277
 
  []
 
-[43 <./mainmatter/images/favbookmark.jpg>] [44]
-<mainmatter/images/ratingsreviews.png, id=608, 864.98157pt x 663.98062pt>
+[44 <./mainmatter/images/favbookmark.jpg>] [45]
+<mainmatter/images/ratingsreviews.png, id=621, 864.98157pt x 663.98062pt>
 File: mainmatter/images/ratingsreviews.png Graphic file (type png)
 <use mainmatter/images/ratingsreviews.png>
 Package pdftex.def Info: mainmatter/images/ratingsreviews.png  used on input line 283.
@@ -1574,55 +1577,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 291--292
 
  []
 
-[45 <./mainmatter/images/ratingsreviews.png>]
+[46 <./mainmatter/images/ratingsreviews.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 293--294
 
  []
 
-[46]
-<mainmatter/images/letterboxd1.jpg, id=621, 593.21625pt x 1284.8pt>
+[47]
+<mainmatter/images/letterboxd1.jpg, id=634, 593.21625pt x 1284.8pt>
 File: mainmatter/images/letterboxd1.jpg Graphic file (type jpg)
 <use mainmatter/images/letterboxd1.jpg>
 Package pdftex.def Info: mainmatter/images/letterboxd1.jpg  used on input line 303.
 (pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
-<mainmatter/images/letterboxd2.jpg, id=622, 593.21625pt x 1284.8pt>
+<mainmatter/images/letterboxd2.jpg, id=635, 593.21625pt x 1284.8pt>
 File: mainmatter/images/letterboxd2.jpg Graphic file (type jpg)
 <use mainmatter/images/letterboxd2.jpg>
 Package pdftex.def Info: mainmatter/images/letterboxd2.jpg  used on input line 310.
 (pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
-<mainmatter/images/letterboxd3.jpg, id=623, 593.21625pt x 1284.8pt>
+<mainmatter/images/letterboxd3.jpg, id=636, 593.21625pt x 1284.8pt>
 File: mainmatter/images/letterboxd3.jpg Graphic file (type jpg)
 <use mainmatter/images/letterboxd3.jpg>
 Package pdftex.def Info: mainmatter/images/letterboxd3.jpg  used on input line 317.
 (pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
- [47 <./mainmatter/images/letterboxd1.jpg> <./mainmatter/images/letterboxd2.jpg> <./mainmatter/images/letterboxd3.jpg>] [48]
-<mainmatter/images/spotify1.jpg, id=632, 593.21625pt x 1284.8pt>
+ [48 <./mainmatter/images/letterboxd1.jpg> <./mainmatter/images/letterboxd2.jpg> <./mainmatter/images/letterboxd3.jpg>] [49]
+<mainmatter/images/spotify1.jpg, id=645, 593.21625pt x 1284.8pt>
 File: mainmatter/images/spotify1.jpg Graphic file (type jpg)
 <use mainmatter/images/spotify1.jpg>
 Package pdftex.def Info: mainmatter/images/spotify1.jpg  used on input line 338.
 (pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
-<mainmatter/images/spotify2.jpg, id=633, 593.21625pt x 1284.8pt>
+<mainmatter/images/spotify2.jpg, id=646, 593.21625pt x 1284.8pt>
 File: mainmatter/images/spotify2.jpg Graphic file (type jpg)
 <use mainmatter/images/spotify2.jpg>
 Package pdftex.def Info: mainmatter/images/spotify2.jpg  used on input line 345.
 (pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
-<mainmatter/images/spotify3.jpg, id=634, 593.21625pt x 1284.8pt>
+<mainmatter/images/spotify3.jpg, id=647, 593.21625pt x 1284.8pt>
 File: mainmatter/images/spotify3.jpg Graphic file (type jpg)
 <use mainmatter/images/spotify3.jpg>
 Package pdftex.def Info: mainmatter/images/spotify3.jpg  used on input line 352.
 (pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
- [49 <./mainmatter/images/spotify1.jpg> <./mainmatter/images/spotify2.jpg> <./mainmatter/images/spotify3.jpg>] [50]
-<mainmatter/images/twitch1.jpg, id=643, 593.21625pt x 1284.8pt>
+ [50 <./mainmatter/images/spotify1.jpg> <./mainmatter/images/spotify2.jpg> <./mainmatter/images/spotify3.jpg>] [51]
+<mainmatter/images/twitch1.jpg, id=656, 593.21625pt x 1284.8pt>
 File: mainmatter/images/twitch1.jpg Graphic file (type jpg)
 <use mainmatter/images/twitch1.jpg>
 Package pdftex.def Info: mainmatter/images/twitch1.jpg  used on input line 373.
 (pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
-<mainmatter/images/twitch2.jpg, id=644, 593.21625pt x 1284.8pt>
+<mainmatter/images/twitch2.jpg, id=657, 593.21625pt x 1284.8pt>
 File: mainmatter/images/twitch2.jpg Graphic file (type jpg)
 <use mainmatter/images/twitch2.jpg>
 Package pdftex.def Info: mainmatter/images/twitch2.jpg  used on input line 380.
 (pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
-<mainmatter/images/twitch3.jpg, id=645, 593.21625pt x 1284.8pt>
+<mainmatter/images/twitch3.jpg, id=658, 593.21625pt x 1284.8pt>
 File: mainmatter/images/twitch3.jpg Graphic file (type jpg)
 <use mainmatter/images/twitch3.jpg>
 Package pdftex.def Info: mainmatter/images/twitch3.jpg  used on input line 387.
@@ -1632,34 +1635,34 @@ Overfull \hbox (5.57664pt too wide) in paragraph at lines 394--395
 \T1/ptm/m/n/12 net-work, has ex-pe-ri-enced sig-nif-i-cant growth be-yond its ini-tial fo-cus on gam-ing. Twitch,
  []
 
-[51 <./mainmatter/images/twitch1.jpg> <./mainmatter/images/twitch2.jpg> <./mainmatter/images/twitch3.jpg>] [52]
-<mainmatter/images/bandcamp1.jpg, id=659, 593.21625pt x 1284.8pt>
+[52 <./mainmatter/images/twitch1.jpg> <./mainmatter/images/twitch2.jpg> <./mainmatter/images/twitch3.jpg>] [53]
+<mainmatter/images/bandcamp1.jpg, id=672, 593.21625pt x 1284.8pt>
 File: mainmatter/images/bandcamp1.jpg Graphic file (type jpg)
 <use mainmatter/images/bandcamp1.jpg>
 Package pdftex.def Info: mainmatter/images/bandcamp1.jpg  used on input line 408.
 (pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
-<mainmatter/images/bandcamp2.jpg, id=660, 593.21625pt x 1284.8pt>
+<mainmatter/images/bandcamp2.jpg, id=673, 593.21625pt x 1284.8pt>
 File: mainmatter/images/bandcamp2.jpg Graphic file (type jpg)
 <use mainmatter/images/bandcamp2.jpg>
 Package pdftex.def Info: mainmatter/images/bandcamp2.jpg  used on input line 415.
 (pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
-<mainmatter/images/bandcamp3.jpg, id=661, 593.21625pt x 1284.8pt>
+<mainmatter/images/bandcamp3.jpg, id=674, 593.21625pt x 1284.8pt>
 File: mainmatter/images/bandcamp3.jpg Graphic file (type jpg)
 <use mainmatter/images/bandcamp3.jpg>
 Package pdftex.def Info: mainmatter/images/bandcamp3.jpg  used on input line 422.
 (pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
- [53 <./mainmatter/images/bandcamp1.jpg> <./mainmatter/images/bandcamp2.jpg> <./mainmatter/images/bandcamp3.jpg>] [54]
-<mainmatter/images/soundcloud1.jpg, id=674, 593.21625pt x 1284.8pt>
+ [54 <./mainmatter/images/bandcamp1.jpg> <./mainmatter/images/bandcamp2.jpg> <./mainmatter/images/bandcamp3.jpg>] [55]
+<mainmatter/images/soundcloud1.jpg, id=688, 593.21625pt x 1284.8pt>
 File: mainmatter/images/soundcloud1.jpg Graphic file (type jpg)
 <use mainmatter/images/soundcloud1.jpg>
 Package pdftex.def Info: mainmatter/images/soundcloud1.jpg  used on input line 443.
 (pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
-<mainmatter/images/soundcloud2.jpg, id=675, 593.21625pt x 1284.8pt>
+<mainmatter/images/soundcloud2.jpg, id=689, 593.21625pt x 1284.8pt>
 File: mainmatter/images/soundcloud2.jpg Graphic file (type jpg)
 <use mainmatter/images/soundcloud2.jpg>
 Package pdftex.def Info: mainmatter/images/soundcloud2.jpg  used on input line 450.
 (pdftex.def)             Requested size: 122.40125pt x 265.0913pt.
-<mainmatter/images/soundcloud3.jpg, id=676, 593.21625pt x 1284.8pt>
+<mainmatter/images/soundcloud3.jpg, id=690, 593.21625pt x 1284.8pt>
 File: mainmatter/images/soundcloud3.jpg Graphic file (type jpg)
 <use mainmatter/images/soundcloud3.jpg>
 Package pdftex.def Info: mainmatter/images/soundcloud3.jpg  used on input line 457.
@@ -1669,7 +1672,7 @@ Overfull \hbox (1.58331pt too wide) in paragraph at lines 464--465
 []\T1/ptm/m/n/12 SoundCloud is a unique and ex-ten-sively uti-lized mo-bile ap-pli-ca-tion that specif-
  []
 
-[55 <./mainmatter/images/soundcloud1.jpg> <./mainmatter/images/soundcloud2.jpg> <./mainmatter/images/soundcloud3.jpg>] [56]
+[56 <./mainmatter/images/soundcloud1.jpg> <./mainmatter/images/soundcloud2.jpg> <./mainmatter/images/soundcloud3.jpg>] [57]
 Overfull \hbox (5.30023pt too wide) in alignment at lines 474--481
  [] [] [] [] [] [] 
  []
@@ -1704,23 +1707,23 @@ Overfull \hbox (5.30023pt too wide) in alignment at lines 481--494
  [] [] [] [] [] [] 
  []
 
-[57]
+[58]
 Underfull \hbox (badness 10000) in paragraph at lines 498--499
 
  []
 
-[58]
+[59]
 Underfull \hbox (badness 10000) in paragraph at lines 503--504
 
  []
 
-) (./mainmatter/chapMethodology.tex [59]
-<mainmatter/images/logouitm.png, id=700, 294.1389pt x 92.9874pt>
+) (./mainmatter/chapMethodology.tex [60]
+<mainmatter/images/logouitm.png, id=713, 294.1389pt x 92.9874pt>
 File: mainmatter/images/logouitm.png Graphic file (type png)
 <use mainmatter/images/logouitm.png>
 Package pdftex.def Info: mainmatter/images/logouitm.png  used on input line 49.
 (pdftex.def)             Requested size: 294.13817pt x 92.98717pt.
- [60
+ [61
 
  <./mainmatter/images/logouitm.png>]
 File: mainmatter/images/logouitm.png Graphic file (type png)
@@ -1747,18 +1750,18 @@ File: mainmatter/images/logouitm.png Graphic file (type png)
 <use mainmatter/images/logouitm.png>
 Package pdftex.def Info: mainmatter/images/logouitm.png  used on input line 105.
 (pdftex.def)             Requested size: 143.61734pt x 45.40388pt.
- [61]
-<example-image-a.jpg, id=711, 401.5pt x 301.125pt>
+ [62]
+<example-image-a.jpg, id=724, 401.5pt x 301.125pt>
 File: example-image-a.jpg Graphic file (type jpg)
 <use example-image-a.jpg>
 Package pdftex.def Info: example-image-a.jpg  used on input line 124.
 (pdftex.def)             Requested size: 143.61734pt x 107.71568pt.
-<example-image-b.jpg, id=712, 401.5pt x 301.125pt>
+<example-image-b.jpg, id=725, 401.5pt x 301.125pt>
 File: example-image-b.jpg Graphic file (type jpg)
 <use example-image-b.jpg>
 Package pdftex.def Info: example-image-b.jpg  used on input line 130.
 (pdftex.def)             Requested size: 143.61734pt x 107.71568pt.
-<example-image-c.jpg, id=713, 401.5pt x 301.125pt>
+<example-image-c.jpg, id=726, 401.5pt x 301.125pt>
 File: example-image-c.jpg Graphic file (type jpg)
 <use example-image-c.jpg>
 Package pdftex.def Info: example-image-c.jpg  used on input line 136.
@@ -1787,43 +1790,43 @@ File: example-image-c.jpg Graphic file (type jpg)
 <use example-image-c.jpg>
 Package pdftex.def Info: example-image-c.jpg  used on input line 174.
 (pdftex.def)             Requested size: 143.61734pt x 107.71568pt.
- [62 <c:/texlive/2023/texmf-dist/tex/latex/mwe/example-image-a.jpg> <c:/texlive/2023/texmf-dist/tex/latex/mwe/example-image-b.jpg> <c:/texlive/2023/texmf-dist/tex/latex/mwe/example-image-c.jpg>]) (./mainmatter/chapResults.tex [63
+ [63 <c:/texlive/2023/texmf-dist/tex/latex/mwe/example-image-a.jpg> <c:/texlive/2023/texmf-dist/tex/latex/mwe/example-image-b.jpg> <c:/texlive/2023/texmf-dist/tex/latex/mwe/example-image-c.jpg>]) (./mainmatter/chapResults.tex [64
 
 
-] [64
+] [65
 
 ]
 File: mainmatter/images/logouitm.png Graphic file (type png)
 <use mainmatter/images/logouitm.png>
 Package pdftex.def Info: mainmatter/images/logouitm.png  used on input line 45.
 (pdftex.def)             Requested size: 367.19751pt x 116.08781pt.
- [65] [66] [67] [68
+ [66] [67] [68] [69
 
-] [69]) (./mainmatter/chapConclusion.tex [70
+] [70]) (./mainmatter/chapConclusion.tex [71
 
-]) [71
+]) [72
 
-] [72
+] [73
 
-]
+] [74]
 Overfull \hbox (8.65909pt too wide) in paragraph at lines 37--37
 [][]\T1/ptm/m/n/12 Wambua, A. (2023). Security-aware mo-bile ap-pli-ca-tion de-vel-op-ment life-cy-cle (smadlc).
  []
 
-[73]
+
 Overfull \hbox (0.76027pt too wide) in paragraph at lines 37--37
 [][]\T1/ptm/m/n/12 Zanuar, S. N. S., & Md Noor, K. D. (2022). So-cial me-dia's ef-fec-tive-ness for malaysia's
  []
 
-[74] [75
+[75] [76
 
-] (./appendices/appData.tex) (./appendices/appCoding.tex [76
+] (./appendices/appData.tex) (./appendices/appCoding.tex [77
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6.
  (c:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)) [77
+)) [78
 
 {c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
 \tf@toc=\write5
@@ -1849,18 +1852,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27262 strings out of 474174
- 475183 string characters out of 5749676
+ 27282 strings out of 474174
+ 475683 string characters out of 5749676
  1953460 words of memory out of 5000000
- 48902 multiletter control sequences out of 15000+600000
+ 48919 multiletter control sequences out of 15000+600000
  613762 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,14n,107p,1479b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on PDF/main.pdf (92 pages, 8167799 bytes).
+Output written on PDF/main.pdf (93 pages, 8171861 bytes).
 PDF statistics:
- 1159 PDF objects out of 1200 (max. 8388607)
- 996 compressed objects within 10 object streams
- 249 named destinations out of 1000 (max. 500000)
+ 1173 PDF objects out of 1200 (max. 8388607)
+ 1008 compressed objects within 11 object streams
+ 252 named destinations out of 1000 (max. 500000)
  857 words of extra memory for PDF output out of 10000 (max. 10000000)
 

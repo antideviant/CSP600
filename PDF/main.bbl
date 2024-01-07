@@ -57,6 +57,36 @@
       \verb 10.1109/ICETSIS55481.2022.9888865
       \endverb
     \endentry
+    \entry{arditi21}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ab66c76d97accae16a994c93a103a6b7}{%
+           family={Arditi},
+           familyi={A\bibinitperiod},
+           given={David\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ab66c76d97accae16a994c93a103a6b7}
+      \strng{fullhash}{ab66c76d97accae16a994c93a103a6b7}
+      \strng{bibnamehash}{ab66c76d97accae16a994c93a103a6b7}
+      \strng{authorbibnamehash}{ab66c76d97accae16a994c93a103a6b7}
+      \strng{authornamehash}{ab66c76d97accae16a994c93a103a6b7}
+      \strng{authorfullhash}{ab66c76d97accae16a994c93a103a6b7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1930-014X}
+      \field{journaltitle}{Fast Capitalism}
+      \field{number}{1}
+      \field{title}{Precarious labor in COVID Times: The case of musicians}
+      \field{type}{Journal Article}
+      \field{volume}{18}
+      \field{year}{2021}
+    \endentry
     \entry{basaran22}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=f05906847555e33640088deeabb8464c}{%
@@ -395,6 +425,32 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Economics of Networks eJournal}
       \field{title}{User-Generated Content and Social Media}
+      \field{type}{Journal Article}
+      \field{year}{2021}
+    \endentry
+    \entry{martinez21}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4c87c00d0736fd5cd916f2d08064329f}{%
+           family={Martinez},
+           familyi={M\bibinitperiod},
+           given={Jessica\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4c87c00d0736fd5cd916f2d08064329f}
+      \strng{fullhash}{4c87c00d0736fd5cd916f2d08064329f}
+      \strng{bibnamehash}{4c87c00d0736fd5cd916f2d08064329f}
+      \strng{authorbibnamehash}{4c87c00d0736fd5cd916f2d08064329f}
+      \strng{authornamehash}{4c87c00d0736fd5cd916f2d08064329f}
+      \strng{authorfullhash}{4c87c00d0736fd5cd916f2d08064329f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Use of Social Media for Marketing by Independent Musicians}
       \field{type}{Journal Article}
       \field{year}{2021}
     \endentry
@@ -879,6 +935,36 @@
       \verb 10.1109/ICETSIS55481.2022.9888865
       \endverb
     \endentry
+    \entry{arditi21}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ab66c76d97accae16a994c93a103a6b7}{%
+           family={Arditi},
+           familyi={A\bibinitperiod},
+           given={David\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ab66c76d97accae16a994c93a103a6b7}
+      \strng{fullhash}{ab66c76d97accae16a994c93a103a6b7}
+      \strng{bibnamehash}{ab66c76d97accae16a994c93a103a6b7}
+      \strng{authorbibnamehash}{ab66c76d97accae16a994c93a103a6b7}
+      \strng{authornamehash}{ab66c76d97accae16a994c93a103a6b7}
+      \strng{authorfullhash}{ab66c76d97accae16a994c93a103a6b7}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1930-014X}
+      \field{journaltitle}{Fast Capitalism}
+      \field{number}{1}
+      \field{title}{Precarious labor in COVID Times: The case of musicians}
+      \field{type}{Journal Article}
+      \field{volume}{18}
+      \field{year}{2021}
+    \endentry
     \entry{basaran22}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=f05906847555e33640088deeabb8464c}{%
@@ -1217,6 +1303,32 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Economics of Networks eJournal}
       \field{title}{User-Generated Content and Social Media}
+      \field{type}{Journal Article}
+      \field{year}{2021}
+    \endentry
+    \entry{martinez21}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4c87c00d0736fd5cd916f2d08064329f}{%
+           family={Martinez},
+           familyi={M\bibinitperiod},
+           given={Jessica\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4c87c00d0736fd5cd916f2d08064329f}
+      \strng{fullhash}{4c87c00d0736fd5cd916f2d08064329f}
+      \strng{bibnamehash}{4c87c00d0736fd5cd916f2d08064329f}
+      \strng{authorbibnamehash}{4c87c00d0736fd5cd916f2d08064329f}
+      \strng{authornamehash}{4c87c00d0736fd5cd916f2d08064329f}
+      \strng{authorfullhash}{4c87c00d0736fd5cd916f2d08064329f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Use of Social Media for Marketing by Independent Musicians}
       \field{type}{Journal Article}
       \field{year}{2021}
     \endentry
