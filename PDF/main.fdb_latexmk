@@ -1,20 +1,20 @@
 # Fdb version 4
-["biber PDF/main"] 1704655440.5833 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1704695542.48931 0
-  "PDF/main.bcf" 1704695542 142236 91a6409d065d19ec6d5e9639d612887c "pdflatex"
+["biber PDF/main"] 1704740797.38222 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1704742059.00464 0
+  "PDF/main.bcf" 1704742058 143005 643d292a9d6063f37f491d67a83226e0 "pdflatex"
   "references/myref.bib" 1704653001 11596 13c488240e91a80dfab99da7102d98ca ""
   (generated)
   "PDF/main.bbl"
   "PDF/main.blg"
   (rewritten before read)
-["pdflatex"] 1704695535.22423 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1704695542.49056 0
-  "PDF/main.aux" 1704695541 68498 6fe0476168d9fc392aaf10621ded7bc7 "pdflatex"
-  "PDF/main.bbl" 1704655443 82153 9e0086cb53c512e98d681425e44d7750 "biber PDF/main"
-  "PDF/main.lof" 1704695542 2691 a8a900de549929ca5aeae2d9363d22fe "pdflatex"
-  "PDF/main.lot" 1704695542 336 a5545bf6afcc7e881319bb419d2601ea "pdflatex"
-  "PDF/main.run.xml" 1704695542 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
-  "PDF/main.toc" 1704695542 7527 1f0254a41614c80d99e5b4d121ebb3fc "pdflatex"
+["pdflatex"] 1704742052.83178 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1704742059.00556 0
+  "PDF/main.aux" 1704742058 69665 0903d68aa2a6f4a56fc526ceb48e7e12 "pdflatex"
+  "PDF/main.bbl" 1704740800 84345 3e86bc3c47eafa984f214ece9cdd6eae "biber PDF/main"
+  "PDF/main.lof" 1704742058 2811 90a50c79cd05c369b563650d093a8d4d "pdflatex"
+  "PDF/main.lot" 1704742058 336 e112967831fa5bbf066aa0dc8903b944 "pdflatex"
+  "PDF/main.run.xml" 1704742058 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
+  "PDF/main.toc" 1704742058 7454 6be9e915990dd24d5d4417a7342229ef "pdflatex"
   "appendices/appCoding.tex" 1704695435 196 acf334db694717f199e538e7980a8f0d ""
-  "appendices/appData.tex" 1704695434 366 0d2634f4944319ff3f4f42cf50f99a15 ""
+  "appendices/appData.tex" 1704735262 262 5f543619ca3ec0337eae50cd9f8cd15a ""
   "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" 1704695513 1260 2e1282c0a98867f3d677697e1a4386cd ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1702298067 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1702295631 2971 def0b6c1f0b107b3b936def894055589 ""
@@ -183,12 +183,13 @@
   "frontmatter/frontAcknowledgement.tex" 1703938997 1142 229b29f0a58e7e77d563093fe4b52aeb ""
   "frontmatter/frontAuthorsDeclaration.tex" 1703938997 48 3f9ac2e0e2a654138ec2a244ae829698 ""
   "main.tex" 1704695513 1260 2e1282c0a98867f3d677697e1a4386cd ""
-  "mainmatter/chapIntro.tex" 1704693751 19601 221c4befd3129148b38d79048e3fc538 ""
-  "mainmatter/chapLiterature.tex" 1704683606 88589 27a8c4ab79bcd73f4e2c0e5101343d51 ""
+  "mainmatter/chapIntro.tex" 1704738054 21277 eaf2be8283323edf42cb0ebee0c7ba66 ""
+  "mainmatter/chapLiterature.tex" 1704742051 94386 f76283370eebb58ce01f58bf23abc6d4 ""
   "mainmatter/chapMethodology.tex" 1704683927 5491 c71fd4f4041ef92b2d3348d5fca3d62d ""
   "mainmatter/images/bandcamp1.jpg" 1704531235 99541 75da519d545dff3e978a37ab9eb0da14 ""
   "mainmatter/images/bandcamp2.jpg" 1704531236 59858 2f62b90810abdb249aecff76963dea92 ""
   "mainmatter/images/bandcamp3.jpg" 1704531236 39993 871f6cae465a0d6e14ea023378325ba7 ""
+  "mainmatter/images/epk.png" 1704733778 177916 3f3f63a2bc43c484b9b04692efec055e ""
   "mainmatter/images/favbookmark.jpg" 1704543726 115145 616a7e4c25f64ea89457e5aefe539b14 ""
   "mainmatter/images/gami1.jpg" 1703938997 72433 c960ba4c9d8b7938139fc2ee1a448868 ""
   "mainmatter/images/letterboxd1.jpg" 1704529700 72367 0e41ee920b7419f26d11dbadff68a200 ""

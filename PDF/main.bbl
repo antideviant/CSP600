@@ -862,6 +862,32 @@
       \verb 10.1109/ACCESS.2020.2981892
       \endverb
     \endentry
+    \entry{wilson20}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9392c7d00387ff8324b02c5e0af9b9f2}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Dwayne},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9392c7d00387ff8324b02c5e0af9b9f2}
+      \strng{fullhash}{9392c7d00387ff8324b02c5e0af9b9f2}
+      \strng{bibnamehash}{9392c7d00387ff8324b02c5e0af9b9f2}
+      \strng{authorbibnamehash}{9392c7d00387ff8324b02c5e0af9b9f2}
+      \strng{authornamehash}{9392c7d00387ff8324b02c5e0af9b9f2}
+      \strng{authorfullhash}{9392c7d00387ff8324b02c5e0af9b9f2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How to Start a Career as an Independent Rapper}
+      \field{type}{Journal Article}
+      \field{year}{2020}
+    \endentry
     \entry{zanuar22}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=4c0ad8278e9cda4551aabb0f3ec1e6f8}{%
@@ -1739,6 +1765,32 @@
       \verb{doi}
       \verb 10.1109/ACCESS.2020.2981892
       \endverb
+    \endentry
+    \entry{wilson20}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9392c7d00387ff8324b02c5e0af9b9f2}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Dwayne},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9392c7d00387ff8324b02c5e0af9b9f2}
+      \strng{fullhash}{9392c7d00387ff8324b02c5e0af9b9f2}
+      \strng{bibnamehash}{9392c7d00387ff8324b02c5e0af9b9f2}
+      \strng{authorbibnamehash}{9392c7d00387ff8324b02c5e0af9b9f2}
+      \strng{authornamehash}{9392c7d00387ff8324b02c5e0af9b9f2}
+      \strng{authorfullhash}{9392c7d00387ff8324b02c5e0af9b9f2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How to Start a Career as an Independent Rapper}
+      \field{type}{Journal Article}
+      \field{year}{2020}
     \endentry
     \entry{zanuar22}{article}{}
       \name{author}{2}{}{%
