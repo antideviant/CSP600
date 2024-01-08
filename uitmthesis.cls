@@ -176,7 +176,7 @@
                 \else\MakeUppercase{\@author}\par\fi}%
             \vfill
             {\large
-                \@reportType\ submitted in \xxx\ \\
+                Thesis submitted in \xxx\ \\
                 of the requirements for the degree of\\
                 % xxx\thesistype\ submitted in xxxPARTIALxxx fullfillment\\
                 % of the requirements for the degree of\\
@@ -222,10 +222,10 @@
 \newcommand{\thereporttype}{\MakeLowercase\@reportType~}
 \newcommand{\declaration}{%
     \noindent
-    I declare that the work in this \thereporttype was carried out in accordance with the regulations of Universiti Teknologi MARA. It is original and is the results of my own work, unless otherwise indicated or acknowledged as referenced work. This thesis has not been submitted to any other academic institution or non-academic institution for any degree or qualification.
+    I declare that the work in this thesis was carried out in accordance with the regulations of Universiti Teknologi MARA. It is original and is the results of my own work, unless otherwise indicated or acknowledged as referenced work. This thesis has not been submitted to any other academic institution or non-academic institution for any degree or qualification.
 
     \bigskip\noindent
-    I, hereby, acknowledge that I have been supplied with the Academic Rules and Regulations for {\isIpsis}Universiti Teknologi MARA, regulating the conduct of my study and research.
+    I, hereby, acknowledge that I have been supplied with the Academic Rules and Regulations for {\isIpsis}Universiti Teknologi MARA, regulating the conduct of my study and project.
 
     \vspace{2cm}
     \noindent
@@ -266,7 +266,7 @@
     \def\@myreport{Report}%
     \SingleSpacing\par\noindent
     \ifx\@reportType\@myreport
-        \input{frontmatter/frontSupervisorApproval} % FYP.
+        %\input{frontmatter/frontSupervisorApproval} % FYP.
     \else
         \input{frontmatter/frontConfirmationExaminers} % postgraduate.
     \fi

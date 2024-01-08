@@ -1,18 +1,13 @@
 \changetocdepth {3}
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{SUPERVISOR'S APPROVAL}{i}{chapter*.1}%
-\contentsline {chapter}{AUTHOR'S DECLARATION}{ii}{chapter*.2}%
-\contentsline {chapter}{ABSTRACT}{iii}{chapter*.3}%
-\contentsline {chapter}{ACKNOWLEDGEMENT}{iv}{chapter*.4}%
-\contentsline {chapter}{TABLE OF CONTENTS}{v}{section*.5}%
-\contentsline {chapter}{LIST OF TABLES}{ix}{section*.6}%
-\contentsline {chapter}{LIST OF FIGURES}{x}{section*.7}%
-\contentsline {chapter}{LIST OF SYMBOLS}{xi}{chapter*.8}%
-\contentsline {chapter}{LIST OF ABBREVIATIONS}{xii}{chapter*.9}%
-\contentsline {chapter}{LIST OF NOMENCLATURES}{xiii}{chapter*.10}%
+\contentsline {chapter}{AUTHOR'S DECLARATION}{i}{chapter*.1}%
+\contentsline {chapter}{ACKNOWLEDGEMENT}{ii}{chapter*.2}%
+\contentsline {chapter}{TABLE OF CONTENTS}{iii}{section*.3}%
+\contentsline {chapter}{LIST OF TABLES}{vi}{section*.4}%
+\contentsline {chapter}{LIST OF FIGURES}{vii}{section*.5}%
 \vspace {1.7cm}
 \contentsline {chapter}{\chapternumberline {1}INTRODUCTION}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Project Background}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.1}Problem Background}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Problem Statement}{2}{section.1.2}%
 \contentsline {section}{\numberline {1.3}Project Aim}{4}{section.1.3}%
 \contentsline {section}{\numberline {1.4}Project Objectives}{4}{section.1.4}%
@@ -21,72 +16,76 @@
 \contentsline {subsection}{\numberline {1.5.2}Social Stakeholders}{5}{subsection.1.5.2}%
 \contentsline {subsection}{\numberline {1.5.3}Context of Study}{6}{subsection.1.5.3}%
 \contentsline {subsection}{\numberline {1.5.4}Language}{6}{subsection.1.5.4}%
-\contentsline {subsection}{\numberline {1.5.5}Methodology}{7}{subsection.1.5.5}%
-\contentsline {subsection}{\numberline {1.5.6}Tools/Equipment Needed for Project}{7}{subsection.1.5.6}%
-\contentsline {subsection}{\numberline {1.5.7}Features and Functions}{7}{subsection.1.5.7}%
-\contentsline {subsection}{\numberline {1.5.8}Project Limitations}{9}{subsection.1.5.8}%
+\contentsline {subsection}{\numberline {1.5.5}Tools/Equipment Needed for Project}{7}{subsection.1.5.5}%
+\contentsline {subsection}{\numberline {1.5.6}Features and Functions}{7}{subsection.1.5.6}%
+\contentsline {subsection}{\numberline {1.5.7}Project Limitations}{9}{subsection.1.5.7}%
 \contentsline {section}{\numberline {1.6}Significance of Study}{10}{section.1.6}%
 \contentsline {section}{\numberline {1.7}Chapter Summary}{11}{section.1.7}%
 \contentsline {chapter}{\chapternumberline {2}LITERATURE REVIEW}{12}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Introduction}{12}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Local Musicians}{12}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Types of Musicians}{13}{subsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.1.1}Independent Musicians}{13}{subsubsection.2.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.2.1.2}Hobbyist Musicians}{13}{subsubsection.2.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.2.1.3}Independent Label Musicians}{14}{subsubsection.2.2.1.3}%
-\contentsline {subsubsection}{\numberline {2.2.1.4}Major Label Musicians}{14}{subsubsection.2.2.1.4}%
-\contentsline {subsubsection}{\numberline {2.2.1.5}Postlabel Musicians}{15}{subsubsection.2.2.1.5}%
-\contentsline {subsection}{\numberline {2.2.2}Local Music Scene Trends}{15}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Local Music Scene Challenges}{16}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Electronic Press Kit}{17}{subsection.2.2.4}%
-\contentsline {section}{\numberline {2.3}Online Community}{17}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}User-Generated Content}{18}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Social Media Integration}{20}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Types of Interaction}{20}{subsection.2.3.3}%
-\contentsline {subsubsection}{\numberline {2.3.3.1}Gamification Elements}{22}{subsubsection.2.3.3.1}%
-\contentsline {subsection}{\numberline {2.3.4}Technology Growth in Online Community}{24}{subsection.2.3.4}%
-\contentsline {section}{\numberline {2.4}Music Discovery}{24}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Music Genre Diversity}{24}{subsection.2.4.1}%
-\contentsline {subsubsection}{\numberline {2.4.1.1}Underrepresented Genres}{25}{subsubsection.2.4.1.1}%
-\contentsline {subsection}{\numberline {2.4.2}Music Streaming Services Platforms}{27}{subsection.2.4.2}%
-\contentsline {subsubsection}{\numberline {2.4.2.1}Apple Music}{28}{subsubsection.2.4.2.1}%
-\contentsline {subsubsection}{\numberline {2.4.2.2}Spotify}{29}{subsubsection.2.4.2.2}%
-\contentsline {subsubsection}{\numberline {2.4.2.3}YouTube Music}{30}{subsubsection.2.4.2.3}%
-\contentsline {subsection}{\numberline {2.4.3}User Music Behavior}{31}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.4.4}Music Promotion Strategies}{32}{subsection.2.4.4}%
-\contentsline {subsubsection}{\numberline {2.4.4.1}Digital Marketing}{32}{subsubsection.2.4.4.1}%
-\contentsline {subsubsection}{\numberline {2.4.4.2}Fan Engagement}{33}{subsubsection.2.4.4.2}%
-\contentsline {section}{\numberline {2.5}Mobile Application}{35}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Type of Mobile Application}{35}{subsection.2.5.1}%
-\contentsline {subsubsection}{\numberline {2.5.1.1}Native Application}{36}{subsubsection.2.5.1.1}%
-\contentsline {subsubsection}{\numberline {2.5.1.2}Web Application}{37}{subsubsection.2.5.1.2}%
-\contentsline {subsubsection}{\numberline {2.5.1.3}Hybrid Application}{37}{subsubsection.2.5.1.3}%
-\contentsline {subsection}{\numberline {2.5.2}User Experience Design}{38}{subsection.2.5.2}%
-\contentsline {subsection}{\numberline {2.5.3}Challenges of Mobile Application Development}{39}{subsection.2.5.3}%
-\contentsline {subsection}{\numberline {2.5.4}Features of Mobile Application}{40}{subsection.2.5.4}%
-\contentsline {subsubsection}{\numberline {2.5.4.1}Profile Creation}{40}{subsubsection.2.5.4.1}%
-\contentsline {subsubsection}{\numberline {2.5.4.2}Music Snippet Sharing}{42}{subsubsection.2.5.4.2}%
-\contentsline {subsubsection}{\numberline {2.5.4.3}Favourite/Bookmark}{44}{subsubsection.2.5.4.3}%
-\contentsline {subsubsection}{\numberline {2.5.4.4}Ratings or Reviews}{46}{subsubsection.2.5.4.4}%
-\contentsline {section}{\numberline {2.6}Reviews of Existing Mobile Application}{48}{section.2.6}%
-\contentsline {subsection}{\numberline {2.6.1}Letterboxd}{48}{subsection.2.6.1}%
-\contentsline {subsection}{\numberline {2.6.2}Spotify}{50}{subsection.2.6.2}%
-\contentsline {subsection}{\numberline {2.6.3}Twitch}{52}{subsection.2.6.3}%
-\contentsline {subsection}{\numberline {2.6.4}Bandcamp}{54}{subsection.2.6.4}%
-\contentsline {subsection}{\numberline {2.6.5}SoundCloud}{56}{subsection.2.6.5}%
-\contentsline {subsection}{\numberline {2.6.6}Summary of Comparison between Existing Mobile Applications}{58}{subsection.2.6.6}%
-\contentsline {section}{\numberline {2.7}Chapter Summary}{60}{section.2.7}%
+\contentsline {section}{\numberline {2.2}Problem Domain}{12}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Local Musicians}{12}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Types of Musicians}{13}{subsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.1.1}Independent Musicians}{13}{subsubsection.2.3.1.1}%
+\contentsline {subsubsection}{\numberline {2.3.1.2}Hobbyist Musicians}{13}{subsubsection.2.3.1.2}%
+\contentsline {subsubsection}{\numberline {2.3.1.3}Independent Label Musicians}{14}{subsubsection.2.3.1.3}%
+\contentsline {subsubsection}{\numberline {2.3.1.4}Major Label Musicians}{14}{subsubsection.2.3.1.4}%
+\contentsline {subsubsection}{\numberline {2.3.1.5}Postlabel Musicians}{15}{subsubsection.2.3.1.5}%
+\contentsline {subsection}{\numberline {2.3.2}Local Music Scene Trends}{15}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Local Music Scene Challenges}{16}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Electronic Press Kit}{17}{subsection.2.3.4}%
+\contentsline {section}{\numberline {2.4}Online Community}{17}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}User-Generated Content}{18}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Social Media Integration}{20}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Types of Interaction}{20}{subsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.3.1}Gamification Elements}{22}{subsubsection.2.4.3.1}%
+\contentsline {subsection}{\numberline {2.4.4}Technology Growth in Online Community}{24}{subsection.2.4.4}%
+\contentsline {section}{\numberline {2.5}Music Discovery}{24}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Music Genre Diversity}{24}{subsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.1.1}Underrepresented Genres}{25}{subsubsection.2.5.1.1}%
+\contentsline {subsection}{\numberline {2.5.2}Music Streaming Services Platforms}{27}{subsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.2.1}Apple Music}{28}{subsubsection.2.5.2.1}%
+\contentsline {subsubsection}{\numberline {2.5.2.2}Spotify}{29}{subsubsection.2.5.2.2}%
+\contentsline {subsubsection}{\numberline {2.5.2.3}YouTube Music}{30}{subsubsection.2.5.2.3}%
+\contentsline {subsection}{\numberline {2.5.3}User Music Behavior}{31}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Music Promotion Strategies}{32}{subsection.2.5.4}%
+\contentsline {subsubsection}{\numberline {2.5.4.1}Digital Marketing}{32}{subsubsection.2.5.4.1}%
+\contentsline {subsubsection}{\numberline {2.5.4.2}Fan Engagement}{33}{subsubsection.2.5.4.2}%
+\contentsline {section}{\numberline {2.6}Mobile Application}{35}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Type of Mobile Application}{35}{subsection.2.6.1}%
+\contentsline {subsubsection}{\numberline {2.6.1.1}Native Application}{36}{subsubsection.2.6.1.1}%
+\contentsline {subsubsection}{\numberline {2.6.1.2}Web Application}{37}{subsubsection.2.6.1.2}%
+\contentsline {subsubsection}{\numberline {2.6.1.3}Hybrid Application}{37}{subsubsection.2.6.1.3}%
+\contentsline {subsection}{\numberline {2.6.2}User Experience Design}{38}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}Challenges of Mobile Application Development}{39}{subsection.2.6.3}%
+\contentsline {subsection}{\numberline {2.6.4}Features of Mobile Application}{40}{subsection.2.6.4}%
+\contentsline {subsubsection}{\numberline {2.6.4.1}Profile Creation}{40}{subsubsection.2.6.4.1}%
+\contentsline {subsubsection}{\numberline {2.6.4.2}Music Snippet Sharing}{42}{subsubsection.2.6.4.2}%
+\contentsline {subsubsection}{\numberline {2.6.4.3}Favourite/Bookmark}{44}{subsubsection.2.6.4.3}%
+\contentsline {subsubsection}{\numberline {2.6.4.4}Ratings or Reviews}{46}{subsubsection.2.6.4.4}%
+\contentsline {section}{\numberline {2.7}Reviews of Existing Mobile Application}{48}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}Letterboxd}{48}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}Spotify}{50}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.7.3}Twitch}{52}{subsection.2.7.3}%
+\contentsline {subsection}{\numberline {2.7.4}Bandcamp}{54}{subsection.2.7.4}%
+\contentsline {subsection}{\numberline {2.7.5}SoundCloud}{56}{subsection.2.7.5}%
+\contentsline {subsection}{\numberline {2.7.6}Summary of Comparison between Existing Mobile Applications}{58}{subsection.2.7.6}%
+\contentsline {section}{\numberline {2.8}Chapter Summary}{60}{section.2.8}%
 \contentsline {chapter}{\chapternumberline {3}RESEARCH METHODOLOGY}{61}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Study Area}{61}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Sampling}{61}{section.3.2}%
-\contentsline {chapter}{\chapternumberline {4}RESULTS AND DISCUSSIONS}{65}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Background of Study}{65}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Comparison of Method A with Other Studies}{65}{subsection.4.1.1}%
-\contentsline {subsubsection}{\numberline {4.1.1.1}Method A Improved}{65}{subsubsection.4.1.1.1}%
-\contentsline {chapter}{\chapternumberline {5}CONCLUSION AND RECOMMENDATIONS}{72}{chapter.5}%
-\contentsline {chapter}{REFERENCES}{73}{section*.38}%
-\contentsline {chapter}{APPENDICES}{76}{section*.39}%
+\contentsline {section}{\numberline {3.1}Introduction}{61}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Project Methodology}{61}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Project Activities}{61}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Planning Phase}{61}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Analysis Phase}{61}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Design Phase}{61}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Implementation Phase}{61}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Testing Phase}{61}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {3.3.6}Deployment Phase}{61}{subsection.3.3.6}%
+\contentsline {section}{\numberline {3.4}Study Area}{62}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Sampling}{62}{section.3.5}%
+\contentsline {chapter}{REFERENCES}{66}{section*.31}%
+\contentsline {chapter}{APPENDICES}{69}{section*.32}%
 \global \c@tocdepth -1\relax 
 \vspace {1.7cm}
-\contentsline {appendix}{\chapternumberline {A}THE DATA}{77}{appendix.A}%
-\contentsline {appendix}{\chapternumberline {B}THE CODING}{78}{appendix.B}%
+\contentsline {appendix}{\chapternumberline {A}THE DATA}{70}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {B}THE CODING}{71}{appendix.B}%
