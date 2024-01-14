@@ -86,5 +86,4 @@
 \contentsline {chapter}{APPENDICES}{72}{section*.33}%
 \global \c@tocdepth -1\relax 
 \vspace {1.7cm}
-\contentsline {appendix}{\chapternumberline {A}GANNT Chart}{73}{appendix.A}%
-\contentsline {appendix}{\chapternumberline {B}THE CODING}{74}{appendix.B}%
+\contentsline {appendix}{\chapternumberline {A}GANTT Chart}{73}{appendix.A}%
