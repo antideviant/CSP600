@@ -81,8 +81,8 @@
 \contentsline {subsection}{\numberline {3.3.5}Testing Phase}{64}{subsection.3.3.5}%
 \contentsline {section}{\numberline {3.4}Study Area}{65}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Sampling}{65}{section.3.5}%
-\contentsline {chapter}{REFERENCES}{69}{section*.32}%
-\contentsline {chapter}{APPENDICES}{72}{section*.33}%
+\contentsline {chapter}{REFERENCES}{70}{section*.33}%
+\contentsline {chapter}{APPENDICES}{73}{section*.34}%
 \global \c@tocdepth -1\relax 
 \vspace {1.7cm}
-\contentsline {appendix}{\chapternumberline {A}GANTT Chart}{73}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {A}GANTT Chart}{74}{appendix.A}%
