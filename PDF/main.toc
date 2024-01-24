@@ -72,18 +72,17 @@
 \contentsline {subsection}{\numberline {2.7.6}Summary of Comparison between Existing Mobile Applications}{62}{subsection.2.7.6}%
 \contentsline {chapter}{\chapternumberline {3}RESEARCH METHODOLOGY}{64}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Introduction}{64}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Project Methodology}{64}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Project Activities}{64}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Planning Phase}{64}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Analysis Phase}{64}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Design Phase}{64}{subsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.3.4}Implementation Phase}{64}{subsection.3.3.4}%
-\contentsline {subsection}{\numberline {3.3.5}Testing Phase}{64}{subsection.3.3.5}%
-\contentsline {subsection}{\numberline {3.3.6}Deployment Phase}{64}{subsection.3.3.6}%
-\contentsline {section}{\numberline {3.4}Study Area}{65}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Sampling}{65}{section.3.5}%
-\contentsline {chapter}{REFERENCES}{69}{section*.32}%
-\contentsline {chapter}{APPENDICES}{72}{section*.33}%
+\contentsline {section}{\numberline {3.2}Overview of Mobile Application Development Lifecycle (MADLC)}{64}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Methodology Development and Related Activities}{64}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Identification Phase}{64}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Design Phase}{65}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Development Phase}{65}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Prototyping Phase}{65}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Testing Phase}{65}{subsection.3.3.5}%
+\contentsline {section}{\numberline {3.4}Study Area}{66}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Sampling}{66}{section.3.5}%
+\contentsline {chapter}{REFERENCES}{70}{section*.32}%
+\contentsline {chapter}{APPENDICES}{73}{section*.33}%
 \global \c@tocdepth -1\relax 
 \vspace {1.7cm}
-\contentsline {appendix}{\chapternumberline {A}GANTT Chart}{73}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {A}GANTT Chart}{74}{appendix.A}%
