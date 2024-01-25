@@ -3,8 +3,8 @@
 \contentsline {chapter}{AUTHOR'S DECLARATION}{i}{chapter*.1}%
 \contentsline {chapter}{ACKNOWLEDGEMENT}{ii}{chapter*.2}%
 \contentsline {chapter}{TABLE OF CONTENTS}{iii}{section*.3}%
-\contentsline {chapter}{LIST OF TABLES}{vii}{section*.4}%
-\contentsline {chapter}{LIST OF FIGURES}{viii}{section*.5}%
+\contentsline {chapter}{LIST OF TABLES}{vi}{section*.4}%
+\contentsline {chapter}{LIST OF FIGURES}{vii}{section*.5}%
 \vspace {1.7cm}
 \contentsline {chapter}{\chapternumberline {1}INTRODUCTION}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Problem Background}{1}{section.1.1}%
