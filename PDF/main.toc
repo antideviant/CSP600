@@ -75,14 +75,14 @@
 \contentsline {section}{\numberline {3.2}Overview of Mobile Application Development Lifecycle (MADLC)}{64}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Methodology Development and Related Activities}{64}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}Identification Phase}{64}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Design Phase}{64}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Development Phase}{64}{subsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.3.4}Prototyping Phase}{64}{subsection.3.3.4}%
-\contentsline {subsection}{\numberline {3.3.5}Testing Phase}{64}{subsection.3.3.5}%
-\contentsline {section}{\numberline {3.4}Study Area}{65}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Sampling}{65}{section.3.5}%
-\contentsline {chapter}{REFERENCES}{70}{section*.33}%
-\contentsline {chapter}{APPENDICES}{73}{section*.34}%
+\contentsline {subsection}{\numberline {3.3.2}Design Phase}{65}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Development Phase}{67}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Prototyping Phase}{67}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Testing Phase}{67}{subsection.3.3.5}%
+\contentsline {section}{\numberline {3.4}Study Area}{67}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Sampling}{67}{section.3.5}%
+\contentsline {chapter}{REFERENCES}{72}{section*.33}%
+\contentsline {chapter}{APPENDICES}{75}{section*.34}%
 \global \c@tocdepth -1\relax 
 \vspace {1.7cm}
-\contentsline {appendix}{\chapternumberline {A}GANTT Chart}{74}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {A}GANTT Chart}{76}{appendix.A}%
