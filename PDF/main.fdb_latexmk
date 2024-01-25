@@ -1,6 +1,25 @@
 # Fdb version 4
+<<<<<<< HEAD
 ["pdflatex"] 1706210500.64298 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1706210502.73189 2
   "PDF/main.aux" 1706210502 151 c379c68e936dc184f45fa733cc32b312 "pdflatex"
+=======
+["biber PDF/main"] 1706127594.09044 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1706127609.60205 0
+  "PDF/main.bcf" 1706127609 143005 643d292a9d6063f37f491d67a83226e0 "pdflatex"
+  "references/myref.bib" 1704653001 11596 13c488240e91a80dfab99da7102d98ca ""
+  (generated)
+  "PDF/main.bbl"
+  "PDF/main.blg"
+  (rewritten before read)
+["pdflatex"] 1706127603.14851 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1706127609.60307 0
+  "PDF/main.aux" 1706127609 69710 97b0b825a3a599d62c50d4b295832ed3 "pdflatex"
+  "PDF/main.bbl" 1706127596 84345 3e86bc3c47eafa984f214ece9cdd6eae "biber PDF/main"
+  "PDF/main.lof" 1706127609 2811 f9ccff936a3d36e3f3de2ed951b4f2ee "pdflatex"
+  "PDF/main.lot" 1706127609 336 e112967831fa5bbf066aa0dc8903b944 "pdflatex"
+  "PDF/main.run.xml" 1706127609 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
+  "PDF/main.toc" 1706127609 7366 5b44c835814e352d7099ddac65adb611 "pdflatex"
+  "appendices/appData.tex" 1706127541 226 b6f7fcc0e4af85f20fb9320890a36a75 ""
+  "appendices/ganttchart.png" 1706127541 192365 193245c4bbd5e272b67db25a0922a2fa ""
+>>>>>>> parent of b988d47 (CSP600)
   "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" 1706127541 1262 65c6a7eb1b1ec1c8b4f69ae02a843dc7 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1702300158 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm" 1702314305 6672 e3ab9e37e925f3045c9005e6d1473d56 ""
@@ -123,6 +142,42 @@
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1703928795 8217985 40c8b0277739c52cd335f98479551cbd ""
   "c:/texlive/2023/texmf.cnf" 1702317627 713 e69b156964470283e0530f5060668171 ""
   "main.tex" 1706127541 1262 65c6a7eb1b1ec1c8b4f69ae02a843dc7 ""
+<<<<<<< HEAD
+=======
+  "mainmatter/chapIntro.tex" 1705143147 21289 984f28c0a8b8106da64473be79c784f7 ""
+  "mainmatter/chapLiterature.tex" 1704742051 94386 f76283370eebb58ce01f58bf23abc6d4 ""
+  "mainmatter/chapMethodology.tex" 1706127562 5935 4b9d3029e904665e9441de9d6f0ecb41 ""
+  "mainmatter/images/bandcamp1.jpg" 1704531235 99541 75da519d545dff3e978a37ab9eb0da14 ""
+  "mainmatter/images/bandcamp2.jpg" 1704531236 59858 2f62b90810abdb249aecff76963dea92 ""
+  "mainmatter/images/bandcamp3.jpg" 1704531236 39993 871f6cae465a0d6e14ea023378325ba7 ""
+  "mainmatter/images/epk.png" 1704733778 177916 3f3f63a2bc43c484b9b04692efec055e ""
+  "mainmatter/images/favbookmark.jpg" 1704543726 115145 616a7e4c25f64ea89457e5aefe539b14 ""
+  "mainmatter/images/gami1.jpg" 1703938997 72433 c960ba4c9d8b7938139fc2ee1a448868 ""
+  "mainmatter/images/letterboxd1.jpg" 1704529700 72367 0e41ee920b7419f26d11dbadff68a200 ""
+  "mainmatter/images/letterboxd2.jpg" 1704529700 54292 d188952b79d40d384b93ab45f112b1dd ""
+  "mainmatter/images/letterboxd3.jpg" 1704529701 64441 355a2222dfe8c1f6724d95314350ec1f ""
+  "mainmatter/images/logouitm.png" 1703938997 48547 f0d17bf2d913ab3f8e809d94b2b05674 ""
+  "mainmatter/images/musicplat1.png" 1704019846 288949 8f4f27c30cf75fb8c20a2036f7572704 ""
+  "mainmatter/images/musicplat2.png" 1704019865 1814140 99890222ce1f80ca4f477ae9afdd07cf ""
+  "mainmatter/images/musicplat3.png" 1704019910 1804019 808f202d8b16f57543980754bb853c78 ""
+  "mainmatter/images/musicshare.jpg" 1704544010 1066678 5e91aabe45fb9409ca27c224c1bbaf5f ""
+  "mainmatter/images/probstate1.png" 1703938997 106504 15fab106bb6d0663def3fae886324de0 ""
+  "mainmatter/images/probstate2.png" 1703938997 23447 317047d338f2baada128dd717cef7fb9 ""
+  "mainmatter/images/ratingsreviews.png" 1704543768 364090 bf1b3037f35cc4f9c98f1cc4cbb0ca25 ""
+  "mainmatter/images/soundcloud1.jpg" 1704531270 89002 3fa8adb08162329cb00221b28402c5a1 ""
+  "mainmatter/images/soundcloud2.jpg" 1704531271 58508 7816feabc237cb42d3a39a6bdcaba558 ""
+  "mainmatter/images/soundcloud3.jpg" 1704531272 58764 ab05f1ce5c489218b305e3d81abcafb4 ""
+  "mainmatter/images/spotify1.jpg" 1704531164 83459 e3d6e6dd704ffd846be360acb3a667f0 ""
+  "mainmatter/images/spotify2.jpg" 1704531165 74655 8fd3a290cdaf9e982bda4ce19a854c1a ""
+  "mainmatter/images/spotify3.jpg" 1704531166 67908 f3d52d042665d1efc5f415dc9a127c6d ""
+  "mainmatter/images/twitch1.jpg" 1704531181 82634 734683b8ad5242bf774b4e9c3537338f ""
+  "mainmatter/images/twitch2.jpg" 1704531182 60751 56aa02361236f4001486dc1225b57715 ""
+  "mainmatter/images/twitch3.jpg" 1704531183 77463 4d36499cb6e8f6a52080543db60777c6 ""
+  "mainmatter/images/typeapp.jpg" 1704215590 51249 9a18153a98fb24f267dc7158c4459153 ""
+  "mainmatter/images/ugc1.png" 1703938997 988497 ae85133d437f7539b3efbdc13e7a8b6a ""
+  "mainmatter/images/ugc2.png" 1703938997 381491 c1a385a520fb55df8aca7a98d9766f23 ""
+  "mainmatter/images/userprofile.jpg" 1704543409 75213 25c12339a5453fba26c0f17a741990fd ""
+>>>>>>> parent of b988d47 (CSP600)
   "settings.tex" 1704692121 3627 04c7dcbc7b3f0bf4b56b10a82ddb0417 ""
   "uitmthesis.cls" 1704692763 20967 c956def5f99bf73a0f38ba304518bdc0 ""
   (generated)
