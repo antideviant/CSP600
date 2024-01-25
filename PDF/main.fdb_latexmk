@@ -1,8 +1,11 @@
 # Fdb version 4
 <<<<<<< HEAD
+<<<<<<< HEAD
 ["pdflatex"] 1706210500.64298 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1706210502.73189 2
   "PDF/main.aux" 1706210502 151 c379c68e936dc184f45fa733cc32b312 "pdflatex"
 =======
+=======
+>>>>>>> parent of b988d47 (CSP600)
 ["biber PDF/main"] 1706127594.09044 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1706127609.60205 0
   "PDF/main.bcf" 1706127609 143005 643d292a9d6063f37f491d67a83226e0 "pdflatex"
   "references/myref.bib" 1704653001 11596 13c488240e91a80dfab99da7102d98ca ""
