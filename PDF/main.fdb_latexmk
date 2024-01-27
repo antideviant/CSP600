@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber PDF/main"] 1706211180.39516 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1706219344.3995 0
-  "PDF/main.bcf" 1706219343 143005 643d292a9d6063f37f491d67a83226e0 "pdflatex"
-  "references/myref.bib" 1704653001 11596 13c488240e91a80dfab99da7102d98ca ""
+["biber PDF/main"] 1706393414.72921 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1706394662.94976 0
+  "PDF/main.bcf" 1706394662 144115 e0ebddab4c1b1a85bc380ab0555df01e "pdflatex"
+  "references/myref.bib" 1706390180 11906 4c151e4cb877bec68d198b1adc99304f ""
   (generated)
   "PDF/main.bbl"
   "PDF/main.blg"
   (rewritten before read)
-["pdflatex"] 1706219337.90435 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1706219344.40048 0
-  "PDF/main.aux" 1706219343 71019 33f4419bfd721adec218ee841ed58718 "pdflatex"
-  "PDF/main.bbl" 1706211192 84345 3e86bc3c47eafa984f214ece9cdd6eae "biber PDF/main"
-  "PDF/main.lof" 1706219343 2811 9077cc448637e84934a98431c8b03dbc "pdflatex"
-  "PDF/main.lot" 1706219343 868 f3b3267a574e632c6560a4f849b3c717 "pdflatex"
-  "PDF/main.run.xml" 1706219343 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
-  "PDF/main.toc" 1706219343 7366 1afa4456884f0689937fee9db3d374cd "pdflatex"
+["pdflatex"] 1706394655.46556 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1706394662.95072 0
+  "PDF/main.aux" 1706394662 73423 0e239953c57c174a8ede011de07eabc6 "pdflatex"
+  "PDF/main.bbl" 1706393417 101605 1c540648cf70696083208af8b6a28fb4 "biber PDF/main"
+  "PDF/main.lof" 1706394662 2929 682a11caa3ec33d1cabb17b3f6860776 "pdflatex"
+  "PDF/main.lot" 1706394662 868 f435a5200cb51bb291f143a4804ff8e6 "pdflatex"
+  "PDF/main.run.xml" 1706394662 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
+  "PDF/main.toc" 1706394662 7366 b4deb3d01eb667e53232f838b8806f2f "pdflatex"
   "appendices/appData.tex" 1706127541 226 b6f7fcc0e4af85f20fb9320890a36a75 ""
   "appendices/ganttchart.png" 1706127541 192365 193245c4bbd5e272b67db25a0922a2fa ""
   "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" 1706127541 1262 65c6a7eb1b1ec1c8b4f69ae02a843dc7 ""
@@ -181,7 +181,7 @@
   "main.tex" 1706127541 1262 65c6a7eb1b1ec1c8b4f69ae02a843dc7 ""
   "mainmatter/chapIntro.tex" 1705143147 21289 984f28c0a8b8106da64473be79c784f7 ""
   "mainmatter/chapLiterature.tex" 1704742051 94386 f76283370eebb58ce01f58bf23abc6d4 ""
-  "mainmatter/chapMethodology.tex" 1706219337 17099 a9a8ee8d4484ef56582a4dc8d49c64b2 ""
+  "mainmatter/chapMethodology.tex" 1706394638 22397 d8eeed48929ece0de13ec02e5df97ba1 ""
   "mainmatter/images/bandcamp1.jpg" 1704531235 99541 75da519d545dff3e978a37ab9eb0da14 ""
   "mainmatter/images/bandcamp2.jpg" 1704531236 59858 2f62b90810abdb249aecff76963dea92 ""
   "mainmatter/images/bandcamp3.jpg" 1704531236 39993 871f6cae465a0d6e14ea023378325ba7 ""
@@ -192,6 +192,7 @@
   "mainmatter/images/letterboxd2.jpg" 1704529700 54292 d188952b79d40d384b93ab45f112b1dd ""
   "mainmatter/images/letterboxd3.jpg" 1704529701 64441 355a2222dfe8c1f6724d95314350ec1f ""
   "mainmatter/images/logouitm.png" 1703938997 48547 f0d17bf2d913ab3f8e809d94b2b05674 ""
+  "mainmatter/images/madlc1.png" 1706389804 325297 5969d66e1ad8da0f7a5542bcc21f4491 ""
   "mainmatter/images/musicplat1.png" 1704019846 288949 8f4f27c30cf75fb8c20a2036f7572704 ""
   "mainmatter/images/musicplat2.png" 1704019865 1814140 99890222ce1f80ca4f477ae9afdd07cf ""
   "mainmatter/images/musicplat3.png" 1704019910 1804019 808f202d8b16f57543980754bb853c78 ""
