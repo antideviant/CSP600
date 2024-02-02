@@ -120,6 +120,34 @@
       \field{type}{Journal Article}
       \field{year}{2022}
     \endentry
+    \entry{brooke95}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=813064283275c281401d7a7483420c67}{%
+           family={Brooke},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{813064283275c281401d7a7483420c67}
+      \strng{fullhash}{813064283275c281401d7a7483420c67}
+      \strng{bibnamehash}{813064283275c281401d7a7483420c67}
+      \strng{authorbibnamehash}{813064283275c281401d7a7483420c67}
+      \strng{authornamehash}{813064283275c281401d7a7483420c67}
+      \strng{authorfullhash}{813064283275c281401d7a7483420c67}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Usability Evaluation Industry}
+      \field{title}{SUS: A quick and dirty usability scale}
+      \field{type}{Journal Article}
+      \field{volume}{189}
+      \field{year}{1995}
+    \endentry
     \entry{edlom21}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=cf34c06f93a4ef991c98788b9783152e}{%
@@ -1228,6 +1256,34 @@
       \field{title}{Exploring digital marketing in entertainment industry: a case of a digital music platform}
       \field{type}{Journal Article}
       \field{year}{2022}
+    \endentry
+    \entry{brooke95}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=813064283275c281401d7a7483420c67}{%
+           family={Brooke},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{813064283275c281401d7a7483420c67}
+      \strng{fullhash}{813064283275c281401d7a7483420c67}
+      \strng{bibnamehash}{813064283275c281401d7a7483420c67}
+      \strng{authorbibnamehash}{813064283275c281401d7a7483420c67}
+      \strng{authornamehash}{813064283275c281401d7a7483420c67}
+      \strng{authorfullhash}{813064283275c281401d7a7483420c67}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Usability Evaluation Industry}
+      \field{title}{SUS: A quick and dirty usability scale}
+      \field{type}{Journal Article}
+      \field{volume}{189}
+      \field{year}{1995}
     \endentry
     \entry{edlom21}{article}{}
       \name{author}{2}{}{%

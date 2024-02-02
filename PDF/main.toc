@@ -79,9 +79,9 @@
 \contentsline {subsection}{\numberline {3.3.3}Development Phase}{74}{subsection.3.3.3}%
 \contentsline {subsection}{\numberline {3.3.4}Prototyping Phase}{76}{subsection.3.3.4}%
 \contentsline {subsection}{\numberline {3.3.5}Testing Phase}{78}{subsection.3.3.5}%
-\contentsline {section}{\numberline {3.4}Documentation}{79}{section.3.4}%
-\contentsline {chapter}{REFERENCES}{80}{section*.35}%
-\contentsline {chapter}{APPENDICES}{83}{section*.36}%
+\contentsline {section}{\numberline {3.4}Documentation}{80}{section.3.4}%
+\contentsline {chapter}{REFERENCES}{81}{section*.39}%
+\contentsline {chapter}{APPENDICES}{84}{section*.40}%
 \global \c@tocdepth -1\relax 
 \vspace {1.7cm}
-\contentsline {appendix}{\chapternumberline {A}GANTT Chart}{84}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {A}GANTT Chart}{85}{appendix.A}%
