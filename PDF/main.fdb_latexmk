@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber PDF/main"] 1706899609.53776 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1706906772.73682 0
-  "PDF/main.bcf" 1706906772 145767 fad51ee0f2a1a3b76b3d7e3b82ab8e08 "pdflatex"
+["biber PDF/main"] 1706899609.53776 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1707198432.11053 0
+  "PDF/main.bcf" 1707198431 145767 fad51ee0f2a1a3b76b3d7e3b82ab8e08 "pdflatex"
   "references/myref.bib" 1706898146 12133 f3ac3e6e2dd3d322787f370dee189f5f ""
   (generated)
   "PDF/main.bbl"
   "PDF/main.blg"
   (rewritten before read)
-["pdflatex"] 1706906764.88 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1706906772.73774 0
-  "PDF/main.aux" 1706906772 75028 8bb700719e8f91fb750a9ba04e513b15 "pdflatex"
+["pdflatex"] 1707198424.30353 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1707198432.11147 0
+  "PDF/main.aux" 1707198431 76057 56247c0d4900a8e7c70af362d8642f19 "pdflatex"
   "PDF/main.bbl" 1706899612 103949 e90f7ae36d81a22f7c66840b62a5c002 "biber PDF/main"
-  "PDF/main.lof" 1706906772 2972 97339d7934e95e7e34036532bb938cd7 "pdflatex"
-  "PDF/main.lot" 1706906772 1126 fd69f12b7684d145ba8cb3e2087dbd8d "pdflatex"
-  "PDF/main.run.xml" 1706906772 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
-  "PDF/main.toc" 1706906772 7300 8df35e8419dc833cdbe228a4c8244a9c "pdflatex"
+  "PDF/main.lof" 1707198431 3095 ed35ace355962172775b8d404909d316 "pdflatex"
+  "PDF/main.lot" 1707198431 1126 ebf90e3d10f77264171601547468eb4b "pdflatex"
+  "PDF/main.run.xml" 1707198431 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
+  "PDF/main.toc" 1707198431 7375 454dbc6ec16853e570ff7a7c75f71be5 "pdflatex"
   "appendices/appData.tex" 1706127541 226 b6f7fcc0e4af85f20fb9320890a36a75 ""
   "appendices/ganttchart.png" 1706127541 192365 193245c4bbd5e272b67db25a0922a2fa ""
   "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" 1706127541 1262 65c6a7eb1b1ec1c8b4f69ae02a843dc7 ""
@@ -173,9 +173,9 @@
   "frontmatter/frontAcknowledgement.tex" 1703938997 1142 229b29f0a58e7e77d563093fe4b52aeb ""
   "frontmatter/frontAuthorsDeclaration.tex" 1703938997 48 3f9ac2e0e2a654138ec2a244ae829698 ""
   "main.tex" 1706127541 1262 65c6a7eb1b1ec1c8b4f69ae02a843dc7 ""
-  "mainmatter/chapIntro.tex" 1706906761 21903 2829b1a91b26fe92ccff068d4756d5d8 ""
-  "mainmatter/chapLiterature.tex" 1704742051 94386 f76283370eebb58ce01f58bf23abc6d4 ""
-  "mainmatter/chapMethodology.tex" 1706905887 43249 ccb882a0f77a7773aef115298c3109bf ""
+  "mainmatter/chapIntro.tex" 1707186347 21907 af708615decc119f44565cad7305a8cc ""
+  "mainmatter/chapLiterature.tex" 1707198423 98251 374da69febe7888c37e5e6fa2cc0d4a1 ""
+  "mainmatter/chapMethodology.tex" 1707195293 43249 f22e1fd2b2c0536ec9ab7e221ac03ad3 ""
   "mainmatter/images/bandcamp1.jpg" 1704531235 99541 75da519d545dff3e978a37ab9eb0da14 ""
   "mainmatter/images/bandcamp2.jpg" 1704531236 59858 2f62b90810abdb249aecff76963dea92 ""
   "mainmatter/images/bandcamp3.jpg" 1704531236 39993 871f6cae465a0d6e14ea023378325ba7 ""
@@ -188,6 +188,9 @@
   "mainmatter/images/favbookmark.jpg" 1704543726 115145 616a7e4c25f64ea89457e5aefe539b14 ""
   "mainmatter/images/gami1.jpg" 1703938997 72433 c960ba4c9d8b7938139fc2ee1a448868 ""
   "mainmatter/images/ganttchart.png" 1706127541 192365 193245c4bbd5e272b67db25a0922a2fa ""
+  "mainmatter/images/imdb1.jpg" 1707195019 92660 06584fd7d1e09d4273eb47dc7ea06c9a ""
+  "mainmatter/images/imdb2.jpg" 1707195020 82280 97d3e432d8b18bc01e769fe7ef8e2954 ""
+  "mainmatter/images/imdb3.jpg" 1707195021 71737 2339fe60bfd2fe8774e98d66ee45f48b ""
   "mainmatter/images/letterboxd1.jpg" 1704529700 72367 0e41ee920b7419f26d11dbadff68a200 ""
   "mainmatter/images/letterboxd2.jpg" 1704529700 54292 d188952b79d40d384b93ab45f112b1dd ""
   "mainmatter/images/letterboxd3.jpg" 1704529701 64441 355a2222dfe8c1f6724d95314350ec1f ""
@@ -213,7 +216,7 @@
   "mainmatter/images/ugc1.png" 1703938997 988497 ae85133d437f7539b3efbdc13e7a8b6a ""
   "mainmatter/images/ugc2.png" 1703938997 381491 c1a385a520fb55df8aca7a98d9766f23 ""
   "mainmatter/images/userprofile.jpg" 1704543409 75213 25c12339a5453fba26c0f17a741990fd ""
-  "settings.tex" 1704692121 3627 04c7dcbc7b3f0bf4b56b10a82ddb0417 ""
+  "settings.tex" 1707189555 3627 04c7dcbc7b3f0bf4b56b10a82ddb0417 ""
   "uitmthesis.cls" 1704692763 20967 c956def5f99bf73a0f38ba304518bdc0 ""
   (generated)
   "PDF/main.aux"
