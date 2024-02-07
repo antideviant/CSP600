@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber PDF/main"] 1706899609.53776 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1707198432.11053 0
-  "PDF/main.bcf" 1707198431 145767 fad51ee0f2a1a3b76b3d7e3b82ab8e08 "pdflatex"
+["biber PDF/main"] 1706899609.53776 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1707298749.40345 0
+  "PDF/main.bcf" 1707298748 145767 fad51ee0f2a1a3b76b3d7e3b82ab8e08 "pdflatex"
   "references/myref.bib" 1706898146 12133 f3ac3e6e2dd3d322787f370dee189f5f ""
   (generated)
   "PDF/main.bbl"
   "PDF/main.blg"
   (rewritten before read)
-["pdflatex"] 1707198424.30353 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1707198432.11147 0
-  "PDF/main.aux" 1707198431 76057 56247c0d4900a8e7c70af362d8642f19 "pdflatex"
+["pdflatex"] 1707298741.95169 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1707298749.40459 0
+  "PDF/main.aux" 1707298748 76057 b17cdc1c56dae9f26cd32c4ef2f40adf "pdflatex"
   "PDF/main.bbl" 1706899612 103949 e90f7ae36d81a22f7c66840b62a5c002 "biber PDF/main"
-  "PDF/main.lof" 1707198431 3095 ed35ace355962172775b8d404909d316 "pdflatex"
-  "PDF/main.lot" 1707198431 1126 ebf90e3d10f77264171601547468eb4b "pdflatex"
-  "PDF/main.run.xml" 1707198431 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
-  "PDF/main.toc" 1707198431 7375 454dbc6ec16853e570ff7a7c75f71be5 "pdflatex"
+  "PDF/main.lof" 1707298748 3095 ed35ace355962172775b8d404909d316 "pdflatex"
+  "PDF/main.lot" 1707298748 1126 ebf90e3d10f77264171601547468eb4b "pdflatex"
+  "PDF/main.run.xml" 1707298748 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
+  "PDF/main.toc" 1707298748 7375 454dbc6ec16853e570ff7a7c75f71be5 "pdflatex"
   "appendices/appData.tex" 1706127541 226 b6f7fcc0e4af85f20fb9320890a36a75 ""
   "appendices/ganttchart.png" 1706127541 192365 193245c4bbd5e272b67db25a0922a2fa ""
   "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" 1706127541 1262 65c6a7eb1b1ec1c8b4f69ae02a843dc7 ""
@@ -173,8 +173,8 @@
   "frontmatter/frontAcknowledgement.tex" 1703938997 1142 229b29f0a58e7e77d563093fe4b52aeb ""
   "frontmatter/frontAuthorsDeclaration.tex" 1703938997 48 3f9ac2e0e2a654138ec2a244ae829698 ""
   "main.tex" 1706127541 1262 65c6a7eb1b1ec1c8b4f69ae02a843dc7 ""
-  "mainmatter/chapIntro.tex" 1707186347 21907 af708615decc119f44565cad7305a8cc ""
-  "mainmatter/chapLiterature.tex" 1707198423 98251 374da69febe7888c37e5e6fa2cc0d4a1 ""
+  "mainmatter/chapIntro.tex" 1707298741 21899 8d3a7466fd1541f010680f4997f61f4a ""
+  "mainmatter/chapLiterature.tex" 1707298247 98261 b49665e69cab27518883c09089b9b515 ""
   "mainmatter/chapMethodology.tex" 1707195293 43249 f22e1fd2b2c0536ec9ab7e221ac03ad3 ""
   "mainmatter/images/bandcamp1.jpg" 1704531235 99541 75da519d545dff3e978a37ab9eb0da14 ""
   "mainmatter/images/bandcamp2.jpg" 1704531236 59858 2f62b90810abdb249aecff76963dea92 ""

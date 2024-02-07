@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.30)  6 FEB 2024 13:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.30)  7 FEB 2024 17:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1713,7 +1713,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 535--535
  []
 
 
-Overfull \hbox (33.14005pt too wide) in alignment at lines 530--537
+Overfull \hbox (30.29503pt too wide) in alignment at lines 530--537
  [] [] [] [] [] [] [] 
  []
 
@@ -1745,6 +1745,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 540--540
 
 Underfull \hbox (badness 10000) in paragraph at lines 540--540
 []|\T1/ptm/m/n/12 iOS &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--544
+[]|\T1/ptm/b/n/12 User Pro-
  []
 
 
@@ -1768,7 +1773,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 546--546
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 547--547
+Underfull \hbox (badness 3861) in paragraph at lines 547--547
 []|\T1/ptm/b/n/12 Ratings or
  []
 
@@ -1788,8 +1793,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 549--549
  []
 
 
-Overfull \hbox (33.14005pt too wide) in alignment at lines 537--550
+Overfull \hbox (30.29503pt too wide) in alignment at lines 537--550
  [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 552--553
+
  []
 
 [64]
@@ -2872,7 +2882,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  99i,19n,107p,1479b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on PDF/main.pdf (96 pages, 9794223 bytes).
+Output written on PDF/main.pdf (96 pages, 9794271 bytes).
 PDF statistics:
  1218 PDF objects out of 1440 (max. 8388607)
  1045 compressed objects within 11 object streams
