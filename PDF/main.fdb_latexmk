@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber PDF/main"] 1706899609.53776 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1707303200.86273 0
-  "PDF/main.bcf" 1707303200 145767 fad51ee0f2a1a3b76b3d7e3b82ab8e08 "pdflatex"
+["biber PDF/main"] 1706899609.53776 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1707537484.83741 0
+  "PDF/main.bcf" 1707537484 145767 fad51ee0f2a1a3b76b3d7e3b82ab8e08 "pdflatex"
   "references/myref.bib" 1706898146 12133 f3ac3e6e2dd3d322787f370dee189f5f ""
   (generated)
   "PDF/main.bbl"
   "PDF/main.blg"
   (rewritten before read)
-["pdflatex"] 1707303191.23259 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1707303200.86371 0
-  "PDF/main.aux" 1707303200 76057 b17cdc1c56dae9f26cd32c4ef2f40adf "pdflatex"
+["pdflatex"] 1707537475.32703 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1707537484.83838 0
+  "PDF/main.aux" 1707537484 76057 b17cdc1c56dae9f26cd32c4ef2f40adf "pdflatex"
   "PDF/main.bbl" 1706899612 103949 e90f7ae36d81a22f7c66840b62a5c002 "biber PDF/main"
-  "PDF/main.lof" 1707303200 3095 ed35ace355962172775b8d404909d316 "pdflatex"
-  "PDF/main.lot" 1707303200 1126 ebf90e3d10f77264171601547468eb4b "pdflatex"
-  "PDF/main.run.xml" 1707303200 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
-  "PDF/main.toc" 1707303200 7375 454dbc6ec16853e570ff7a7c75f71be5 "pdflatex"
+  "PDF/main.lof" 1707537484 3095 ed35ace355962172775b8d404909d316 "pdflatex"
+  "PDF/main.lot" 1707537484 1126 ebf90e3d10f77264171601547468eb4b "pdflatex"
+  "PDF/main.run.xml" 1707537484 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
+  "PDF/main.toc" 1707537484 7375 454dbc6ec16853e570ff7a7c75f71be5 "pdflatex"
   "appendices/appData.tex" 1706127541 226 b6f7fcc0e4af85f20fb9320890a36a75 ""
   "appendices/ganttchart.png" 1706127541 192365 193245c4bbd5e272b67db25a0922a2fa ""
   "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" 1706127541 1262 65c6a7eb1b1ec1c8b4f69ae02a843dc7 ""
@@ -174,7 +174,7 @@
   "frontmatter/frontAuthorsDeclaration.tex" 1703938997 48 3f9ac2e0e2a654138ec2a244ae829698 ""
   "main.tex" 1706127541 1262 65c6a7eb1b1ec1c8b4f69ae02a843dc7 ""
   "mainmatter/chapIntro.tex" 1707298741 21899 8d3a7466fd1541f010680f4997f61f4a ""
-  "mainmatter/chapLiterature.tex" 1707303182 98270 22fc0ec1825dd7155513aebc74b62b98 ""
+  "mainmatter/chapLiterature.tex" 1707537472 98270 4d946dad185c7a3dc10285dabac6dccb ""
   "mainmatter/chapMethodology.tex" 1707195293 43249 f22e1fd2b2c0536ec9ab7e221ac03ad3 ""
   "mainmatter/images/bandcamp1.jpg" 1704531235 99541 75da519d545dff3e978a37ab9eb0da14 ""
   "mainmatter/images/bandcamp2.jpg" 1704531236 59858 2f62b90810abdb249aecff76963dea92 ""
