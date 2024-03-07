@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.30)  10 FEB 2024 11:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.30)  7 MAR 2024 22:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2033,7 +2033,7 @@ Overfull \hbox (3.0pt too wide) in paragraph at lines 209--209
  []
 
 
-Overfull \vbox (65.06908pt too high) detected at line 216
+Overfull \vbox (51.46907pt too high) detected at line 216
  []
 
 
@@ -2070,7 +2070,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 229--230
 
  []
 
-[73]
+
 Overfull \hbox (2.73749pt too wide) in paragraph at lines 245--245
 []|[]| 
  []
@@ -2234,7 +2234,7 @@ Overfull \hbox (2.73749pt too wide) in paragraph at lines 347--347
 []|[]| 
  []
 
-
+[73]
 Overfull \vbox (13.6pt too high) detected at line 365
  []
 
@@ -2583,17 +2583,17 @@ File: mainmatter/images/exampleucd.png Graphic file (type png)
 <use mainmatter/images/exampleucd.png>
 Package pdftex.def Info: mainmatter/images/exampleucd.png  used on input line 591.
 (pdftex.def)             Requested size: 125.66414pt x 69.96829pt.
-<mainmatter/images/exampleerd.png, id=801, 782.925pt x 376.40625pt>
-File: mainmatter/images/exampleerd.png Graphic file (type png)
-<use mainmatter/images/exampleerd.png>
-Package pdftex.def Info: mainmatter/images/exampleerd.png  used on input line 598.
-(pdftex.def)             Requested size: 143.61734pt x 69.04248pt.
+<mainmatter/images/examplehmodel.png, id=801, 668.4975pt x 355.3275pt>
+File: mainmatter/images/examplehmodel.png Graphic file (type png)
+<use mainmatter/images/examplehmodel.png>
+Package pdftex.def Info: mainmatter/images/examplehmodel.png  used on input line 598.
+(pdftex.def)             Requested size: 143.61734pt x 76.33427pt.
 <mainmatter/images/examplesequencediagram.png, id=802, 601.4972pt x 314.67563pt>
 File: mainmatter/images/examplesequencediagram.png Graphic file (type png)
 <use mainmatter/images/examplesequencediagram.png>
 Package pdftex.def Info: mainmatter/images/examplesequencediagram.png  used on input line 605.
 (pdftex.def)             Requested size: 143.61734pt x 75.13477pt.
- [75 <./mainmatter/images/exampleflowchart.jpeg> <./mainmatter/images/exampleucd.png> <./mainmatter/images/exampleerd.png (PNG copy)> <./mainmatter/images/examplesequencediagram.png>]
+ [75 <./mainmatter/images/exampleflowchart.jpeg> <./mainmatter/images/exampleucd.png> <./mainmatter/images/examplehmodel.png> <./mainmatter/images/examplesequencediagram.png>]
 Overfull \vbox (74.9614pt too high) detected at line 636
  []
 
@@ -2662,7 +2662,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 670--671
 
  []
 
-<mainmatter/images/ssandroidstudio.png, id=812, 1445.4pt x 903.375pt>
+<mainmatter/images/ssandroidstudio.png, id=813, 1445.4pt x 903.375pt>
 File: mainmatter/images/ssandroidstudio.png Graphic file (type png)
 <use mainmatter/images/ssandroidstudio.png>
 Package pdftex.def Info: mainmatter/images/ssandroidstudio.png  used on input line 674.
@@ -2843,7 +2843,7 @@ Overfull \hbox (0.76027pt too wide) in paragraph at lines 37--37
 [85] [86
 
 ] (./appendices/appData.tex
-<appendices/ganttchart.png, id=872, 1477.46982pt x 1806.75pt>
+<appendices/ganttchart.png, id=873, 1477.46982pt x 1806.75pt>
 File: appendices/ganttchart.png Graphic file (type png)
 <use appendices/ganttchart.png>
 Package pdftex.def Info: appendices/ganttchart.png  used on input line 5.
@@ -2875,16 +2875,16 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  27294 strings out of 474174
- 476970 string characters out of 5749676
+ 476991 string characters out of 5749676
  1980460 words of memory out of 5000000
  48953 multiletter control sequences out of 15000+600000
  607767 words of font info for 111 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,19n,107p,1479b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on PDF/main.pdf (96 pages, 9794297 bytes).
+Output written on PDF/main.pdf (96 pages, 9795283 bytes).
 PDF statistics:
- 1218 PDF objects out of 1440 (max. 8388607)
+ 1219 PDF objects out of 1440 (max. 8388607)
  1045 compressed objects within 11 object streams
  272 named destinations out of 1000 (max. 500000)
  870 words of extra memory for PDF output out of 10000 (max. 10000000)

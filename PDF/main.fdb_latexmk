@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber PDF/main"] 1706899609.53776 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1707537484.83741 0
-  "PDF/main.bcf" 1707537484 145767 fad51ee0f2a1a3b76b3d7e3b82ab8e08 "pdflatex"
+["biber PDF/main"] 1706899609.53776 "PDF/main.bcf" "PDF/main.bbl" "PDF/main" 1709820559.54814 0
+  "PDF/main.bcf" 1709820559 145767 fad51ee0f2a1a3b76b3d7e3b82ab8e08 "pdflatex"
   "references/myref.bib" 1706898146 12133 f3ac3e6e2dd3d322787f370dee189f5f ""
   (generated)
   "PDF/main.bbl"
   "PDF/main.blg"
   (rewritten before read)
-["pdflatex"] 1707537475.32703 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1707537484.83838 0
-  "PDF/main.aux" 1707537484 76057 b17cdc1c56dae9f26cd32c4ef2f40adf "pdflatex"
+["pdflatex"] 1709820551.94385 "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" "PDF/main.pdf" "main" 1709820559.54917 0
+  "PDF/main.aux" 1709820559 76027 06f6d68857604c6114b06e08b42f2ff4 "pdflatex"
   "PDF/main.bbl" 1706899612 103949 e90f7ae36d81a22f7c66840b62a5c002 "biber PDF/main"
-  "PDF/main.lof" 1707537484 3095 ed35ace355962172775b8d404909d316 "pdflatex"
-  "PDF/main.lot" 1707537484 1126 ebf90e3d10f77264171601547468eb4b "pdflatex"
-  "PDF/main.run.xml" 1707537484 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
-  "PDF/main.toc" 1707537484 7375 454dbc6ec16853e570ff7a7c75f71be5 "pdflatex"
+  "PDF/main.lof" 1709820559 3095 ed35ace355962172775b8d404909d316 "pdflatex"
+  "PDF/main.lot" 1709820559 1126 ebf90e3d10f77264171601547468eb4b "pdflatex"
+  "PDF/main.run.xml" 1709820559 2433 9615c3ec793d1eb17de43f4d372b1c50 "pdflatex"
+  "PDF/main.toc" 1709820559 7375 454dbc6ec16853e570ff7a7c75f71be5 "pdflatex"
   "appendices/appData.tex" 1706127541 226 b6f7fcc0e4af85f20fb9320890a36a75 ""
   "appendices/ganttchart.png" 1706127541 192365 193245c4bbd5e272b67db25a0922a2fa ""
   "c:/Users/Nitro5/Documents/GitHub/WebLaTex/main.tex" 1706127541 1262 65c6a7eb1b1ec1c8b4f69ae02a843dc7 ""
@@ -175,13 +175,13 @@
   "main.tex" 1706127541 1262 65c6a7eb1b1ec1c8b4f69ae02a843dc7 ""
   "mainmatter/chapIntro.tex" 1707298741 21899 8d3a7466fd1541f010680f4997f61f4a ""
   "mainmatter/chapLiterature.tex" 1707537472 98270 4d946dad185c7a3dc10285dabac6dccb ""
-  "mainmatter/chapMethodology.tex" 1707195293 43249 f22e1fd2b2c0536ec9ab7e221ac03ad3 ""
+  "mainmatter/chapMethodology.tex" 1709820549 43161 c53f3c1b5e89b2a8651a97142b94b3db ""
   "mainmatter/images/bandcamp1.jpg" 1704531235 99541 75da519d545dff3e978a37ab9eb0da14 ""
   "mainmatter/images/bandcamp2.jpg" 1704531236 59858 2f62b90810abdb249aecff76963dea92 ""
   "mainmatter/images/bandcamp3.jpg" 1704531236 39993 871f6cae465a0d6e14ea023378325ba7 ""
   "mainmatter/images/epk.png" 1704733778 177916 3f3f63a2bc43c484b9b04692efec055e ""
-  "mainmatter/images/exampleerd.png" 1706822259 23308 042f4db31f87e3456e6f349927d35315 ""
   "mainmatter/images/exampleflowchart.jpeg" 1706822776 27847 617e512acddfc3021e9bcef0e4fafd5f ""
+  "mainmatter/images/examplehmodel.png" 1709820531 61318 871f0a91267e8fae28b74dd0f1f6b941 ""
   "mainmatter/images/examplesequencediagram.png" 1706822534 22704 9d1b0e12f847ceb98d3f7fcf23b25a9e ""
   "mainmatter/images/exampleucd.png" 1706822802 193761 6fa818a84bb5b8a0c485018e44e432cf ""
   "mainmatter/images/exampleuserpersona.jpg" 1706804527 171531 494a4cc345ecd9c342d4f93c12863799 ""
