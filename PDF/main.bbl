@@ -646,6 +646,54 @@
       \field{type}{Conference Proceedings}
       \field{year}{2021}
     \endentry
+    \entry{mokos20}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e2509253d550037351e99b52e9b6e7fa}{%
+           family={Mokos},
+           familyi={M\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aba42c6a6cf60c9bb81c6df2e040c1ed}{%
+           family={Katsaros},
+           familyi={K\bibinitperiod},
+           given={Panagiotis},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{fullhash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{bibnamehash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{authorbibnamehash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{authornamehash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{authorfullhash}{193427b431a2c4f3506a49072b2143fc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{System requirements define conditions and capabilities to be met by a system under design. They are a partial definition in natural language, with inevitable ambiguities. Formalisation concerns with the transformation of requirements into a specification with unique interpretation, for resolving ambiguities, underspecified references and for assessing whether requirements are consistent, correct (i.e. valid for an acceptable solution) and attainable. Formalisation and validation of system requirements provides early evidence of adequate specification, for reducing the validation tests and high-cost corrective measures in the later system development phases. This article has the following contributions. First, we characterise the specification problem based on an ontology for some domain. Thus, requirements represent a particular system among many possible ones, and their specification takes the form of mapping their concepts to a semantic model of the system. Second, we analyse the state-of-the-art of pattern-based specification languages, which are used to avoid ambiguity. We then discuss the semantic analyses (missing requirements, inconsistencies etc.) supported in such a framework. Third, we survey related research on the derivation of formal properties from requirements, i.e. verifiable specifications that constrain the system’s structure and behaviour. Possible flaws in requirements may render the derived properties unsatisfiable or not realizable. Finally, this article discusses the important challenges for the current requirements analysis tools, towards being adopted in industrial-scale projects.}
+      \field{issn}{2590-0056}
+      \field{journaltitle}{Array}
+      \field{title}{A survey on the formalisation of system requirements and their validation}
+      \field{type}{Journal Article}
+      \field{volume}{7}
+      \field{year}{2020}
+      \field{pages}{100030}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.array.2020.100030
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2590005620300151
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2590005620300151
+      \endverb
+      \keyw{Requirement specification,Requirement formalisation,Semantic analysis,Model-based design,Component-based design,Formal verification}
+    \endentry
     \entry{olawole18}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f23173d050f450985bc24c87f20fc2fe}{%
@@ -1782,6 +1830,54 @@
       \field{title}{The Symbiosis of Singing and Stage Performance in the Malaysian Music Industry}
       \field{type}{Conference Proceedings}
       \field{year}{2021}
+    \endentry
+    \entry{mokos20}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e2509253d550037351e99b52e9b6e7fa}{%
+           family={Mokos},
+           familyi={M\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aba42c6a6cf60c9bb81c6df2e040c1ed}{%
+           family={Katsaros},
+           familyi={K\bibinitperiod},
+           given={Panagiotis},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{fullhash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{bibnamehash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{authorbibnamehash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{authornamehash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{authorfullhash}{193427b431a2c4f3506a49072b2143fc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{System requirements define conditions and capabilities to be met by a system under design. They are a partial definition in natural language, with inevitable ambiguities. Formalisation concerns with the transformation of requirements into a specification with unique interpretation, for resolving ambiguities, underspecified references and for assessing whether requirements are consistent, correct (i.e. valid for an acceptable solution) and attainable. Formalisation and validation of system requirements provides early evidence of adequate specification, for reducing the validation tests and high-cost corrective measures in the later system development phases. This article has the following contributions. First, we characterise the specification problem based on an ontology for some domain. Thus, requirements represent a particular system among many possible ones, and their specification takes the form of mapping their concepts to a semantic model of the system. Second, we analyse the state-of-the-art of pattern-based specification languages, which are used to avoid ambiguity. We then discuss the semantic analyses (missing requirements, inconsistencies etc.) supported in such a framework. Third, we survey related research on the derivation of formal properties from requirements, i.e. verifiable specifications that constrain the system’s structure and behaviour. Possible flaws in requirements may render the derived properties unsatisfiable or not realizable. Finally, this article discusses the important challenges for the current requirements analysis tools, towards being adopted in industrial-scale projects.}
+      \field{issn}{2590-0056}
+      \field{journaltitle}{Array}
+      \field{title}{A survey on the formalisation of system requirements and their validation}
+      \field{type}{Journal Article}
+      \field{volume}{7}
+      \field{year}{2020}
+      \field{pages}{100030}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.array.2020.100030
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2590005620300151
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2590005620300151
+      \endverb
+      \keyw{Requirement specification,Requirement formalisation,Semantic analysis,Model-based design,Component-based design,Formal verification}
     \endentry
     \entry{olawole18}{article}{}
       \name{author}{1}{}{%

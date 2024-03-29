@@ -2,52 +2,56 @@
 \label{ch:results}
 
 \section{Introduction}
-In starting your Chapter 4, you must begin with a brief introduction to the chapter. This introduction should provide a brief overview of the chapter and what the reader can expect to find in the chapter. This section should be approximately 1-2 paragraphs in length.
-
+This chapter defines and explores the deliverables and objectives following their particular goals. This chapter extensively examines various aspects of the Alunan mobile application development process, including detailed descriptions of system requirements, user personas, storyboard creation, flowcharts, use case diagrams, database configurations, and the evolution of designs from low-fidelity to high-fidelity.
 
 \section{Identification of System Requirements}
-Mentioned about the importance of system requirements and how it is identified. This section should be approximately 1-2 paragraphs in length.
-Suppose that we have a line with equation $y = 2x + 3$. This line cuts the $y$-axis at $y = 3$. We can find the gradient of the line using \eqref{eq:gradient}. Equation~\eqref{eq:tada}, $\ldots$.
+The process of identifying system requirements is comprehensive, requiring the collection, analysis, and documentation of the constraints and demands of a system or application \parencite{mokos20}. Generally, this process starts with stakeholder engagement to gain insight into the business objectives. Subsequently, requirements are obtained through workshops, surveys, and interviews. The examination of these requirements entails the recognition of connections, priorities, and possible conflicts; documentation serves to guarantee clear communication and consistency among the parties involved. Furthermore, the incorporation of validation and verification mechanisms serves to guarantee that the specified requirements precisely mirror the intended functionalities and limitations of the system. \\
 
-\begin{equation} \label{eq:gradient}
-    m = \frac{y_2 - y_1}{x_2 - x_1}
-\end{equation}
-
-\begin{equation} \label{eq:tada}
-e^{\pi i} + 1 = 0
-\end{equation}
+The creation of system requirements is critical to the achievement of project objectives, as they provide the fundamental structure that guides the entirety of the development process. They offer designers, developers, and testers a strategic plan that directs their efforts toward developing a solution that satisfies the requirements of stakeholders. Incomplete or ambiguous requirements may necessitate expensive iterations of validation testing and design modifications in later stages. The unresolved difficulty of validating and refining system requirements early on emphasizes the significance of system requirements throughout the development process. \textcite{mokos20} stated that efficient and precisely defined requirements minimize the likelihood of costly rework or project failure, and promote clear communication among project teams. In simple terms, comprehensive system requirements increase the probability of successfully implementing a solution that fulfills the demands of stakeholders, accomplishes organizational goals, and provides value.
 
 \subsection{System Requirements}
+System requirements, as elucidated by \textcite{mokos20}, delineate the essential conditions and functionalities that a system must possess to meet the objectives and expectations of stakeholders. They function as a strategic plan that directs the development process by defining the intended functionalities, standards for performance, and limitations. Although frequently expressed in informal terms, system requirements may contain uncertainties, which calls for their formalization to achieve clarity and accuracy. \\
 
-\begin{table}[ht]
-    \caption{Length Units}
-    %\begin{tabular}{cc}
-    \begin{tabular}{>{\centering\arraybackslash}p{.47\textwidth} >{\centering\arraybackslash}p{.47\textwidth}}
-        \toprule %header
-        \textbf{Millimeters} & \textbf{Centimeters}\\
-        \textbf{mm}          &   \textbf{cm}\\
-        \midrule
-        1           &   0.1\\ \hline
-        10          &   1\\ \hline
-        100         &   10\\ \hline
-        1000        &   100\\ \hline
-        10000       &   1000\\
-        \bottomrule
-    \end{tabular}
-    \par\raggedright Note: This table is useful for $\ldots$.
-    \label{table:lengthunits}
-\end{table}
-
-In this section, do define what is a system requirements and provide citation to support the definition. You can also provide examples of system requirements. This section should be approximately 1-2 paragraphs in length. \\
-
-Provide citations too.
+Addressing the development of the Alunan mobile application, this section provides a comprehensive overview of the system's requirements. Based on user expectations, system requirements are the capabilities that the system might be required to have The generation of potential solutions to a problem begins with the creative processes of ideation and brainstorming. By employing judgment and deduction, an extensive inventory of suggestions can be generated, a portion of which might even surpass the original ideas in terms of originality or unconventionality.
 
 \begin{enumerate}[A.]
-    \item \textit{Functional Requirements and Non-Functional Requirements} Lorem ipsum. For non-functional requirements, it is important to include platform compatibility, performance and responsiveness, usability, and security.
-    \item \textit{IT Infra Components of Alunan Project} Make two tables, one for a list of hardware (no, purpose, hardware and specifications) and another for a list of software.
-    \item \textit{Development:} Lorem ipsum
-    \item \textit{Prototyping:} Lorem ipsum
-    \item \textit{Testing:} Lorem ipsum
+    \item \textbf{Functional Requirements and Non-Functional Requirements} \\ Functional requirements are the features or functions that developers must implement for users to complete their tasks. Meanwhile, non-functional requirements specify the attributes, characteristics, and constraints that govern the overall behavior, usability, and performance of a system, beyond its functional capabilities. These tasks should correspond to the problem statement presented in Chapter 1. Tables 4.1 and 4.2 show the functional and non-functional requirements for the Alunan mobile application. \\
+    
+    \begin{table}[htb]
+        \caption{List of Functional Requirements for the Alunan Mobile Application}
+        \label{tab:mytable}
+        \centering
+        \begin{tabular}{|p{7.5cm}|p{9.5cm}|}
+        \hline
+        \multicolumn{1}{|c|}{\textbf{Functional Requirements}} & 
+        \multicolumn{1}{c|}{\textbf{Descriptions}} \\
+        \hline 
+        \multicolumn{1}{|c|}{Authentication} & To use Alunan, users (musicians or enthusiasts) are required to register and log in. \\ \hline
+        \multicolumn{1}{|c|}{User Profile} & Users (both Musicians and Enthusiasts) should be able to create and manage their profiles, including updating details such as profile picture, full name, email, and password. \\ \hline
+        \multicolumn{1}{|c|}{Music Snippet Sharing} & Musicians should have the capability to create posts with a description and a URL link to share music snippets on their home page. \\ \hline
+        \multicolumn{1}{|c|}{Favourite / Bookmark} & Enthusiasts can view posts from all musicians on their 'Post' page and can favorite/bookmark/follow any musician. There should be a separate 'Favourite' page to display posts only from favorited musicians. \\ \hline
+        \multicolumn{1}{|c|}{Music Ratings and Reviews} & Enthusiasts should be able to rate musician posts (1 to 5 stars) with a review (up to 150 characters). Additionally, Enthusiasts should have a 'My Reviews' page to view posts they have reviewed, while Musicians should have a 'Reviews' page to display all ratings and reviews received from Enthusiasts. \\ \hline
+        \end{tabular}
+    \end{table}
+
+    \begin{table}[htb]
+        \caption{List of Non-Functional Requirements for the Alunan Mobile Application}
+        \label{tab:mytable}
+        \centering
+        \begin{tabular}{|p{8.5cm}|p{8.5cm}|}
+        \hline
+        \multicolumn{1}{|c|}{\textbf{Non-Functional Requirements}} & 
+        \multicolumn{1}{c|}{\textbf{Descriptions}} \\
+        \hline 
+        \multicolumn{1}{|c|}{Platform Compability} & To use Alunan, users (musicians or enthusiasts) are required to register and log in. \\ \hline
+        \multicolumn{1}{|c|}{Performance and Responsiveness} & Users (both Musicians and Enthusiasts) should be able to create and manage their profiles, including updating details such as profile picture, full name, email, and password. \\ \hline
+        \multicolumn{1}{|c|}{Usability} & Musicians should have the capability to create posts with a description and a URL link to share music snippets on their home page. \\ \hline
+        \multicolumn{1}{|c|}{Reliability} & Enthusiasts can view posts from all musicians on their 'Post' page and can favorite/bookmark/follow any musician. There should be a separate 'Favourite' page to display posts only from favorited musicians. \\ \hline
+        \multicolumn{1}{|c|}{Security} & Enthusiasts should be able to rate musician posts (1 to 5 stars) with a review (up to 150 characters). Additionally, Enthusiasts should have a 'My Reviews' page to view posts they have reviewed, while Musicians should have a 'Reviews' page to display all ratings and reviews received from Enthusiasts. \\ \hline
+        \end{tabular}
+    \end{table}
+
+    \item \textbf{IT Infra Components} Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor, nunc sit amet ultricies tincidunt, nunc nunc ultricies nunc, nec ultricies nunc
 \end{enumerate}
 
 \subsubsection{Method A Improved}
