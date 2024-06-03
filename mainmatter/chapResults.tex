@@ -332,15 +332,121 @@ Users must sign in to continue using the Alunan mobile application. To create an
     \caption{Use Case Diagram for Alunan Mobile Application}
     \label{fig:myfig45}
 \end{figure}
-The use case diagram will help illustrate the interactions between the user and the system. It offers a comprehensive insight into user capabilities and how systems respond to user commands. Figure 4.6 illustrates the use case diagram for Alunan, a mobile application designed for the online community and music discovery of local musicians.
+The use case diagram will help illustrate the interactions between the user and the system. It offers a comprehensive insight into user capabilities and how systems respond to user commands. Figure 4.6 illustrates the use case diagram, while Table 4.6 provides a summary of the use case diagram for the Alunan mobile application.
 \pagebreak
 
-Insert the table for the use case diagram description here.
+\begin{table}[ht]
+    \centering
+    \caption{Use Case Diagram Summary for Alunan Mobile Application}
+    \begin{tabular}
+        {|>{\raggedright}p{2cm}|>{\raggedright}p{4cm}|>{\raggedright\arraybackslash}p{7cm}|}
+    \hline
+    \textbf{Actor} & \textbf{Action} & \textbf{Description} \\
+    \hline
+    \multirow{6}{2cm}{\vspace{-4cm}Musician} & Register & To access the Alunan mobile application features, any musician must create an account. \\
+    \cline{2-3}
+     & Login & Entering their email address and password allows a registered musician to log in. \\
+    \cline{2-3}
+     & View and Update Profile & Musicians may view and edit their profiles. \\
+    \cline{2-3}
+     & View Ratings and Reviews & Musicians can read reviews and ratings from their postings. They can also view ratings and reviews for other musicians. \\
+    \cline{2-3}
+     & View Musician Post & Musicians can access and see posts made by other musicians. In addition, they can create posts for sharing music. \\
+    \cline{2-3}
+     & Logout & Musicians can terminate their session on the mobile application by simply logging out. \\
+    \hline
+    \multirow{6}{2cm}{\vspace{-5cm}Enthusiast} & Register & Anyone who enjoys music can create an account to access Alunan's mobile application features. \\
+    \cline{2-3}
+     & Login & Music enthusiasts can log in by entering their email address and password after registering. \\
+    \cline{2-3}
+     & View and Update Profile & Music enthusiasts may view and edit their profiles. \\
+    \cline{2-3}
+     & View All Musician Post & Music enthusiasts can browse posts from all musicians. On each post, they have the option to submit their review and rating. They can also see reviews and ratings left by other music enthusiasts. \\
+    \cline{2-3}
+     & View Favourite Musician Post & Any musician can be bookmarked or followed by music enthusiasts. There's also another page where users may see all posts from only their favourite musicians. \\
+    \cline{2-3}
+     & Logout & Music enthusiasts only need to log out of the mobile application to end their session. \\
+    \hline
+    \end{tabular}
+\end{table}
+\pagebreak
 
 \subsection{Data Design for Alunan: A Mobile Application for Local Musicians’ Online Community and Music Discovery}
 \begin{enumerate}[A.]
-    \item \textbf{Hierarchical Model Diagram} \\
-    Lorem ipsum dolor
+    \item \textbf{Hierarchical Model Diagram}
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.9\linewidth]{mainmatter/images/hierachical.png}
+        \caption{Hierarchical Model Diagram for Alunan Mobile Application}
+        \label{fig:myfig46}
+    \end{figure} \\
+    The hierarchical diagram for the Alunan mobile application is depicted in Figure 4.7 below. It represents the overall structure of the database and provides a clear image of how data is organized in it. At the first level, key entities such as User, Post, Review, and Favourite are identified, each carrying unique forms of data. User, for example, submit information such as their role, name, email, password, Spotify profile, and photo. Furthermore, Post represent critical information such as post description, and date posted. Meanwhile, Review symbolizes the rating and review that the enthusiast submits. Lastly, Favourite represents data such as mid\_user, and id\_user, that store any musician profile that is bookmarked by the enthusiast. The second level looks into the fundamental characteristics of each object, providing a more detailed view which are id\_user, id\_post, id\_review, and id\_favourite.
+
+    \item \textbf{Entity Relationship Diagram}
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.9\linewidth]{mainmatter/images/erd.png}
+        \caption{Entity Relationship Diagram for Alunan Mobile Application}
+        \label{fig:myfig47}
+    \end{figure} \\
+    The ERD (Entity-Relationship Diagram) presented in Figure 4.8 shows the structure of the Alunan mobile application database, emphasizing significant entities and the relationships between them. The entities consist of USER, POST, REVIEW, and FAVOURITE. The relationships involve USERS generating POSTS and adding REVIEWS. Table 4.6 contains a data dictionary that provides a detailed description of the attributes of each table. The data dictionary specifies the contents, data types, formats, and if the attributes are necessary. It also indicates whether the attributes are primary keys (PK) or foreign keys (FK). The table captions in Table 4.7 provide a concise description of the data types utilized. This complete structure guarantees a clear and structured database architecture for effective data management within the application.
+    \pagebreak
+    \begin{landscape}
+    \begin{longtable}
+        {|>{\centering\arraybackslash}m{2.5cm}|>{\centering\arraybackslash}m{3cm}|>{\centering\arraybackslash}m{4cm}|>{\centering\arraybackslash}m{3cm}|>{\centering\arraybackslash}m{2cm}|>{\centering\arraybackslash}m{2cm}|>{\centering\arraybackslash}m{1cm}|>{\centering\arraybackslash}m{3cm}|}
+        \caption{Data Dictionary for Alunan Mobile Application} \\
+        \hline
+        \textbf{Table Name} & \textbf{Attribute Name} & \textbf{Contents} & \textbf{Type} & \textbf{Format} & \textbf{Required} & \textbf{PK or FK} & \textbf{FK Referenced Table} \\ \hline
+        \endfirsthead
+        \multicolumn{8}{c}{{\tablename\ \thetable{} -- Continued from previous page}} \\
+        \hline
+        \textbf{Table Name} & \textbf{Attribute Name} & \textbf{Contents} & \textbf{Type} & \textbf{Format} & \textbf{Required} & \textbf{PK or FK} & \textbf{FK Referenced Table} \\ \hline
+        \endhead
+        \multirow{7}{*}{USER} & ID\_USER & User ID Number & INT(11) & 000000 & Y & PK & \\ \cline{2-8}
+        & NAME & User Name & VARCHAR(100) & Xxxxxx & Y & & \\ \cline{2-8}
+        & EMAIL & User E-Mail & VARCHAR(100) & Xxxxxx & Y & & \\ \cline{2-8}
+        & PASSWORD & User Password & VARCHAR(100) & Xxxxxx & Y & & \\ \cline{2-8}
+        & ROLE & User Role & VARCHAR(10) & Xxxx & Y & & \\ \cline{2-8}
+        & SPOTIFY & User Spotify URL & TEXT & Xxxxxxxx & N & & \\ \cline{2-8}
+        & PHOTO & User Photo & TEXT & Xxxxxxxx & N & & \\ \hline
+        \multirow{5}{*}{REVIEW} & ID\_REVIEW & Review ID Number & INT(11) & 000000 & Y & PK & \\ \cline{2-8}
+        & RATING & Rating from 1 to 5 & INT(11) & 000000 & Y & & \\ \cline{2-8}
+        & REVIEW & Review description & TEXT & Xxxxxxxx & Y & & \\ \cline{2-8}
+        & ID\_POST & Post ID Number & INT(11) & 000000 & Y & FK & POST \\ \cline{2-8}
+        & ID\_USER & User ID Number & INT(11) & 000000 & Y & FK & USER \\ \hline
+        \multirow{2}{*}{POST} & ID\_POST & Post ID Number & INT(11) & 000000 & Y & PK & \\ \cline{2-8}
+        & POST & Post description & TEXT & Xxxxxxxx & Y & & \\ \hline
+        & DATE & Post date & DATE & dd-mm-yyyy & Y & & \\ \cline{2-8}
+        & ID\_USER & User ID Number & INT(11) & 000000 & Y & FK & USER \\ \hline
+        \multirow{3}{*}{FAVOURITE} & ID\_FAVOURITE & Favourite ID Number & INT(11) & 000000 & Y & PK & \\ \cline{2-8}
+        & MID\_USER & Musician ID Number & INT(11) & 000000 & Y & & \\ \cline{2-8}
+        & ID\_USER & Enthusiast ID Number & INT(11) & 000000 & Y & FK & USER \\ \hline
+    \end{longtable}
+
+    \begin{table}[h]
+        \centering
+        \captionsetup{justification=centering} % Center the caption
+        \caption{Table Legends for Data Dictionary}
+        \begin{tabular}{|c|c|}
+        \hline
+        \textbf{Name} & \textbf{Description} \\
+        \hline
+        PK & Primary Key \\
+        \hline
+        FK & Foreign Key \\
+        \hline
+        INT & Whole numbers that range from -2,147,483,647 to 2,147,483,647 for 9 or 10 digits of precision \\
+        \hline
+        VARCHAR & Variable character length data (1-2,000 characters) \\
+        \hline
+        TEXT & Long-form text strings \\
+        \hline
+        DATE & Dates ranging from 1 January 100 (-657,434), to 31 December 9999 (2,958,465), and times from 0:00:00 to 23:59:59 \\
+        \hline
+        \end{tabular}
+    \end{table}
+
+    \end{landscape}
 \end{enumerate}
 
 \section{Developing Alunan: A Mobile Application for Local Musicians’ Online Community and Music Discovery}

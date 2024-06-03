@@ -120,6 +120,34 @@
       \field{type}{Journal Article}
       \field{year}{2022}
     \endentry
+    \entry{brooke95}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=813064283275c281401d7a7483420c67}{%
+           family={Brooke},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{813064283275c281401d7a7483420c67}
+      \strng{fullhash}{813064283275c281401d7a7483420c67}
+      \strng{bibnamehash}{813064283275c281401d7a7483420c67}
+      \strng{authorbibnamehash}{813064283275c281401d7a7483420c67}
+      \strng{authornamehash}{813064283275c281401d7a7483420c67}
+      \strng{authorfullhash}{813064283275c281401d7a7483420c67}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Usability Evaluation Industry}
+      \field{title}{SUS: A quick and dirty usability scale}
+      \field{type}{Journal Article}
+      \field{volume}{189}
+      \field{year}{1995}
+    \endentry
     \entry{edlom21}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=cf34c06f93a4ef991c98788b9783152e}{%
@@ -266,6 +294,39 @@
       \endverb
       \keyw{Perceived mobility Utilitarian feature Hedonic feature User experience Perceived benefits Perceived value Brand equity}
     \endentry
+    \entry{igwenagu16}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0bdb53aa3fb31e4c028133fc15f59760}{%
+           family={Igwenagu},
+           familyi={I\bibinitperiod},
+           given={Chinelo},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {University of Nigeria, Nsukka}%
+      }
+      \list{publisher}{1}{%
+        {LAP Lambert Academic Publishing}%
+      }
+      \strng{namehash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{fullhash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{bibnamehash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{authorbibnamehash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{authornamehash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{authorfullhash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-659-86884-9}
+      \field{title}{Fundamentals of research methodology and data collection}
+      \field{type}{Book}
+      \field{year}{2016}
+    \endentry
     \entry{jarvekulg21}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b7b07cc0e36a32be9623df4e0d0f46c2}{%
@@ -301,6 +362,42 @@
       \field{year}{2021}
       \field{pages}{1358\bibrangedash 1375}
       \range{pages}{18}
+    \endentry
+    \entry{kaur15}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=42095171aab13fee3de51ab59c40b514}{%
+           family={Kaur},
+           familyi={K\bibinitperiod},
+           given={Anureet},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=a5fc545c999a16e69a702d8af8c23ce4}{%
+           family={Kaur},
+           familyi={K\bibinitperiod},
+           given={Kulwant},
+           giveni={K\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{fullhash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{bibnamehash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{authorbibnamehash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{authornamehash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{authorfullhash}{df244007dbfb9025dbee4f6717fb2a32}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Applications}
+      \field{title}{Suitability of existing Software development Life Cycle (SDLC) in context of Mobile Application Development Life Cycle (MADLC)}
+      \field{type}{Journal Article}
+      \field{volume}{116}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
     \endentry
     \entry{lee20}{article}{}
       \name{author}{2}{}{%
@@ -481,6 +578,45 @@
       \field{type}{Journal Article}
       \field{year}{2019}
     \endentry
+    \entry{moharekar21}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=20548135900832380cfc55d27a5d10db}{%
+           family={Moharekar},
+           familyi={M\bibinitperiod},
+           given={Tejashree},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a53fd5fe710df853cc3f85ca30316b7}{%
+           family={Pol},
+           familyi={P\bibinitperiod},
+           given={Urmila},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bd9ec37219493f518c5369720fa806aa}
+      \strng{fullhash}{bd9ec37219493f518c5369720fa806aa}
+      \strng{bibnamehash}{bd9ec37219493f518c5369720fa806aa}
+      \strng{authorbibnamehash}{bd9ec37219493f518c5369720fa806aa}
+      \strng{authornamehash}{bd9ec37219493f518c5369720fa806aa}
+      \strng{authorfullhash}{bd9ec37219493f518c5369720fa806aa}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{YMER Digital}
+      \field{title}{ACADEMIC PERFORMANCE PREDICTION APPLICATION (APPA)}
+      \field{type}{Journal Article}
+      \field{volume}{20}
+      \field{year}{2021}
+      \field{pages}{179\bibrangedash 196}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.37896/YMER20.12/17
+      \endverb
+    \endentry
     \entry{mohd21}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f3445e23dc727622ccd20c2d46791d82}{%
@@ -509,6 +645,54 @@
       \field{title}{The Symbiosis of Singing and Stage Performance in the Malaysian Music Industry}
       \field{type}{Conference Proceedings}
       \field{year}{2021}
+    \endentry
+    \entry{mokos20}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e2509253d550037351e99b52e9b6e7fa}{%
+           family={Mokos},
+           familyi={M\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aba42c6a6cf60c9bb81c6df2e040c1ed}{%
+           family={Katsaros},
+           familyi={K\bibinitperiod},
+           given={Panagiotis},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{fullhash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{bibnamehash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{authorbibnamehash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{authornamehash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{authorfullhash}{193427b431a2c4f3506a49072b2143fc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{System requirements define conditions and capabilities to be met by a system under design. They are a partial definition in natural language, with inevitable ambiguities. Formalisation concerns with the transformation of requirements into a specification with unique interpretation, for resolving ambiguities, underspecified references and for assessing whether requirements are consistent, correct (i.e. valid for an acceptable solution) and attainable. Formalisation and validation of system requirements provides early evidence of adequate specification, for reducing the validation tests and high-cost corrective measures in the later system development phases. This article has the following contributions. First, we characterise the specification problem based on an ontology for some domain. Thus, requirements represent a particular system among many possible ones, and their specification takes the form of mapping their concepts to a semantic model of the system. Second, we analyse the state-of-the-art of pattern-based specification languages, which are used to avoid ambiguity. We then discuss the semantic analyses (missing requirements, inconsistencies etc.) supported in such a framework. Third, we survey related research on the derivation of formal properties from requirements, i.e. verifiable specifications that constrain the system’s structure and behaviour. Possible flaws in requirements may render the derived properties unsatisfiable or not realizable. Finally, this article discusses the important challenges for the current requirements analysis tools, towards being adopted in industrial-scale projects.}
+      \field{issn}{2590-0056}
+      \field{journaltitle}{Array}
+      \field{title}{A survey on the formalisation of system requirements and their validation}
+      \field{type}{Journal Article}
+      \field{volume}{7}
+      \field{year}{2020}
+      \field{pages}{100030}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.array.2020.100030
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2590005620300151
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2590005620300151
+      \endverb
+      \keyw{Requirement specification,Requirement formalisation,Semantic analysis,Model-based design,Component-based design,Formal verification}
     \endentry
     \entry{olawole18}{article}{}
       \name{author}{1}{}{%
@@ -680,6 +864,93 @@
       \field{type}{Conference Proceedings}
       \field{year}{2020}
     \endentry
+    \entry{santos15}{inbook}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=bff31f24ec81394a2eecd1241506cdd5}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Vitor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=163ad635e1123b60e377db8169ba8cc8}{%
+           family={Amaral},
+           familyi={A\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2523685058251b55d7527baa3cbe391}{%
+           family={S.\bibnamedelimi Mamede},
+           familyi={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Henrique},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=207109c5ab0092d8f826a1c233cfa998}{%
+           family={Gonçalves},
+           familyi={G\bibinitperiod},
+           given={Ramiro},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{89a7d1e6ad88a74f996739791c4c860f}
+      \strng{fullhash}{86341e1add1b06279022d660a36e5f5a}
+      \strng{bibnamehash}{86341e1add1b06279022d660a36e5f5a}
+      \strng{authorbibnamehash}{86341e1add1b06279022d660a36e5f5a}
+      \strng{authornamehash}{89a7d1e6ad88a74f996739791c4c860f}
+      \strng{authorfullhash}{86341e1add1b06279022d660a36e5f5a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781466688339}
+      \field{month}{09}
+      \field{title}{Creativity in the Information Systems Planning Process}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.4018/978-1-4666-8833-9.ch008
+      \endverb
+    \endentry
+    \entry{shanmugam19}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d436e5efd1aa75f69fdecee140ab9d80}{%
+           family={Shanmugam},
+           familyi={S\bibinitperiod},
+           given={Letchumanan},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ab200700fafee6e1b23f5a4d2a95cd6}{%
+           family={Yassin},
+           familyi={Y\bibinitperiod},
+           given={Siti\bibnamedelima Fatimah},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0c629e5d4ee324956d143e3bb281fdd}{%
+           family={Khalid},
+           familyi={K\bibinitperiod},
+           given={Fariza},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84729b74a8ba35588088254c6f0e15f6}
+      \strng{fullhash}{71ce33628d3bee305833f9f89d0b391f}
+      \strng{bibnamehash}{71ce33628d3bee305833f9f89d0b391f}
+      \strng{authorbibnamehash}{71ce33628d3bee305833f9f89d0b391f}
+      \strng{authornamehash}{84729b74a8ba35588088254c6f0e15f6}
+      \strng{authorfullhash}{71ce33628d3bee305833f9f89d0b391f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Int. J. Eng. Adv. Technol}
+      \field{title}{Incorporating the elements of computational thinking into the Mobile Application Development Life Cycle (MADLC) model}
+      \field{type}{Journal Article}
+      \field{year}{2019}
+    \endentry
     \entry{silahudin19}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bc8346e6b47900a338f68f0c841a684d}{%
@@ -773,6 +1044,38 @@
       \field{type}{Journal Article}
       \field{year}{2022}
     \endentry
+    \entry{vithani14}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=37ae8d1a01c8e1aad7aa3072b7bcac01}{%
+           family={Vithani},
+           familyi={V\bibinitperiod},
+           given={Tejas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd4a2be6ede169a3c794a1cd7e3fb9a2}{%
+           family={Anandkumar},
+           familyi={A\bibinitperiod},
+           given={Anima},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eeb17fe0966ef68e88b9b9899707ee9d}
+      \strng{fullhash}{eeb17fe0966ef68e88b9b9899707ee9d}
+      \strng{bibnamehash}{eeb17fe0966ef68e88b9b9899707ee9d}
+      \strng{authorbibnamehash}{eeb17fe0966ef68e88b9b9899707ee9d}
+      \strng{authornamehash}{eeb17fe0966ef68e88b9b9899707ee9d}
+      \strng{authorfullhash}{eeb17fe0966ef68e88b9b9899707ee9d}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modeling the Mobile Application Development Lifecycle}
+      \field{type}{Conference Proceedings}
+      \field{year}{2014}
+    \endentry
     \entry{wambua23}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=145c1e8375c568260d5e82d3b24c2696}{%
@@ -861,6 +1164,32 @@
       \verb{doi}
       \verb 10.1109/ACCESS.2020.2981892
       \endverb
+    \endentry
+    \entry{wen21}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f16a80c476f5897cbaf36a76a7e5e584}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Lim\bibnamedelima Yu},
+           giveni={L\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{fullhash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{bibnamehash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{authorbibnamehash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{authornamehash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{authorfullhash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Music video application development using android}
+      \field{type}{Thesis}
+      \field{year}{2021}
     \endentry
     \entry{wilson20}{article}{}
       \name{author}{1}{}{%
@@ -1024,6 +1353,34 @@
       \field{type}{Journal Article}
       \field{year}{2022}
     \endentry
+    \entry{brooke95}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=813064283275c281401d7a7483420c67}{%
+           family={Brooke},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{813064283275c281401d7a7483420c67}
+      \strng{fullhash}{813064283275c281401d7a7483420c67}
+      \strng{bibnamehash}{813064283275c281401d7a7483420c67}
+      \strng{authorbibnamehash}{813064283275c281401d7a7483420c67}
+      \strng{authornamehash}{813064283275c281401d7a7483420c67}
+      \strng{authorfullhash}{813064283275c281401d7a7483420c67}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Usability Evaluation Industry}
+      \field{title}{SUS: A quick and dirty usability scale}
+      \field{type}{Journal Article}
+      \field{volume}{189}
+      \field{year}{1995}
+    \endentry
     \entry{edlom21}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=cf34c06f93a4ef991c98788b9783152e}{%
@@ -1170,6 +1527,39 @@
       \endverb
       \keyw{Perceived mobility Utilitarian feature Hedonic feature User experience Perceived benefits Perceived value Brand equity}
     \endentry
+    \entry{igwenagu16}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0bdb53aa3fb31e4c028133fc15f59760}{%
+           family={Igwenagu},
+           familyi={I\bibinitperiod},
+           given={Chinelo},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {University of Nigeria, Nsukka}%
+      }
+      \list{publisher}{1}{%
+        {LAP Lambert Academic Publishing}%
+      }
+      \strng{namehash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{fullhash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{bibnamehash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{authorbibnamehash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{authornamehash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \strng{authorfullhash}{0bdb53aa3fb31e4c028133fc15f59760}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-659-86884-9}
+      \field{title}{Fundamentals of research methodology and data collection}
+      \field{type}{Book}
+      \field{year}{2016}
+    \endentry
     \entry{jarvekulg21}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b7b07cc0e36a32be9623df4e0d0f46c2}{%
@@ -1205,6 +1595,42 @@
       \field{year}{2021}
       \field{pages}{1358\bibrangedash 1375}
       \range{pages}{18}
+    \endentry
+    \entry{kaur15}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=42095171aab13fee3de51ab59c40b514}{%
+           family={Kaur},
+           familyi={K\bibinitperiod},
+           given={Anureet},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=a5fc545c999a16e69a702d8af8c23ce4}{%
+           family={Kaur},
+           familyi={K\bibinitperiod},
+           given={Kulwant},
+           giveni={K\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{fullhash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{bibnamehash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{authorbibnamehash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{authornamehash}{df244007dbfb9025dbee4f6717fb2a32}
+      \strng{authorfullhash}{df244007dbfb9025dbee4f6717fb2a32}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Applications}
+      \field{title}{Suitability of existing Software development Life Cycle (SDLC) in context of Mobile Application Development Life Cycle (MADLC)}
+      \field{type}{Journal Article}
+      \field{volume}{116}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
     \endentry
     \entry{lee20}{article}{}
       \name{author}{2}{}{%
@@ -1385,6 +1811,45 @@
       \field{type}{Journal Article}
       \field{year}{2019}
     \endentry
+    \entry{moharekar21}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=20548135900832380cfc55d27a5d10db}{%
+           family={Moharekar},
+           familyi={M\bibinitperiod},
+           given={Tejashree},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a53fd5fe710df853cc3f85ca30316b7}{%
+           family={Pol},
+           familyi={P\bibinitperiod},
+           given={Urmila},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bd9ec37219493f518c5369720fa806aa}
+      \strng{fullhash}{bd9ec37219493f518c5369720fa806aa}
+      \strng{bibnamehash}{bd9ec37219493f518c5369720fa806aa}
+      \strng{authorbibnamehash}{bd9ec37219493f518c5369720fa806aa}
+      \strng{authornamehash}{bd9ec37219493f518c5369720fa806aa}
+      \strng{authorfullhash}{bd9ec37219493f518c5369720fa806aa}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{YMER Digital}
+      \field{title}{ACADEMIC PERFORMANCE PREDICTION APPLICATION (APPA)}
+      \field{type}{Journal Article}
+      \field{volume}{20}
+      \field{year}{2021}
+      \field{pages}{179\bibrangedash 196}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.37896/YMER20.12/17
+      \endverb
+    \endentry
     \entry{mohd21}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f3445e23dc727622ccd20c2d46791d82}{%
@@ -1413,6 +1878,54 @@
       \field{title}{The Symbiosis of Singing and Stage Performance in the Malaysian Music Industry}
       \field{type}{Conference Proceedings}
       \field{year}{2021}
+    \endentry
+    \entry{mokos20}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e2509253d550037351e99b52e9b6e7fa}{%
+           family={Mokos},
+           familyi={M\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aba42c6a6cf60c9bb81c6df2e040c1ed}{%
+           family={Katsaros},
+           familyi={K\bibinitperiod},
+           given={Panagiotis},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{fullhash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{bibnamehash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{authorbibnamehash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{authornamehash}{193427b431a2c4f3506a49072b2143fc}
+      \strng{authorfullhash}{193427b431a2c4f3506a49072b2143fc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{System requirements define conditions and capabilities to be met by a system under design. They are a partial definition in natural language, with inevitable ambiguities. Formalisation concerns with the transformation of requirements into a specification with unique interpretation, for resolving ambiguities, underspecified references and for assessing whether requirements are consistent, correct (i.e. valid for an acceptable solution) and attainable. Formalisation and validation of system requirements provides early evidence of adequate specification, for reducing the validation tests and high-cost corrective measures in the later system development phases. This article has the following contributions. First, we characterise the specification problem based on an ontology for some domain. Thus, requirements represent a particular system among many possible ones, and their specification takes the form of mapping their concepts to a semantic model of the system. Second, we analyse the state-of-the-art of pattern-based specification languages, which are used to avoid ambiguity. We then discuss the semantic analyses (missing requirements, inconsistencies etc.) supported in such a framework. Third, we survey related research on the derivation of formal properties from requirements, i.e. verifiable specifications that constrain the system’s structure and behaviour. Possible flaws in requirements may render the derived properties unsatisfiable or not realizable. Finally, this article discusses the important challenges for the current requirements analysis tools, towards being adopted in industrial-scale projects.}
+      \field{issn}{2590-0056}
+      \field{journaltitle}{Array}
+      \field{title}{A survey on the formalisation of system requirements and their validation}
+      \field{type}{Journal Article}
+      \field{volume}{7}
+      \field{year}{2020}
+      \field{pages}{100030}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.array.2020.100030
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2590005620300151
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2590005620300151
+      \endverb
+      \keyw{Requirement specification,Requirement formalisation,Semantic analysis,Model-based design,Component-based design,Formal verification}
     \endentry
     \entry{olawole18}{article}{}
       \name{author}{1}{}{%
@@ -1584,6 +2097,93 @@
       \field{type}{Conference Proceedings}
       \field{year}{2020}
     \endentry
+    \entry{santos15}{inbook}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=bff31f24ec81394a2eecd1241506cdd5}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Vitor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=163ad635e1123b60e377db8169ba8cc8}{%
+           family={Amaral},
+           familyi={A\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2523685058251b55d7527baa3cbe391}{%
+           family={S.\bibnamedelimi Mamede},
+           familyi={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Henrique},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=207109c5ab0092d8f826a1c233cfa998}{%
+           family={Gonçalves},
+           familyi={G\bibinitperiod},
+           given={Ramiro},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{89a7d1e6ad88a74f996739791c4c860f}
+      \strng{fullhash}{86341e1add1b06279022d660a36e5f5a}
+      \strng{bibnamehash}{86341e1add1b06279022d660a36e5f5a}
+      \strng{authorbibnamehash}{86341e1add1b06279022d660a36e5f5a}
+      \strng{authornamehash}{89a7d1e6ad88a74f996739791c4c860f}
+      \strng{authorfullhash}{86341e1add1b06279022d660a36e5f5a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781466688339}
+      \field{month}{09}
+      \field{title}{Creativity in the Information Systems Planning Process}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.4018/978-1-4666-8833-9.ch008
+      \endverb
+    \endentry
+    \entry{shanmugam19}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d436e5efd1aa75f69fdecee140ab9d80}{%
+           family={Shanmugam},
+           familyi={S\bibinitperiod},
+           given={Letchumanan},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ab200700fafee6e1b23f5a4d2a95cd6}{%
+           family={Yassin},
+           familyi={Y\bibinitperiod},
+           given={Siti\bibnamedelima Fatimah},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0c629e5d4ee324956d143e3bb281fdd}{%
+           family={Khalid},
+           familyi={K\bibinitperiod},
+           given={Fariza},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84729b74a8ba35588088254c6f0e15f6}
+      \strng{fullhash}{71ce33628d3bee305833f9f89d0b391f}
+      \strng{bibnamehash}{71ce33628d3bee305833f9f89d0b391f}
+      \strng{authorbibnamehash}{71ce33628d3bee305833f9f89d0b391f}
+      \strng{authornamehash}{84729b74a8ba35588088254c6f0e15f6}
+      \strng{authorfullhash}{71ce33628d3bee305833f9f89d0b391f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Int. J. Eng. Adv. Technol}
+      \field{title}{Incorporating the elements of computational thinking into the Mobile Application Development Life Cycle (MADLC) model}
+      \field{type}{Journal Article}
+      \field{year}{2019}
+    \endentry
     \entry{silahudin19}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bc8346e6b47900a338f68f0c841a684d}{%
@@ -1677,6 +2277,38 @@
       \field{type}{Journal Article}
       \field{year}{2022}
     \endentry
+    \entry{vithani14}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=37ae8d1a01c8e1aad7aa3072b7bcac01}{%
+           family={Vithani},
+           familyi={V\bibinitperiod},
+           given={Tejas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd4a2be6ede169a3c794a1cd7e3fb9a2}{%
+           family={Anandkumar},
+           familyi={A\bibinitperiod},
+           given={Anima},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eeb17fe0966ef68e88b9b9899707ee9d}
+      \strng{fullhash}{eeb17fe0966ef68e88b9b9899707ee9d}
+      \strng{bibnamehash}{eeb17fe0966ef68e88b9b9899707ee9d}
+      \strng{authorbibnamehash}{eeb17fe0966ef68e88b9b9899707ee9d}
+      \strng{authornamehash}{eeb17fe0966ef68e88b9b9899707ee9d}
+      \strng{authorfullhash}{eeb17fe0966ef68e88b9b9899707ee9d}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modeling the Mobile Application Development Lifecycle}
+      \field{type}{Conference Proceedings}
+      \field{year}{2014}
+    \endentry
     \entry{wambua23}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=145c1e8375c568260d5e82d3b24c2696}{%
@@ -1765,6 +2397,32 @@
       \verb{doi}
       \verb 10.1109/ACCESS.2020.2981892
       \endverb
+    \endentry
+    \entry{wen21}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f16a80c476f5897cbaf36a76a7e5e584}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Lim\bibnamedelima Yu},
+           giveni={L\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{fullhash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{bibnamehash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{authorbibnamehash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{authornamehash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \strng{authorfullhash}{f16a80c476f5897cbaf36a76a7e5e584}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Music video application development using android}
+      \field{type}{Thesis}
+      \field{year}{2021}
     \endentry
     \entry{wilson20}{article}{}
       \name{author}{1}{}{%
