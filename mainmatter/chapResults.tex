@@ -371,6 +371,27 @@ The use case diagram will help illustrate the interactions between the user and 
 \end{table}
 \pagebreak
 
+\begin{longtable}{|p{3cm}|p{5cm}|p{5cm}|}
+    \caption{System Behavior Summary for Register Use Case} \\
+    \hline
+    \textbf{Use Case Name:} & \multicolumn{2}{l|}{Register to TukangNow Mobile Application} \\ \hline
+    \textbf{Actor:} & \multicolumn{2}{l|}{Customer} \\ \hline
+    \textbf{Use Case:} & \multicolumn{2}{l|}{\includegraphics[width=0.5\linewidth]{mainmatter/images/exampleflowchart.jpeg}} \\ \hline
+    \textbf{Preconditions:} & \multicolumn{2}{p{10cm}|}{None} \\ \hline
+    \textbf{Postconditions:} & \multicolumn{2}{p{10cm}|}{Customer account created.} \\ \hline
+    \multirow{5}{3cm}{\raggedright \textbf{Flow of the event:}} & \textbf{Actor} & \textbf{Application} \\ \cline{2-3}
+    & 1. The system displays the create account page. & 1. The application verifies userId. \\ \cline{2-3}
+    & 2. Users enter first name, second name, email, address, and password. & 2. The application creates the account.  \\ \cline{2-3}
+    & 3. Users submit entered details. & 3. The application notifies the customer that the account has been created.  \\ \cline{2-3}
+    & 4. Use case ends. &  \\ \hline
+    \multirow{4}{3cm}{\raggedright \textbf{Exceptions Flow:}} & \multicolumn{2}{p{10cm}|}{\raggedright E 1.0 If customer enters invalid Customer Account information} \\ \cline{2-3}
+    & \multicolumn{2}{p{10cm}|}{\raggedright E 1.1 A display message will pop out “Data is invalid”.} \\ \cline{2-3}
+    & \multicolumn{2}{p{10cm}|}{\raggedright E 2.0 If customer enters a username that already exists} \\ \cline{2-3}
+    & \multicolumn{2}{p{10cm}|}{\raggedright E 2.1 A display message will pop out “Username already exists.”} \\ \hline
+\end{longtable}
+
+\pagebreak
+
 \subsection{Data Design for Alunan: A Mobile Application for Local Musicians’ Online Community and Music Discovery}
 \begin{enumerate}[A.]
     \item \textbf{Hierarchical Model Diagram}
