@@ -401,7 +401,7 @@ The use case diagram will help illustrate the interactions between the user and 
     \multirow{4}{3cm}{\raggedright \textbf{Flow of the event:}} & \textbf{Actor} & \textbf{Application} \\ \cline{2-3}
     & 1. The user enters details such as email address and password & 1. The system displays the login page. \\ \cline{2-3}
     & 2. The user submits the entered email address and password. & 2. The system verifies the entered email address and password. \\ \cline{2-3}
-    & 3. Use case ends. & 3. The system displays a message indicating that the user is logged in. \\ \hline
+    & 3. Use case ends. & \\ \hline
     \multirow{1}{3cm}{\raggedright \textbf{Exceptions Flow:}} 
     & \multicolumn{2}{p{10cm}|}{\raggedright E 1.0 If the musician enters invalid account details, a display message will pop out “Invalid Login”} \\ \hline
 \end{longtable}
@@ -444,13 +444,13 @@ The use case diagram will help illustrate the interactions between the user and 
 \pagebreak
 
 \begin{longtable}{|p{3cm}|p{5cm}|p{5cm}|}
-    \caption{System Behavior Summary for Register Use Case} \\
+    \caption{System Behavior Summary for View Musician Post Use Case (Musician)} \\
     \hline
-    \textbf{Use Case Name:} & \multicolumn{2}{l|}{Register to TukangNow Mobile Application} \\ \hline
-    \textbf{Actor:} & \multicolumn{2}{l|}{Customer} \\ \hline
+    \textbf{Use Case Name:} & \multicolumn{2}{l|}{View Musician Post as Musician} \\ \hline
+    \textbf{Actor:} & \multicolumn{2}{l|}{Musician} \\ \hline
     \textbf{Use Case:} & \multicolumn{2}{l|}{\includegraphics[width=0.5\linewidth]{mainmatter/images/sucd5.png}} \\ \hline
-    \textbf{Preconditions:} & \multicolumn{2}{p{10cm}|}{None} \\ \hline
-    \textbf{Postconditions:} & \multicolumn{2}{p{10cm}|}{Customer account created.} \\ \hline
+    \textbf{Preconditions:} & \multicolumn{2}{p{10cm}|}{Musician logged in to the account.} \\ \hline
+    \textbf{Postconditions:} & \multicolumn{2}{p{10cm}|}{Musicians viewed their own posts and can create their posts.} \\ \hline
     \multirow{5}{3cm}{\raggedright \textbf{Flow of the event:}} & \textbf{Actor} & \textbf{Application} \\ \cline{2-3}
     & 1. The system displays the create account page. & 1. The application verifies userId. \\ \cline{2-3}
     & 2. Users enter first name, second name, email, address, and password. & 2. The application creates the account.  \\ \cline{2-3}
@@ -464,62 +464,55 @@ The use case diagram will help illustrate the interactions between the user and 
 \pagebreak
 
 \begin{longtable}{|p{3cm}|p{5cm}|p{5cm}|}
-    \caption{System Behavior Summary for Register Use Case} \\
+    \caption{System Behavior Summary for Logout Use Case (Musician)} \\
     \hline
-    \textbf{Use Case Name:} & \multicolumn{2}{l|}{Register to TukangNow Mobile Application} \\ \hline
-    \textbf{Actor:} & \multicolumn{2}{l|}{Customer} \\ \hline
+    \textbf{Use Case Name:} & \multicolumn{2}{l|}{Logout as Musician} \\ \hline
+    \textbf{Actor:} & \multicolumn{2}{l|}{Musician} \\ \hline
     \textbf{Use Case:} & \multicolumn{2}{l|}{\includegraphics[width=0.5\linewidth]{mainmatter/images/sucd6.png}} \\ \hline
-    \textbf{Preconditions:} & \multicolumn{2}{p{10cm}|}{None} \\ \hline
-    \textbf{Postconditions:} & \multicolumn{2}{p{10cm}|}{Customer account created.} \\ \hline
-    \multirow{5}{3cm}{\raggedright \textbf{Flow of the event:}} & \textbf{Actor} & \textbf{Application} \\ \cline{2-3}
-    & 1. The system displays the create account page. & 1. The application verifies userId. \\ \cline{2-3}
-    & 2. Users enter first name, second name, email, address, and password. & 2. The application creates the account.  \\ \cline{2-3}
-    & 3. Users submit entered details. & 3. The application notifies the customer that the account has been created.  \\ \cline{2-3}
-    & 4. Use case ends. &  \\ \hline
-    \multirow{4}{3cm}{\raggedright \textbf{Exceptions Flow:}} & \multicolumn{2}{p{10cm}|}{\raggedright E 1.0 If customer enters invalid Customer Account information} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 1.1 A display message will pop out “Data is invalid”.} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 2.0 If customer enters a username that already exists} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 2.1 A display message will pop out “Username already exists.”} \\ \hline
+    \textbf{Preconditions:} & \multicolumn{2}{p{10cm}|}{Musician logged in to the account.} \\ \hline
+    \textbf{Postconditions:} & \multicolumn{2}{p{10cm}|}{Musician logged out of the account.} \\ \hline
+    \multirow{4}{3cm}{\raggedright \textbf{Flow of the event:}} & \textbf{Actor} & \textbf{Application} \\ \cline{2-3}
+    & 1. The user clicks on the logout button on the main page. & 1. The application displays the logout page. \\ \cline{2-3}
+    & 2. The user clicks again on the logout button to confirm the process. & 2. The application ends the session and logs the user out.  \\ \cline{2-3}
+    & 3. Use case ends. &  \\ \hline
+    \multirow{2}{3cm}{\raggedright \textbf{Exceptions Flow:}} & \multicolumn{2}{p{10cm}|}{\raggedright E 1.0 If the musician clicks on the 'Cancel' button, it will redirect back to the main page.} \\ \cline{2-3}
+    & \multicolumn{2}{p{10cm}|}{\raggedright E 2.0 If the musician already logged out, it will redirect back to the login page.} \\ \hline
 \end{longtable}
 \pagebreak
 
 \begin{longtable}{|p{3cm}|p{5cm}|p{5cm}|}
-    \caption{System Behavior Summary for Register Use Case} \\
+    \caption{System Behavior Summary for Register Use Case (Enthusiast)} \\
     \hline
-    \textbf{Use Case Name:} & \multicolumn{2}{l|}{Register to TukangNow Mobile Application} \\ \hline
-    \textbf{Actor:} & \multicolumn{2}{l|}{Customer} \\ \hline
+    \textbf{Use Case Name:} & \multicolumn{2}{l|}{Register as Enthusiast} \\ \hline
+    \textbf{Actor:} & \multicolumn{2}{l|}{Enthusiast} \\ \hline
     \textbf{Use Case:} & \multicolumn{2}{l|}{\includegraphics[width=0.5\linewidth]{mainmatter/images/sucd7.png}} \\ \hline
-    \textbf{Preconditions:} & \multicolumn{2}{p{10cm}|}{None} \\ \hline
-    \textbf{Postconditions:} & \multicolumn{2}{p{10cm}|}{Customer account created.} \\ \hline
+    \textbf{Preconditions:} & \multicolumn{2}{p{10cm}|}{Enthusiast does not have any account yet.} \\ \hline
+    \textbf{Postconditions:} & \multicolumn{2}{p{10cm}|}{Enthusiast account created.} \\ \hline
     \multirow{5}{3cm}{\raggedright \textbf{Flow of the event:}} & \textbf{Actor} & \textbf{Application} \\ \cline{2-3}
-    & 1. The system displays the create account page. & 1. The application verifies userId. \\ \cline{2-3}
-    & 2. Users enter first name, second name, email, address, and password. & 2. The application creates the account.  \\ \cline{2-3}
-    & 3. Users submit entered details. & 3. The application notifies the customer that the account has been created.  \\ \cline{2-3}
+    & 1. The system displays the Sign-Up page. & 1. The application verifies user details. \\ \cline{2-3}
+    & 2. Users enter full name, email address, password, and role as Enthusiast. & 2. The application creates the account.  \\ \cline{2-3}
+    & 3. Users submit entered details. & 3. The application notifies the enthusiast that the account has been created.  \\ \cline{2-3}
     & 4. Use case ends. &  \\ \hline
-    \multirow{4}{3cm}{\raggedright \textbf{Exceptions Flow:}} & \multicolumn{2}{p{10cm}|}{\raggedright E 1.0 If customer enters invalid Customer Account information} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 1.1 A display message will pop out “Data is invalid”.} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 2.0 If customer enters a username that already exists} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 2.1 A display message will pop out “Username already exists.”} \\ \hline
+    \multirow{2}{3cm}{\raggedright \textbf{Exceptions Flow:}} 
+    & \multicolumn{2}{p{10cm}|}{\raggedright E 1.0 If the enthusiast enters invalid account details, a display message will pop out “Invalid Data”} \\ \cline{2-3}
+    & \multicolumn{2}{p{10cm}|}{\raggedright E 2.0 If the enthusiast enters an email that already exists, A display message will pop out “Email already registered.”} \\ \hline
 \end{longtable}
 \pagebreak
 
 \begin{longtable}{|p{3cm}|p{5cm}|p{5cm}|}
-    \caption{System Behavior Summary for Register Use Case} \\
+    \caption{System Behavior Summary for Login Use Case (Enthusiast)} \\
     \hline
-    \textbf{Use Case Name:} & \multicolumn{2}{l|}{Register to TukangNow Mobile Application} \\ \hline
-    \textbf{Actor:} & \multicolumn{2}{l|}{Customer} \\ \hline
+    \textbf{Use Case Name:} & \multicolumn{2}{l|}{Login as Enthusiast} \\ \hline
+    \textbf{Actor:} & \multicolumn{2}{l|}{Enthusiast} \\ \hline
     \textbf{Use Case:} & \multicolumn{2}{l|}{\includegraphics[width=0.5\linewidth]{mainmatter/images/sucd8.png}} \\ \hline
-    \textbf{Preconditions:} & \multicolumn{2}{p{10cm}|}{None} \\ \hline
-    \textbf{Postconditions:} & \multicolumn{2}{p{10cm}|}{Customer account created.} \\ \hline
-    \multirow{5}{3cm}{\raggedright \textbf{Flow of the event:}} & \textbf{Actor} & \textbf{Application} \\ \cline{2-3}
-    & 1. The system displays the create account page. & 1. The application verifies userId. \\ \cline{2-3}
-    & 2. Users enter first name, second name, email, address, and password. & 2. The application creates the account.  \\ \cline{2-3}
-    & 3. Users submit entered details. & 3. The application notifies the customer that the account has been created.  \\ \cline{2-3}
-    & 4. Use case ends. &  \\ \hline
-    \multirow{4}{3cm}{\raggedright \textbf{Exceptions Flow:}} & \multicolumn{2}{p{10cm}|}{\raggedright E 1.0 If customer enters invalid Customer Account information} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 1.1 A display message will pop out “Data is invalid”.} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 2.0 If customer enters a username that already exists} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 2.1 A display message will pop out “Username already exists.”} \\ \hline
+    \textbf{Preconditions:} & \multicolumn{2}{p{10cm}|}{Enthusiast already created an account.} \\ \hline
+    \textbf{Postconditions:} & \multicolumn{2}{p{10cm}|}{Enthusiast logged in to the account.} \\ \hline
+    \multirow{4}{3cm}{\raggedright \textbf{Flow of the event:}} & \textbf{Actor} & \textbf{Application} \\ \cline{2-3}
+    & 1. The user enters details such as email address and password & 1. The system displays the login page. \\ \cline{2-3}
+    & 2. The user submits the entered email address and password. & 2. The system verifies the entered email address and password. \\ \cline{2-3}
+    & 3. Use case ends. & \\ \hline
+    \multirow{1}{3cm}{\raggedright \textbf{Exceptions Flow:}} 
+    & \multicolumn{2}{p{10cm}|}{\raggedright E 1.0 If the enthusiast enters invalid account details, a display message will pop out “Invalid Login”} \\ \hline
 \end{longtable}
 \pagebreak
 
