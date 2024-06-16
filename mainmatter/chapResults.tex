@@ -435,7 +435,7 @@ The use case diagram will help illustrate the interactions between the user and 
     \textbf{Preconditions:} & \multicolumn{2}{p{10cm}|}{Musician logged in to the account.} \\ \hline
     \textbf{Postconditions:} & \multicolumn{2}{p{10cm}|}{Musician viewed posts created by other musicians, as well as ratings and reviews by enthusiasts.} \\ \hline
     \multirow{5}{3cm}{\raggedright \textbf{Flow of the event:}} & \textbf{Actor} & \textbf{Application} \\ \cline{2-3}
-    & 1. The user clicked on the 'Feed' button on the home screen. & 1. The application displays all the posts from other musicians. \\ \cline{2-3}
+    & 1. The user clicked on the 'Feed' button on the home page. & 1. The application displays all the posts from other musicians. \\ \cline{2-3}
     & 2. The user clicks on any post. & 2. The application displays the post page with the ratings and reviews submitted by the enthusiasts.  \\ \cline{2-3}
     & 3. The user can clicked on the Spotify URL written in the description of the post. & 3. The application will redirect to the Spotify application to play the music. \\ \cline{2-3}
     & 4. Use case ends. & \\ \hline
@@ -452,14 +452,11 @@ The use case diagram will help illustrate the interactions between the user and 
     \textbf{Preconditions:} & \multicolumn{2}{p{10cm}|}{Musician logged in to the account.} \\ \hline
     \textbf{Postconditions:} & \multicolumn{2}{p{10cm}|}{Musicians viewed their own posts and can create their posts.} \\ \hline
     \multirow{5}{3cm}{\raggedright \textbf{Flow of the event:}} & \textbf{Actor} & \textbf{Application} \\ \cline{2-3}
-    & 1. The system displays the create account page. & 1. The application verifies userId. \\ \cline{2-3}
-    & 2. Users enter first name, second name, email, address, and password. & 2. The application creates the account.  \\ \cline{2-3}
-    & 3. Users submit entered details. & 3. The application notifies the customer that the account has been created.  \\ \cline{2-3}
+    & 1. The user clicked on the 'My Post' button on the home page. & 1. The application displays all the posts only by the musician. \\ \cline{2-3}
+    & 2. The user clicks on any post. & 2. The application displays the post page with the ratings and reviews submitted by the enthusiasts. \\ \cline{2-3}
+    & 3. The user can also edit or delete the post. & 3. The application updates or deletes the post selected by the user.  \\ \cline{2-3}
     & 4. Use case ends. &  \\ \hline
-    \multirow{4}{3cm}{\raggedright \textbf{Exceptions Flow:}} & \multicolumn{2}{p{10cm}|}{\raggedright E 1.0 If customer enters invalid Customer Account information} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 1.1 A display message will pop out “Data is invalid”.} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 2.0 If customer enters a username that already exists} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 2.1 A display message will pop out “Username already exists.”} \\ \hline
+    \multirow{1}{3cm}{\raggedright \textbf{Exceptions Flow:}} & \multicolumn{2}{p{10cm}|}{\raggedright E 1.0 The musician can create a new post by clicking on the 'Add Post' button.} \\ \hline
 \end{longtable}
 \pagebreak
 
@@ -490,7 +487,7 @@ The use case diagram will help illustrate the interactions between the user and 
     \textbf{Postconditions:} & \multicolumn{2}{p{10cm}|}{Enthusiast account created.} \\ \hline
     \multirow{5}{3cm}{\raggedright \textbf{Flow of the event:}} & \textbf{Actor} & \textbf{Application} \\ \cline{2-3}
     & 1. The system displays the Sign-Up page. & 1. The application verifies user details. \\ \cline{2-3}
-    & 2. Users enter full name, email address, password, and role as Enthusiast. & 2. The application creates the account.  \\ \cline{2-3}
+    & 2. Users enter their full name, email address, password, and role as Enthusiast. & 2. The application creates the account.  \\ \cline{2-3}
     & 3. Users submit entered details. & 3. The application notifies the enthusiast that the account has been created.  \\ \cline{2-3}
     & 4. Use case ends. &  \\ \hline
     \multirow{2}{3cm}{\raggedright \textbf{Exceptions Flow:}} 
