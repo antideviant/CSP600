@@ -363,7 +363,7 @@ The use case diagram will help illustrate the interactions between the user and 
     \cline{2-3}
      & View All Musician Post & Music enthusiasts can browse posts from all musicians. On each post, they have the option to submit their review and rating. They can also see reviews and ratings left by other music enthusiasts. \\
     \cline{2-3}
-     & View Favourite Musician Post & Any musician can be bookmarked or followed by music enthusiasts. There's also another page where users may see all posts from only their favourite musicians. \\
+     & View Favourite Musician Post & Any musician can be bookmarked or followed by music enthusiasts. There's also another page where users may see all posts from only their favorite musicians. \\
     \cline{2-3}
      & Logout & Music enthusiasts only need to log out of the mobile application to end their session. \\
     \hline
@@ -437,7 +437,7 @@ The use case diagram will help illustrate the interactions between the user and 
     \multirow{5}{3cm}{\raggedright \textbf{Flow of the event:}} & \textbf{Actor} & \textbf{Application} \\ \cline{2-3}
     & 1. The user clicked on the 'Feed' button on the home page. & 1. The application displays all the posts from other musicians. \\ \cline{2-3}
     & 2. The user clicks on any post. & 2. The application displays the post page with the ratings and reviews submitted by the enthusiasts.  \\ \cline{2-3}
-    & 3. The user can clicked on the Spotify URL written in the description of the post. & 3. The application will redirect to the Spotify application to play the music. \\ \cline{2-3}
+    & 3. The user can click on the Spotify URL written in the description of the post. & 3. The application will redirect to the Spotify application to play the music. \\ \cline{2-3}
     & 4. Use case ends. & \\ \hline
     \multirow{1}{3cm}{\raggedright \textbf{Exceptions Flow:}} & \multicolumn{2}{p{10cm}|}{\raggedright E 1.0 The musician can use the search bar to search for any other specific musicians.} \\ \hline
 \end{longtable}
@@ -540,15 +540,13 @@ The use case diagram will help illustrate the interactions between the user and 
     \textbf{Use Case:} & \multicolumn{2}{l|}{\includegraphics[width=0.5\linewidth]{mainmatter/images/sucd10.png}} \\ \hline
     \textbf{Preconditions:} & \multicolumn{2}{p{10cm}|}{Enthusiast logged in to the account.} \\ \hline
     \textbf{Postconditions:} & \multicolumn{2}{p{10cm}|}{Enthusiasts viewed all musician posts, view ratings and reviews of the post and can their own ratings and reviews.} \\ \hline
-    \multirow{5}{3cm}{\raggedright \textbf{Flow of the event:}} & \textbf{Actor} & \textbf{Application} \\ \cline{2-3}
-    & 1. The system displays the create account page. & 1. The application verifies userId. \\ \cline{2-3}
-    & 2. Users enter first name, second name, email, address, and password. & 2. The application creates the account.  \\ \cline{2-3}
-    & 3. Users submit entered details. & 3. The application notifies the customer that the account has been created.  \\ \cline{2-3}
-    & 4. Use case ends. &  \\ \hline
-    \multirow{4}{3cm}{\raggedright \textbf{Exceptions Flow:}} & \multicolumn{2}{p{10cm}|}{\raggedright E 1.0 If customer enters invalid Customer Account information} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 1.1 A display message will pop out “Data is invalid”.} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 2.0 If customer enters a username that already exists} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 2.1 A display message will pop out “Username already exists.”} \\ \hline
+    \multirow{4}{3cm}{\raggedright \textbf{Flow of the event:}} & \textbf{Actor} & \textbf{Application} \\ \cline{2-3}
+    & 1. The user views all the posts by all musicians on the 'Feed' page. & 1. The application displays all the posts created by musicians. \\ \cline{2-3}
+    & 2. The user can click on any post to view ratings and reviews of the post by other enthusiasts. & 2. The application displays all the ratings and reviews by other enthusiasts.  \\ \cline{2-3}
+    & 3. Use case ends. & \\ \hline
+    \multirow{3}{3cm}{\raggedright \textbf{Exceptions Flow:}} & \multicolumn{2}{p{10cm}|}{\raggedright E 1.0 The enthusiast can add rating and review for the post by clicking on the 'Add Review' button.} \\ \cline{2-3}
+    & \multicolumn{2}{p{10cm}|}{\raggedright E 1.1 By adding a new review, the enthusiast can also edit and delete the review created.} \\ \cline{2-3}
+    & \multicolumn{2}{p{10cm}|}{\raggedright E 2.0 The enthusiast can search posts by any musician by entering any musician's name in the search bar.} \\ \hline
 \end{longtable}
 \pagebreak
 
@@ -559,16 +557,14 @@ The use case diagram will help illustrate the interactions between the user and 
     \textbf{Actor:} & \multicolumn{2}{l|}{Enthusiast} \\ \hline
     \textbf{Use Case:} & \multicolumn{2}{l|}{\includegraphics[width=0.5\linewidth]{mainmatter/images/sucd11.png}} \\ \hline
     \textbf{Preconditions:} & \multicolumn{2}{p{10cm}|}{Enthusiast logged in to the account.} \\ \hline
-    \textbf{Postconditions:} & \multicolumn{2}{p{10cm}|}{Enthusiasts viewed favourite musician posts, favourite or follow musicians and can view all musician posts.} \\ \hline
-    \multirow{5}{3cm}{\raggedright \textbf{Flow of the event:}} & \textbf{Actor} & \textbf{Application} \\ \cline{2-3}
-    & 1. The system displays the create account page. & 1. The application verifies userId. \\ \cline{2-3}
-    & 2. Users enter first name, second name, email, address, and password. & 2. The application creates the account.  \\ \cline{2-3}
-    & 3. Users submit entered details. & 3. The application notifies the customer that the account has been created.  \\ \cline{2-3}
-    & 4. Use case ends. &  \\ \hline
-    \multirow{4}{3cm}{\raggedright \textbf{Exceptions Flow:}} & \multicolumn{2}{p{10cm}|}{\raggedright E 1.0 If customer enters invalid Customer Account information} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 1.1 A display message will pop out “Data is invalid”.} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 2.0 If customer enters a username that already exists} \\ \cline{2-3}
-    & \multicolumn{2}{p{10cm}|}{\raggedright E 2.1 A display message will pop out “Username already exists.”} \\ \hline
+    \textbf{Postconditions:} & \multicolumn{2}{p{10cm}|}{Enthusiasts viewed favorite musician posts, favorite or follow musicians and can view all musician posts.} \\ \hline
+    \multirow{6}{3cm}{\raggedright \textbf{Flow of the event:}} & \textbf{Actor} & \textbf{Application} \\ \cline{2-3}
+    & 1. The user views all the posts by all musicians on the 'Feed' page. & 1. The application displays all the posts created by musicians. \\ \cline{2-3}
+    & 2. The user can click on any profile picture on the post to view the musician's profile. & 2. The application displays the musician's profile.  \\ \cline{2-3}
+    & 3. The user can favorite or bookmark any musician by clicking the 'bookmark' button. & 3. The application stores the bookmarked musician for the enthusiast. \\ \cline{2-3}
+    & 4. The user can view all favorited musicians’ posts by clicking on the 'Favourite' button. & 4. The application displays all favorited musicians’ posts. \\ \cline{2-3}
+    & 5. Use case ends. & \\ \hline
+    \multirow{1}{3cm}{\raggedright \textbf{Exceptions Flow:}} & \multicolumn{2}{p{10cm}|}{\raggedright E 2.0 The enthusiast can search posts by any musician by entering any musician's name in the search bar.} \\ \hline
 \end{longtable}
 \pagebreak
 
