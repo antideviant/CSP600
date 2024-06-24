@@ -675,7 +675,22 @@ The use case diagram will help illustrate the interactions between the user and 
 \subsection{System Testing}
 \begin{enumerate}[A.]
     \item \textbf{User Testing Activities} \\
+    User testing is an essential element of the product development process, aiming to collect feedback from users to improve the product's effectiveness and overall user experience. The System Usability Scale (SUS) is a widely used and efficient tool for doing user testing. The System Usability Scale (SUS) is a standardized questionnaire that is employed to assess the usability of various goods, such as websites, software programs, and physical equipment. This method is efficient and dependable for measuring customer happiness and discovering design problems in a product. \\
+
+    User testing is performed to evaluate the acceptability and suitability of the Alunan mobile application for the online community and music discovery of local musicians. This evaluation focuses on user engagement, the effectiveness of the developed features, the application's user-friendliness, and the users' level of interest in utilizing it. Furthermore, user input can provide valuable developer insight. During the testing phase, evaluators are categorized into two groups: Musicians and Music Enthusiasts. Only individuals aged 18 or older will assess the functioning and usability of the Alunan mobile application. Once the respondents had utilized the application, they were given ten System Usability Scale (SUS) questions specifically related to the Alunan mobile application.
+    \pagebreak
+
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=1.0\linewidth]{mainmatter/images/storyboard.png}
+        \caption{Storyboard for Alunan Mobile Application}
+        \label{fig:myfig42}
+    \end{figure}
+    \pagebreak
+
     \item \textbf{User Testing Results} \\
+    The Alunan mobile application will be evaluated for usability using the System Usability Scale (SUS) in this project. The SUS consists of 10 questions that evaluate usability. After the application testing was finished, around 12 users, mostly musicians and music enthusiasts, took part in SUS evaluations. Table 4.21 presents an outline of the SUS questionnaire that was given to the participants. The SUS form utilizes a scale range outlined in Table 4.22, which ranges from 1 for "Strongly Disagree" to 5 for "Strongly Agree". Table 4.23 and Table 4.24 display the findings for both Musicians and Music Enthusiasts. Furthermore, Table 4.25 displays the SUS adjective ratings assigned after calculating each user's feedback score. The form is generated using Google Forms, while the results are arranged and calculated using Google Spreadsheet. \\
+    
     \begin{table}[htb]
     \caption{SUS Questionnaire for Alunan Mobile Application}
     \label{tab:mytable}
@@ -715,8 +730,6 @@ The use case diagram will help illustrate the interactions between the user and 
     \end{tabular}
     \end{table}
 
-    Insert SUS calculations here.
-
     \begin{table}[h]
     \centering
     \caption{SUS Score Results (Musicians)}
@@ -724,35 +737,35 @@ The use case diagram will help illustrate the interactions between the user and 
     \hline
     \textbf{Question} & \textbf{User 1} & \textbf{User 2} & \textbf{User 3} & \textbf{User 4} & \textbf{User 5} \\
     \hline
-    \textbf{1} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{1} & 4 & 5 & 5 & 0 & 0 \\
     \hline
-    \textbf{2} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{2} & 2 & 2 & 1 & 0 & 0 \\
     \hline
-    \textbf{3} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{3} & 4 & 4 & 5 & 0 & 0 \\
     \hline
-    \textbf{4} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{4} & 1 & 2 & 1 & 0 & 0 \\
     \hline
-    \textbf{5} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{5} & 4 & 5 & 5 & 0 & 0 \\
     \hline
-    \textbf{6} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{6} & 2 & 1 & 1 & 0 & 0 \\
     \hline
-    \textbf{7} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{7} & 4 & 4 & 5 & 0 & 0 \\
     \hline
-    \textbf{8} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{8} & 2 & 3 & 1 & 0 & 0 \\
     \hline
-    \textbf{9} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{9} & 5 & 5 & 5 & 0 & 0 \\
     \hline
-    \textbf{10} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{10} & 1 & 1 & 1 & 0 & 0 \\
     \hline
-    \textbf{\parbox[c]{5cm}{\vspace{0.2cm}X = (Sum of Odd Numbered \\Questions) - 5 \vspace{0.2cm}}} & 10-10=0 & 10-10=0 & 10-10=0 & 10-10=0 & 10-10=0 \\
+    \textbf{\parbox[c]{5cm}{\vspace{0.2cm}X = (Sum of Odd Numbered \\Questions) - 5 \vspace{0.2cm}}} & 21-5=16 & 23-5=18 & 25-5=20 & 20-5=0 & 20-5=0 \\
     \hline
-    \textbf{\parbox[c]{5cm}{\vspace{0.2cm}Y = 25 - (Sum of Even \\Numbered Questions) \vspace{0.2cm}}} & 10-10=0 & 10-10=0 & 10-10=0 & 10-10=0 & 10-10=0 \\
+    \textbf{\parbox[c]{5cm}{\vspace{0.2cm}Y = 25 - (Sum of Even \\Numbered Questions) \vspace{0.2cm}}} & 25-8=17 & 25-9=16 & 25-5=20 & 25-0=0 & 25-0=0 \\
     \hline
-    \textbf{\parbox[c]{5cm}{\vspace{0.2cm}SUS Score = (X + Y) x 2.5 \vspace{0.2cm}}} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{\parbox[c]{5cm}{\vspace{0.2cm}SUS Score = (X + Y) x 2.5 \vspace{0.2cm}}} & 82.5 & 85 & 100 & 0 & 0 \\
     \hline
     \end{tabular}
     \end{table}
-
+    
     \begin{table}[h]
     \centering
     \caption{SUS Score Results (Music Enthusiasts)}
@@ -760,34 +773,36 @@ The use case diagram will help illustrate the interactions between the user and 
     \hline
     \textbf{Question} & \textbf{User 1} & \textbf{User 2} & \textbf{User 3} & \textbf{User 4} & \textbf{User 5} \\
     \hline
-    \textbf{1} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{1} & 4 & 0 & 0 & 0 & 0 \\
     \hline
-    \textbf{2} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{2} & 2 & 0 & 0 & 0 & 0 \\
     \hline
-    \textbf{3} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{3} & 4 & 0 & 0 & 0 & 0 \\
     \hline
-    \textbf{4} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{4} & 2 & 0 & 0 & 0 & 0 \\
     \hline
-    \textbf{5} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{5} & 4 & 0 & 0 & 0 & 0 \\
     \hline
-    \textbf{6} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{6} & 2 & 0 & 0 & 0 & 0 \\
     \hline
-    \textbf{7} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{7} & 4 & 0 & 0 & 0 & 0 \\
     \hline
-    \textbf{8} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{8} & 2 & 0 & 0 & 0 & 0 \\
     \hline
-    \textbf{9} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{9} & 4 & 0 & 0 & 0 & 0 \\
     \hline
-    \textbf{10} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{10} & 2 & 0 & 0 & 0 & 0 \\
     \hline
-    \textbf{\parbox[c]{5cm}{\vspace{0.2cm}X = (Sum of Odd Numbered \\Questions) - 5 \vspace{0.2cm}}} & 10-10=0 & 10-10=0 & 10-10=0 & 10-10=0 & 10-10=0 \\
+    \textbf{\parbox[c]{5cm}{\vspace{0.2cm}X = (Sum of Odd Numbered \\Questions) - 5 \vspace{0.2cm}}} & 20-5=15 & 20-5=0 & 20-5=0 & 20-5=0 & 20-5=0 \\
     \hline
-    \textbf{\parbox[c]{5cm}{\vspace{0.2cm}Y = 25 - (Sum of Even \\Numbered Questions) \vspace{0.2cm}}} & 10-10=0 & 10-10=0 & 10-10=0 & 10-10=0 & 10-10=0 \\
+    \textbf{\parbox[c]{5cm}{\vspace{0.2cm}Y = 25 - (Sum of Even \\Numbered Questions) \vspace{0.2cm}}} & 25-10=15 & 25-0=0 & 25-0=0 & 25-0=0 & 25-0=0 \\
     \hline
-    \textbf{\parbox[c]{5cm}{\vspace{0.2cm}SUS Score = (X + Y) x 2.5 \vspace{0.2cm}}} & 0 & 0 & 0 & 0 & 0 \\
+    \textbf{\parbox[c]{5cm}{\vspace{0.2cm}SUS Score = (X + Y) x 2.5 \vspace{0.2cm}}} & 75 & 0 & 0 & 0 & 0 \\
     \hline
     \end{tabular}
     \end{table}
+
+    \clearpage
 
     \begin{table}[h]
     \centering
@@ -808,70 +823,6 @@ The use case diagram will help illustrate the interactions between the user and 
     \hline
     \end{tabular}
     \end{table}
+
+    Based on the data provided in both Table 4.23 and Table 4.24, the SUS Score Results show positive feedback for the Alunan mobile application. The System Usability Scale (SUS) test produced an average score of 00.0, suggesting that participants held a positive perception of the product's effectiveness. The score surpasses the average SUS score of around 68, suggesting that users' experiences with the mobile application were generally favorable. Every participant offered individual input, with a significant number of them highlighting the smooth integration and user-friendly aspect of the interface. Although certain areas for enhancement were identified, participants generally reported contentment with the application's usefulness. The results are particularly promising, as they demonstrate that the system is on track to fulfill user expectations and requirements. These data indicate that users are experiencing enjoyment while using the Alunan mobile application, which implies exciting possibilities for future enhancements.
 \end{enumerate}
-
-%% An example of a long table + landscape orientation
-\begin{landscape}
-
-\begin{longtable}{c|c|c|c|c|c} % Need to have 6 c's if there are 6 columns
-\caption{A long table.} \label{tab:alongtablelandscape} \\
-
-% header for 1st page
-\hline\multicolumn{1}{c|}{\textbf{First column}} &
- \multicolumn{1}{c|}{\textbf{Second column}} &
- \multicolumn{1}{c|}{\textbf{Third column}} &
- \multicolumn{1}{c|}{\textbf{Forth column}} & 
- \multicolumn{1}{c|}{\textbf{Fifth column}} & 
- \multicolumn{1}{c}{\textbf{Last column}}
- \\ \hline 
-\endfirsthead
-
-% What to say at the beginning of the table on the next page, if more than 1 pages.
-% Change 6 to the number of columns.
-% Comment out these two lines if not needed.
-\multicolumn{6}{c}%
-{{\bfseries \tablename\ \thetable{} -- continued from previous page}} \\
-
-% header if more than 1 pages.
-\hline \multicolumn{1}{c|}{\textbf{First column}} & \multicolumn{1}{c|}{\textbf{Second column}} & \multicolumn{1}{c}{\textbf{Third column}} \\ \hline
-
-%DO NOT REMOVE THIS LINE
-\endhead
-
-% What to say at the end of the table, if more than 1 pages.
-% Change 6 to the number of columns.
-% Comment out this line if not needed.
-\hline \multicolumn{6}{|r|}{{Continued on next page}} \\ \hline
-
-%DO NOT REMOVE THIS LINE
-\endfoot
-
-% repeat \hline if require more than one line at the end of the table
-\hline
-\endlastfoot
-
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901223532523 2334235235 & 2334235235 abcdefghijkl 123456\\ \hline
-One & Two & 10.2345667890122 & a & 8901222r24234 2334235235 & 2334232235 abcdefghijkl 123456\\
-\end{longtable}
-
-\end{landscape}
-
-\lipsum[1]
