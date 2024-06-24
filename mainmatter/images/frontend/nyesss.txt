@@ -1,0 +1,23 @@
+1.Front Page (index_app)
+2.Login-Signup (index)
+3.Forgot Password
+4.Information Page
+5.Sign Out
+6.User Profile (Musician-Enthusiast) profile.php, e-profile.php
+7.Update User Profile (Musician-Enthusiast) profile-edit.php, e-profile-edit.php
+8.Main Page (Musician) main.php
+9.Feed (Musician) feed.php
+10.Musician Profile (Musician) m-mprofile.php
+11.Review (Musician) m-review.php
+12.My Post (Musician) post.php
+13.Edit-Delete Post (Musician) post-edit.php
+14.Add Post (Musician) post-edit.php
+15.Main Page (Enthusiast) e-main.php
+16.Feed (Enthusiast) e-post.php
+17.Musician Profile (Enthusiast) e-mprofile.php
+18.Review (Enthusiast) e-review.php
+19.Edit-Delete Review (Enthusiast) e-review-edit.php
+20.Add Review (Enthusiast) e-review-add.php
+21.My Review (Enthusiast) e-myreview.php
+22.Favourite (Enthusiast) e-favourite.php
+23.Musicians (Enthusiast) e-allmusician.php
